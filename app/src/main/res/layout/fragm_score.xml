@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/layout_A"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="64dp"
+            android:background="@drawable/round_corner_border"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <TextView
+                android:id="@+id/txt_teamA"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="Takım A"
+                android:textColor="@color/colorBlack"
+                android:textSize="22sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/txt_trueA"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="8dp"
+                android:text="Turdakı Doğru Sayısı : "
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="@+id/txt_teamA"
+                app:layout_constraintStart_toStartOf="@+id/txt_teamA"
+                app:layout_constraintTop_toBottomOf="@+id/txt_teamA" />
+
+            <TextView
+                android:id="@+id/txt_falseA"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="Turdaki Yanlış Sayısı : "
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="@+id/txt_trueA"
+                app:layout_constraintStart_toStartOf="@+id/txt_trueA"
+                app:layout_constraintTop_toBottomOf="@+id/txt_trueA" />
+
+            <TextView
+                android:id="@+id/txt_scoreA"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:text="Toplam Skor : "
+                android:textSize="18sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="@+id/txt_falseA"
+                app:layout_constraintStart_toStartOf="@+id/txt_falseA"
+                app:layout_constraintTop_toBottomOf="@+id/txt_falseA" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/layout_B"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:background="@drawable/round_corner_border"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/layout_A">
+
+            <TextView
+                android:id="@+id/txt_teamB"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="Takım B"
+                android:textColor="@color/colorBlack"
+                android:textSize="22sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/txt_trueB"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="8dp"
+                android:text="Turdakı Doğru Sayısı : "
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="@+id/txt_teamB"
+                app:layout_constraintStart_toStartOf="@+id/txt_teamB"
+                app:layout_constraintTop_toBottomOf="@+id/txt_teamB" />
+
+            <TextView
+                android:id="@+id/txt_falseB"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="Turdaki Yanlış Sayısı : "
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="@+id/txt_trueB"
+                app:layout_constraintStart_toStartOf="@+id/txt_trueB"
+                app:layout_constraintTop_toBottomOf="@+id/txt_trueB" />
+
+            <TextView
+                android:id="@+id/txt_scoreB"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:text="Toplam Skor : "
+                android:textSize="18sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="@+id/txt_falseB"
+                app:layout_constraintStart_toStartOf="@+id/txt_falseB"
+                app:layout_constraintTop_toBottomOf="@+id/txt_falseB" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <Button
+            android:id="@+id/btn_continue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:background="@drawable/roundcorner"
+            android:text="Devam Et"
+            android:textColor="#414a4c"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/layout_B"
+            app:layout_constraintStart_toStartOf="@+id/layout_B"
+            app:layout_constraintTop_toBottomOf="@+id/layout_B"
+            app:layout_constraintVertical_bias="0.35" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</layout>

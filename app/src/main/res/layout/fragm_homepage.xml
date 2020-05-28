@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <ImageView
+            android:id="@+id/img_icon"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="32dp"
+            android:src="@drawable/logo_transparent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/layout_menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/img_icon"
+            app:layout_constraintStart_toStartOf="@+id/img_icon"
+            app:layout_constraintTop_toBottomOf="@+id/img_icon"
+            app:layout_constraintVertical_bias="0.35">
+
+            <ImageView
+                android:id="@+id/img_play_back"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@drawable/homepage_icon_play_border"
+                app:layout_constraintStart_toStartOf="@+id/layout_menu"
+                app:layout_constraintTop_toTopOf="@+id/layout_menu">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/img_play"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/play"
+                app:layout_constraintBottom_toBottomOf="@+id/img_play_back"
+                app:layout_constraintEnd_toEndOf="@+id/img_play_back"
+                app:layout_constraintStart_toStartOf="@+id/img_play_back"
+                app:layout_constraintTop_toTopOf="@+id/img_play_back"></ImageView>
+
+            <ImageView
+                android:id="@+id/img_score_back"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@drawable/homepage_icon_games_border"
+                app:layout_constraintStart_toEndOf="@+id/img_play_back"
+                app:layout_constraintTop_toTopOf="@+id/img_play_back">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/img_score"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/games"
+                app:layout_constraintBottom_toBottomOf="@+id/img_score_back"
+                app:layout_constraintEnd_toEndOf="@+id/img_score_back"
+                app:layout_constraintStart_toStartOf="@+id/img_score_back"
+                app:layout_constraintTop_toTopOf="@+id/img_score_back">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/img_settings_back"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@drawable/homepage_icon_settings_border"
+                app:layout_constraintStart_toStartOf="@+id/img_play_back"
+                app:layout_constraintTop_toBottomOf="@+id/img_play_back">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/img_settings"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/setting"
+                app:layout_constraintBottom_toBottomOf="@+id/img_settings_back"
+                app:layout_constraintEnd_toEndOf="@+id/img_settings_back"
+                app:layout_constraintStart_toStartOf="@+id/img_settings_back"
+                app:layout_constraintTop_toTopOf="@+id/img_settings_back">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/img_help_back"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@drawable/homepage_icon_info_border"
+                app:layout_constraintStart_toEndOf="@+id/img_settings_back"
+                app:layout_constraintTop_toTopOf="@+id/img_settings_back">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/img_help"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/info"
+                app:layout_constraintBottom_toBottomOf="@+id/img_help_back"
+                app:layout_constraintEnd_toEndOf="@+id/img_help_back"
+                app:layout_constraintStart_toStartOf="@+id/img_help_back"
+                app:layout_constraintTop_toTopOf="@+id/img_help_back">
+
+            </ImageView>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            ads:adSize="SMART_BANNER"
+            ads:adUnitId="@string/banner_ad_unit_id"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.494"
+            app:layout_constraintStart_toStartOf="parent">
+        </com.google.android.gms.ads.AdView>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

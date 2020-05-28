@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="utf-8"?>
+<group>
+    <kelimeler kelime="MUHTAÇ" yasak1="İHTİYAÇ" yasak2="YOKSUL" yasak3="YARDIM" yasak4="FAKİR" yasak5="ACİZ" />
+    <kelimeler kelime="ATOM BOMBASI" yasak1="ÇEKİRDEK" yasak2="HİROŞİMA" yasak3="PATLAMAK" yasak4="NAGAZAKİ" yasak5="NÜKLEER" />
+    <kelimeler kelime="İNTİKAM" yasak1="KÖTÜLÜK" yasak2="ALMAK" yasak3="KARŞILIK" yasak4="SOĞUK" yasak5="YEMEK" />
+    <kelimeler kelime="KIZGIN" yasak1="DEMİR" yasak2="SICAK" yasak3="ISINMAK" yasak4="YAĞ" yasak5="ÖFKELİ" />
+    <kelimeler kelime="TAVLA" yasak1="ZAR" yasak2="DÜŞEŞ" yasak3="MARS" yasak4="KAPI" yasak5="OYUN" />
+    <kelimeler kelime="GOOGLE" yasak1="ARAMA MOTORU" yasak2="BİLGİSAYAR" yasak3="İNTERNET" yasak4="SİTE" yasak5="SAYFA" />
+    <kelimeler kelime="BILL GATES" yasak1="MICROSOFT" yasak2="BİLGİSAYAR" yasak3="WINDOWS" yasak4="ZENGİN" yasak5="YAZILIM" />
+    <kelimeler kelime="OKEY" yasak1="ZAR" yasak2="ISTAKA" yasak3="TAŞ" yasak4="4 KİŞİ" yasak5="OYUN" />
+    <kelimeler kelime="HASTANE" yasak1="İLAÇ" yasak2="HASTA" yasak3="DOKTOR" yasak4="HEMŞİRE" yasak5="REÇETE" />
+    <kelimeler kelime="REÇETE" yasak1="DOKTOR" yasak2="ECZANE" yasak3="İMZA" yasak4="İLAÇ" yasak5="HASTANE" />
+    <kelimeler kelime="AKREP" yasak1="BURÇ" yasak2="SAAT" yasak3="YELKOVAN" yasak4="ZAMAN" yasak5="İBRE" />
+    <kelimeler kelime="EV" yasak1="ODA" yasak2="SALON" yasak3="YAŞAMAK" yasak4="YUVA" yasak5="AİLE" />
+    <kelimeler kelime="SİRKE" yasak1="BİT" yasak2="KESKİN" yasak3="SALATA" yasak4="ÜZÜM" yasak5="ELMA" />
+    <kelimeler kelime="SOYKIRIM" yasak1="YIKIM" yasak2="YOK ETMEK" yasak3="ORTADAN KALDIRMAK" yasak4="ŞİDDET" yasak5="ERMENİ" />
+    <kelimeler kelime="TRAVMA" yasak1="RUHSAL" yasak2="BEYİN" yasak3="BİLİNÇ" yasak4="SARSINTI" yasak5="YARALANMAK" />
+    <kelimeler kelime="KASET" yasak1="KAYIT" yasak2="ÇALMAK" yasak3="VİDEO" yasak4="MÜZİK" yasak5="SARMAK" />
+    <kelimeler kelime="GÜNEŞ TUTULMASI" yasak1="KARARMAK" yasak2="AY" yasak3="ARA" yasak4="GÖLGE" yasak5="DÜNYA" />
+    <kelimeler kelime="KEYİF" yasak1="ALKOL" yasak2="RAHATLIK" yasak3="DÜŞKÜN" yasak4="ZEVK" yasak5="VERMEK" />
+    <kelimeler kelime="KÖSELE" yasak1="SERT" yasak2="AYAKKABI" yasak3="TABAN" yasak4="DERİ" yasak5="KALIN" />
+    <kelimeler kelime="BİTLENMEK" yasak1="SAÇ" yasak2="PİRE" yasak3="KAŞINMAK" yasak4="AYIKLAMAK" yasak5="GAZ YAĞI" />
+    <kelimeler kelime="TRİP" yasak1="ATMAK" yasak2="KIZ" yasak3="TAVIR" yasak4="YAPMAK" yasak5="KÜSMEK" />
+    <kelimeler kelime="ÇAY" yasak1="DEMLEMEK" yasak2="MEŞRUBAT" yasak3="KIRAATHANE" yasak4="KARADENİZ" yasak5="DEMLİK" />
+    <kelimeler kelime="STAJYER" yasak1="ÖĞRENME" yasak2="ÇALIŞMA" yasak3="UYGULAMA" yasak4="TECRÜBE" yasak5="ÖĞRENCİ" />
+    <kelimeler kelime="BİLGİSAYAR" yasak1="FARE" yasak2="EKRAN" yasak3="KASA" yasak4="KLAVYE" yasak5="İŞLEMCİ" />
+    <kelimeler kelime="TÜRKİYE" yasak1="VATAN" yasak2="ATATÜRK" yasak3="ÜLKE" yasak4="ANKARA" yasak5="CUMHURİYET" />
+    <kelimeler kelime="GÜNAH" yasak1="İŞLEMEK" yasak2="SEVAP" yasak3="DİN" yasak4="CEHENNEM" yasak5="ŞEYTAN" />
+    <kelimeler kelime="PLAZMA" yasak1="MADDE" yasak2="GAZ" yasak3="HAL" yasak4="LCD" yasak5="TELEVİZYON" />
+    <kelimeler kelime="SİNEMA" yasak1="BİLET" yasak2="VİZYON" yasak3="FİLM" yasak4="3D" yasak5="GİŞE" />
+    <kelimeler kelime="GÖKKUŞAĞI" yasak1="KIRILMA" yasak2="7 RENK" yasak3="BULUT" yasak4="YAĞMUR" yasak5="ÇIKMAK" />
+    <kelimeler kelime="KAZIM KOYUNCU" yasak1="ŞARKICI" yasak2="KARADENİZ" yasak3="İŞTE GİDİYORUM" yasak4="ARTVİN" yasak5="KANSER" />
+    <kelimeler kelime="DEMO" yasak1="YAZILIM" yasak2="DENEME" yasak3="VERSİYON" yasak4="SÜRÜM" yasak5="ŞARKI" />
+    <kelimeler kelime="BUG" yasak1="YAZILIM" yasak2="HATA" yasak3="ÇÖZMEK" yasak4="BULMAK" yasak5="OYUN" />
+    <kelimeler kelime="ZOMBİ" yasak1="THE WALKING DEAD" yasak2="YARATIK" yasak3="CESET" yasak4="HORTLAK" yasak5="ÖLÜ" />
+    <kelimeler kelime="GÖZLÜK" yasak1="CAM" yasak2="GÖZ" yasak3="ÇERÇEVE" yasak4="TAKMAK" yasak5="3D" />
+    <kelimeler kelime="TELEFON" yasak1="ŞEBEKE" yasak2="GSM" yasak3="BAKİYE" yasak4="HAT" yasak5="FATURA" />
+    <kelimeler kelime="SKYPE" yasak1="GÖRÜNTÜLÜ" yasak2="GÖRÜŞME" yasak3="MESAJLAŞMA" yasak4="PROGRAM" yasak5="BİLGİSAYAR" />
+    <kelimeler kelime="DEDİKODU" yasak1="GIYBET" yasak2="KADIN" yasak3="GÜN" yasak4="KONUŞMAK" yasak5="YAPMAK" />
+    <kelimeler kelime="ARSA" yasak1="YER" yasak2="ALAN" yasak3="YAPI" yasak4="TARLA" yasak5="YAPMAK" />
+    <kelimeler kelime="SAÇ" yasak1="FÖN" yasak2="KUAFÖR" yasak3="BERBER" yasak4="KESTİRMEK" yasak5="BOYATMAK" />
+    <kelimeler kelime="BİLİNÇ" yasak1="ŞUUR" yasak2="TANIMA" yasak3="BİLGİ" yasak4="GÖRÜŞ" yasak5="TEMEL" />
+    <kelimeler kelime="KALABALIK" yasak1="ÇOK" yasak2="TOPLULUK" yasak3="İNSAN" yasak4="KARGAŞA" yasak5="AŞIRI" />
+    <kelimeler kelime="KEK" yasak1="YEMEK" yasak2="PASTA" yasak3="TOP" yasak4="HAMUR" yasak5="KALIP" />
+    <kelimeler kelime="HAMAK" yasak1="SALLANMAK" yasak2="YATMAK" yasak3="SALINCAK" yasak4="YATAK" yasak5="AĞ" />
+    <kelimeler kelime="LEHÇE" yasak1="DİL" yasak2="BİLİM" yasak3="ŞİVE" yasak4="AĞIZ" yasak5="EDEBİYAT" />
+    <kelimeler kelime="MUTASYON" yasak1="DEĞİŞİM" yasak2="EVRİM" yasak3="FARKLI" yasak4="GEÇİRMEK" yasak5="GEN" />
+    <kelimeler kelime="SÜT LİMAN" yasak1="SAKİN" yasak2="SESSİZ" yasak3="HUZURLU" yasak4="DURGUN" yasak5="OLAY" />
+    <kelimeler kelime="ŞATAFAT" yasak1="GÖRKEM" yasak2="GÖSTERİŞLİ" yasak3="İHTİŞAM" yasak4="HAŞMET" yasak5="ÇARPICI" />
+    <kelimeler kelime="UZAK DURMAK" yasak1="YAKLAŞMAMAK" yasak2="İSTEMEMEK" yasak3="MESAFE" yasak4="KOYMAK" yasak5="YAKIN" />
+    <kelimeler kelime="DENEY" yasak1="KİMYA" yasak2="LABORATUVAR" yasak3="FARE" yasak4="BİLİM" yasak5="TÜP" />
+    <kelimeler kelime="PÜSKÜL" yasak1="SAÇAK" yasak2="İP" yasak3="SÜS" yasak4="FES" yasak5="MISIR" />
+    <kelimeler kelime="BEDDUA" yasak1="KÖTÜLÜK" yasak2="TUTMAK" yasak3="ALMAK" yasak4="ETMEK" yasak5="BELA" />
+    <kelimeler kelime="DÖNME DOLAP" yasak1="LUNAPARK" yasak2="YÜKSEK" yasak3="ÇOCUK" yasak4="EĞLENCE" yasak5="OTURMAK" />
+    <kelimeler kelime="METRES" yasak1="KARI-KOCA" yasak2="ALDATMAK" yasak3="EVLİ" yasak4="YASAK" yasak5="İLİŞKİ" />
+    <kelimeler kelime="FAX" yasak1="ÇEKMEK" yasak2="GÖNDERMEK" yasak3="YAZI" yasak4="KAĞIT" yasak5="FOTOKOPİ" />
+    <kelimeler kelime="GAZİ" yasak1="SAVAŞ" yasak2="YARALANMAK" yasak3="ŞEHİT" yasak4="MADALYA" yasak5="ATATÜRK" />
+    <kelimeler kelime="VEKTÖR" yasak1="YÖN" yasak2="FİZİK" yasak3="SKALER" yasak4="ÇİZMEK" yasak5="DOĞRU" />
+    <kelimeler kelime="SİRKÜLASYON" yasak1="DOLAŞIM" yasak2="GAZETE" yasak3="DEVİR DAİM" yasak4="HAVA" yasak5="TİRAJ" />
+    <kelimeler kelime="YARDIM" yasak1="BAĞIŞ" yasak2="DESTEK" yasak3="KIZILAY" yasak4="İLK" yasak5="ETMEK" />
+    <kelimeler kelime="KUŞAK" yasak1="BEL" yasak2="SARMAK" yasak3="BAĞ" yasak4="KÜRE" yasak5="SİYAH" />
+    <kelimeler kelime="VENEDİK" yasak1="GONDOL" yasak2="ÜLKE" yasak3="SU" yasak4="İTALYA" yasak5="YÜZMEK" />
+    <kelimeler kelime="SELÜLİT" yasak1="BACAK" yasak2="KADIN" yasak3="CİLT" yasak4="YAĞ" yasak5="PORTAKAL" />
+    <kelimeler kelime="NORM" yasak1="KURAL" yasak2="YERLEŞMİŞ" yasak3="İLKE" yasak4="YASA" yasak5="DÜZEN" />
+    <kelimeler kelime="ALT" yasak1="ÜST" yasak2="YER" yasak3="TABAN" yasak4="DERECE" yasak5="SINIF" />
+    <kelimeler kelime="ABONE" yasak1="YONCA EVCİMİK" yasak2="OLMAK" yasak3="ÜYE" yasak4="GAZETE" yasak5="DERGİ" />
+    <kelimeler kelime="TEZGAH" yasak1="KURMAK" yasak2="MASA" yasak3="MUTFAK" yasak4="SATICI" yasak5="BÜFE" />
+    <kelimeler kelime="EFSANE" yasak1="HAYALİ" yasak2="YARADILIŞ" yasak3="ÖYKÜ" yasak4="ABARTMAK" yasak5="SÖYLENCE" />
+    <kelimeler kelime="İMLA" yasak1="KURAL" yasak2="YAZIM" yasak3="HATA" yasak4="DİL BİLGİSİ" yasak5="TERİM" />
+    <kelimeler kelime="SAKAL" yasak1="KIL" yasak2="YÜZ" yasak3="TIRAŞ" yasak4="KESMEK" yasak5="TOP" />
+    <kelimeler kelime="BARBAR" yasak1="KABA" yasak2="İLKEL" yasak3="KIRICI" yasak4="UYGARLAŞMA" yasak5="AKIN" />
+    <kelimeler kelime="FABL" yasak1="MASAL" yasak2="HAYVAN" yasak3="HİKAYE" yasak4="ÖYKÜ" yasak5="DERS" />
+    <kelimeler kelime="HAKİ" yasak1="RENK" yasak2="YEŞİL" yasak3="KAHVERENGİ" yasak4="ÇALMAK" yasak5="KAÇMAK" />
+    <kelimeler kelime="LATİN AMERİKA" yasak1="GÜNEY" yasak2="KITA" yasak3="BREZİLYA" yasak4="ÜLKE" yasak5="ARJANTİN" />
+    <kelimeler kelime="DEFİNE" yasak1="HARİTA" yasak2="PARA" yasak3="ALTIN" yasak4="ADA" yasak5="SANDIK" />
+    <kelimeler kelime="İPUCU" yasak1="İZ" yasak2="EMARE" yasak3="VERMEK" yasak4="DEDEKTİF" yasak5="SIR" />
+    <kelimeler kelime="ALTIN" yasak1="TAKMAK" yasak2="DEĞERLİ" yasak3="KUYUMCU" yasak4="SARRAF" yasak5="ÇEYREK" />
+    <kelimeler kelime="AÇISAL HIZ" yasak1="VEKTÖREL" yasak2="FİZİK" yasak3="HAREKET" yasak4="DAİRESEL" yasak5="TARAMAK" />
+    <kelimeler kelime="SÜZMEK" yasak1="AYIRMAK" yasak2="SIVI" yasak3="MAKARNA" yasak4="KATI" yasak5="SU" />
+    <kelimeler kelime="KABAKULAK" yasak1="HASTALIK" yasak2="İLTİHAP" yasak3="ŞİŞMEK" yasak4="BEZ" yasak5="TÜKÜRÜK" />
+    <kelimeler kelime="KÜF" yasak1="EKMEK" yasak2="YEŞİL" yasak3="MANTAR" yasak4="BAKTERİ" yasak5="KURT" />
+    <kelimeler kelime="ANATOMİ" yasak1="VÜCUT" yasak2="SİSTEM" yasak3="İNCELEMEK" yasak4="ORGAN" yasak5="DİŞ" />
+    <kelimeler kelime="KARL MARX" yasak1="SOSYALİZM" yasak2="KOMÜNİZM" yasak3="FELSEFE" yasak4="MANİFESTO" yasak5="KAPİTAL" />
+    <kelimeler kelime="HALAY ÇEKMEK" yasak1="DÜĞÜN" yasak2="OYNAMAK" yasak3="MENDİL" yasak4="BAŞ" yasak5="MAHMUT TUNCER" />
+    <kelimeler kelime="FOTOKOPİ" yasak1="KOPYA" yasak2="MAKİNE" yasak3="FAX" yasak4="ÇEKMEK" yasak5="KIRTASİYE" />
+    <kelimeler kelime="BARKOD" yasak1="ÜRÜN" yasak2="FİYAT" yasak3="İMZA" yasak4="ÇİZGİ" yasak5="ALT" />
+    <kelimeler kelime="ODAK" yasak1="OPTİK" yasak2="IŞIK" yasak3="KAYNAK" yasak4="TOPLANMAK" yasak5="MİHRAK" />
+    <kelimeler kelime="MAKAS" yasak1="KUMAŞ" yasak2="KESMEK" yasak3="NİŞAN" yasak4="KAĞIT" yasak5="TERZİ" />
+    <kelimeler kelime="ELİ AĞIR" yasak1="YAVAŞ" yasak2="YAPMAK" yasak3="ÇABUK" yasak4="HIZLI" yasak5="VURMAK" />
+    <kelimeler kelime="İKSİR" yasak1="SIVI" yasak2="BÜYÜLÜ" yasak3="OLAĞANÜSTÜ" yasak4="GENÇLİK" yasak5="YAŞAM" />
+    <kelimeler kelime="MEZE" yasak1="YEMEK" yasak2="İÇKİ" yasak3="MEYHANE" yasak4="EZME" yasak5="YAPMAK" />
+    <kelimeler kelime="İMA ETMEK" yasak1="ANLAM" yasak2="İZ" yasak3="DURUM" yasak4="DAVRANIŞ" yasak5="ALAMET" />
+    <kelimeler kelime="MÜHİMMAT" yasak1="DEPO" yasak2="SAVAŞ" yasak3="SİLAH" yasak4="CEPHANE" yasak5="ORDU" />
+    <kelimeler kelime="HIÇKIRIK" yasak1="SES" yasak2="TUTMAK" yasak3="DİYAFRAM" yasak4="SU" yasak5="NEFES" />
+    <kelimeler kelime="SALSA" yasak1="SOS" yasak2="DANS" yasak3="LATİN" yasak4="İSPANYOL" yasak5="PARTİ" />
+    <kelimeler kelime="BONCUK" yasak1="KOLYE" yasak2="TAKI" yasak3="RENKLİ" yasak4="KÜÇÜK" yasak5="YUVARLAK" />
+    <kelimeler kelime="TRAVESTİ" yasak1="ERKEK" yasak2="KADIN" yasak3="TRANSEKSÜEL" yasak4="KILIK" yasak5="GİRMEK" />
+    <kelimeler kelime="TEKİLA" yasak1="OLMEGA" yasak2="TUZ" yasak3="LİMON" yasak4="MEKSİKA" yasak5="SHOT" />
+    <kelimeler kelime="DAKTİLO" yasak1="YAZMAK" yasak2="HARF" yasak3="KAĞIT" yasak4="TUŞ" yasak5="STİLO" />
+    <kelimeler kelime="TELSİZ" yasak1="TELEFON" yasak2="KONUŞMAK" yasak3="POLİS" yasak4="İLETİŞİM" yasak5="BASMAK" />
+    <kelimeler kelime="SANDAL" yasak1="MOTOR" yasak2="DENİZ" yasak3="KÜREK" yasak4="SEFA" yasak5="BALIKÇI" />
+    <kelimeler kelime="ABLUKA" yasak1="KUŞATMA" yasak2="SARMAK" yasak3="ÇEVRELEMEK" yasak4="ALMAK" yasak5="KAPLAMAK" />
+    <kelimeler kelime="MÜSTEŞAR" yasak1="MAKAM" yasak2="DERECE" yasak3="BAKAN" yasak4="MEMUR" yasak5="ELÇİLİK" />
+    <kelimeler kelime="DİYALOG" yasak1="KONUŞMA" yasak2="KARŞILIKLI" yasak3="KİŞİ" yasak4="KURMAK" yasak5="GEÇMEK" />
+    <kelimeler kelime="RODOS" yasak1="ADA" yasak2="YUNANİSTAN" yasak3="EGE" yasak4="AKDENİZ" yasak5="TURİZM" />
+    <kelimeler kelime="MIRILDANMAK" yasak1="SÖYLENMEK" yasak2="KONUŞMAK" yasak3="SES" yasak4="KENDİ KENDİNE" yasak5="ALÇAK" />
+    <kelimeler kelime="İBN-İ SİNA" yasak1="BİLİM ADAMI" yasak2="FİLOZOF" yasak3="FARS" yasak4="TIP" yasak5="DOKTOR" />
+    <kelimeler kelime="DNA" yasak1="HÜCRE" yasak2="ÇEKİRDEK" yasak3="YÖNETİCİ" yasak4="KROMOZOM" yasak5="TEST" />
+    <kelimeler kelime="NÜKLEOTİD" yasak1="ORGANİK BAZ" yasak2="ŞEKER" yasak3="FOSFAT" yasak4="DNA" yasak5="BİRİM" />
+    <kelimeler kelime="ORGANİK BAZ" yasak1="ADENİN" yasak2="TİMİN" yasak3="SİTOZİN" yasak4="GUANİN" yasak5="NÜKLEOTİD" />
+    <kelimeler kelime="KROMOZOM" yasak1="HÜCRE" yasak2="DNA" yasak3="ÇEKİRDEK" yasak4="X" yasak5="HOMOLOG" />
+    <kelimeler kelime="HEMOFİLİ" yasak1="KAN" yasak2="PIHTILAŞMA" yasak3="KALITSAL" yasak4="PULCUK" yasak5="HASTALIK" />
+    <kelimeler kelime="ALBİNO" yasak1="RENK" yasak2="BEYAZ" yasak3="KALITSAL" yasak4="SARI" yasak5="SAÇ" />
+    <kelimeler kelime="DOWN SENDROMU" yasak1="MONGOLİZM" yasak2="47" yasak3="MUTASYON" yasak4="HASTALIK" yasak5="KROMOZOM" />
+    <kelimeler kelime="ÖRGÜ" yasak1="KAZAK" yasak2="ATKI" yasak3="ŞİŞ" yasak4="YÜN" yasak5="NİNE" />
+    <kelimeler kelime="TIRNAK" yasak1="PARMAK" yasak2="UÇ" yasak3="KESMEK" yasak4="OJE" yasak5="TÖRPÜ" />
+    <kelimeler kelime="DAMAT" yasak1="EVLİ" yasak2="KOCA" yasak3="ERKEK" yasak4="NİKAH" yasak5="GELİN" />
+    <kelimeler kelime="SANCAK" yasak1="BAYRAK" yasak2="SUR" yasak3="ASKER" yasak4="DİKMEK" yasak5="ULUBATLI HASAN" />
+    <kelimeler kelime="ANTİPATİK" yasak1="SEMPATİK" yasak2="SEVİMLİ" yasak3="SICAKKANLI" yasak4="SOĞUK" yasak5="HUYSUZ" />
+    <kelimeler kelime="LAPTOP" yasak1="DİZÜSTÜ" yasak2="BİLGİSAYAR" yasak3="NOTEBOOK" yasak4="MOBİL" yasak5="CİHAZ" />
+    <kelimeler kelime="MUTABAKAT" yasak1="ANLAŞMAK" yasak2="UZLAŞMAK" yasak3="KARAR" yasak4="UYUŞMAK" yasak5="İTİLAF" />
+    <kelimeler kelime="SU" yasak1="ATEŞ" yasak2="DÜNYA" yasak3="GÖL" yasak4="AKARSU" yasak5="DENİZ" />
+    <kelimeler kelime="TEBEŞİR" yasak1="BEYAZ" yasak2="KİREÇ" yasak3="ÇUBUK" yasak4="OKUL" yasak5="TAHTA" />
+    <kelimeler kelime="SANAT" yasak1="TASARI" yasak2="GÜZELLİK" yasak3="ANLATIM" yasak4="KURAL" yasak5="YARATICILIK" />
+    <kelimeler kelime="AVRUPA YAKASI" yasak1="ATV" yasak2="DİZİ" yasak3="GÜLSE BİRSEL" yasak4="İSTANBUL" yasak5="ANADOLU" />
+    <kelimeler kelime="DÜZMECE" yasak1="YALAN" yasak2="UYDURMA" yasak3="SALLAMA" yasak4="TAKLİT" yasak5="SAHTE" />
+    <kelimeler kelime="FIRLAMAK" yasak1="HIZLI" yasak2="ATILMAK" yasak3="ÇIKMAK" yasak4="İLERİ" yasak5="YÜKSELMEK" />
+    <kelimeler kelime="AJANS" yasak1="RADYO" yasak2="HABER" yasak3="MANKEN" yasak4="REKLAM" yasak5="ANADOLU" />
+    <kelimeler kelime="FOTOĞRAF MAKİNESİ" yasak1="FLAŞ" yasak2="GÖRÜNTÜ" yasak3="RESİM" yasak4="ÇEKİM" yasak5="POZ" />
+    <kelimeler kelime="ÜVEY" yasak1="ÖZ" yasak2="ANNE" yasak3="BABA" yasak4="EVLAT" yasak5="ÇOCUK" />
+    <kelimeler kelime="SADAKA" yasak1="YARDIM" yasak2="PARA" yasak3="ÖMÜR" yasak4="DİLENCİ" yasak5="FAKİR" />
+    <kelimeler kelime="TOPLUMSAL" yasak1="İNSAN" yasak2="KURAL" yasak3="HALK" yasak4="MİLLET" yasak5="SORUN" />
+    <kelimeler kelime="İBADET" yasak1="ALLAH" yasak2="NAMAZ" yasak3="ORUÇ" yasak4="CAMİ" yasak5="DUA" />
+    <kelimeler kelime="KEMENÇE" yasak1="ÇALGI" yasak2="ENSTRÜMAN" yasak3="KEMAN" yasak4="HORON" yasak5="MÜZİK" />
+    <kelimeler kelime="TAMİRAT" yasak1="BOZUK" yasak2="TORNAVİDA" yasak3="TADİLAT" yasak4="ONARIM" yasak5="TAMİRCİ" />
+    <kelimeler kelime="KASKO" yasak1="ARABA" yasak2="OTOMOBİL" yasak3="SİGORTA" yasak4="GÜVENCE" yasak5="KAZA" />
+    <kelimeler kelime="LİMON" yasak1="TURUNCU" yasak2="SARI" yasak3="EKŞİ" yasak4="NARENCİYE" yasak5="KABUK" />
+    <kelimeler kelime="EMPATİ YAPMAK" yasak1="ANLAMAK" yasak2="YERİNE KOYMAK" yasak3="BECERİ" yasak4="DUYGU" yasak5="KİŞİ" />
+    <kelimeler kelime="ALYANS" yasak1="YÜZÜK" yasak2="EVLİLİK" yasak3="PARMAK" yasak4="ALTIN" yasak5="SİMGE" />
+    <kelimeler kelime="FOBİ" yasak1="HOBİ" yasak2="PSİKOLOJİK" yasak3="TEHDİT" yasak4="KAÇINMAK" yasak5="KORKU" />
+    <kelimeler kelime="MEHMET GÜNSÜR" yasak1="OYUNCU" yasak2="MUHTEŞEM YÜZYIL" yasak3="HAMAM" yasak4="İTALYA" yasak5="O ŞİMDİ ASKER" />
+    <kelimeler kelime="KURBAĞA PRENS" yasak1="HAYVAN" yasak2="ÖPMEK" yasak3="PRENSES" yasak4="DÖNÜŞMEK" yasak5="MASAL" />
+    <kelimeler kelime="ŞADIRVAN" yasak1="HAVUZ" yasak2="KUBBE" yasak3="CAMİ" yasak4="AVLU" yasak5="ABDEST" />
+    <kelimeler kelime="HACİZ" yasak1="GELMEK" yasak2="BORÇ" yasak3="ÖDEMEK" yasak4="EŞYA" yasak5="BANKA" />
+    <kelimeler kelime="DİŞ MACUNU" yasak1="FIRÇALAMAK" yasak2="AĞIZ" yasak3="TARTAR" yasak4="TEMİZLEMEK" yasak5="YEMEK" />
+    <kelimeler kelime="3D" yasak1="OYUN" yasak2="FİLM" yasak3="TEKNOLOJİ" yasak4="BOYUT" yasak5="GÖZLÜK" />
+    <kelimeler kelime="EVLİLİK CÜZDANI" yasak1="DAMAT" yasak2="GELİN" yasak3="NİKAH" yasak4="VERMEK" yasak5="NÜFUS" />
+    <kelimeler kelime="AYYAŞ" yasak1="ALKOL" yasak2="İÇMEK" yasak3="AYILMAK" yasak4="İÇKİ" yasak5="SARHOŞ" />
+    <kelimeler kelime="TUZ RUHU" yasak1="ASİT" yasak2="HCI" yasak3="PARÇALAYICI" yasak4="TURNUSOL" yasak5="PH" />
+    <kelimeler kelime="BALİNA" yasak1="SU" yasak2="MEMELİ" yasak3="HAYVAN" yasak4="YUNUS" yasak5="DENİZ" />
+    <kelimeler kelime="ŞARTEL" yasak1="KABLO" yasak2="ELEKTRİK" yasak3="ATMAK" yasak4="İNDİRMEK" yasak5="KESMEK" />
+    <kelimeler kelime="KASİS" yasak1="YOL" yasak2="ÇUKUR" yasak3="ASFALT" yasak4="ARK" yasak5="OLUŞUM" />
+    <kelimeler kelime="TUTAM" yasak1="PAY" yasak2="HİSSE" yasak3="TUZ" yasak4="PARMAK" yasak5="MİKTAR" />
+    <kelimeler kelime="KIRINTI" yasak1="UFANTI" yasak2="EKMEK" yasak3="PARÇA" yasak4="UFAK" yasak5="PARÇALAMAK" />
+    <kelimeler kelime="HİJYEN" yasak1="SAĞLIK" yasak2="KORUMAK" yasak3="ÖNLEM" yasak4="BİLGİ" yasak5="TEMİZLİK" />
+    <kelimeler kelime="GALETA" yasak1="UNLU" yasak2="YİYECEK" yasak3="KURU" yasak4="KRAKER" yasak5="YEMEK" />
+    <kelimeler kelime="VAMPİR" yasak1="KAN" yasak2="EMMEK" yasak3="SALDIRMAK" yasak4="DRAKULA" yasak5="YARATIK" />
+    <kelimeler kelime="FİLİNTA" yasak1="GÜZEL" yasak2="YAKIŞIKLI" yasak3="NAMLU" yasak4="KISA" yasak5="TÜFEK" />
+    <kelimeler kelime="KARLAR ÜLKESİ" yasak1="ANİMASYON" yasak2="FİLM" yasak3="BUZ" yasak4="ELSA" yasak5="ANNA" />
+    <kelimeler kelime="AKSIRMAK" yasak1="HAPŞIRMAK" yasak2="BURUN" yasak3="GICIK" yasak4="BOŞALTMAK" yasak5="SOLUK" />
+    <kelimeler kelime="MACUN" yasak1="KIVAM" yasak2="DİŞ" yasak3="BOYA" yasak4="ŞEKERLEME" yasak5="HAMUR" />
+    <kelimeler kelime="KABARMAK" yasak1="KEK" yasak2="MAYA" yasak3="ŞİŞMEK" yasak4="BÜYÜMEK" yasak5="TOZ" />
+    <kelimeler kelime="GECELİK" yasak1="PİJAMA" yasak2="YATMAK" yasak3="AKŞAM" yasak4="ÜCRET" yasak5="GİYMEK" />
+    <kelimeler kelime="MAFYA" yasak1="YASADIŞI" yasak2="GİZLİ" yasak3="ÖRGÜT" yasak4="KANUNSUZ" yasak5="BABA" />
+    <kelimeler kelime="FACEBOOK" yasak1="SOSYAL AĞ" yasak2="İNTERNET" yasak3="PAYLAŞIM" yasak4="ARKADAŞ BULMAK" yasak5="YAZIŞMAK" />
+    <kelimeler kelime="MEŞGALE" yasak1="EDİNMEK" yasak2="UĞRAŞI" yasak3="OYALANMAK" yasak4="MEŞGUL" yasak5="HOBİ" />
+    <kelimeler kelime="HAMARAT" yasak1="BECERİKLİ" yasak2="İŞ" yasak3="YETENEKLİ" yasak4="OLMAK" yasak5="ÇALIŞKAN" />
+    <kelimeler kelime="ŞER" yasak1="KÖTÜ" yasak2="HAYIR" yasak3="FENALIK" yasak4="KORUMAK" yasak5="ŞEYTAN" />
+    <kelimeler kelime="MİYAVLAMAK" yasak1="SES" yasak2="KEDİ" yasak3="BAĞIRMAK" yasak4="HAYVAN" yasak5="KÖPEK" />
+    <kelimeler kelime="DOKUNULMAZLIK" yasak1="İLİŞMEK" yasak2="KARIŞMAK" yasak3="AYRICALIK" yasak4="HAK" yasak5="MİLLETVEKİLİ" />
+    <kelimeler kelime="SELEF" yasak1="ÖNCEL" yasak2="MAKAM" yasak3="HALEF" yasak4="GELMEK" yasak5="BULUNMAK" />
+    <kelimeler kelime="ZEHİRLENMEK" yasak1="ZARARLI" yasak2="KUSMAK" yasak3="YEMEK" yasak4="HAYVAN" yasak5="BESİN" />
+    <kelimeler kelime="KURGU" yasak1="KURMAK" yasak2="BİLİM" yasak3="BİRLEŞTİRMEK" yasak4="SPEKÜLASYON" yasak5="MONTAJ" />
+    <kelimeler kelime="KELEPİR" yasak1="FİYAT" yasak2="DÜŞÜK" yasak3="UCUZ" yasak4="DEĞER" yasak5="PAHALI" />
+    <kelimeler kelime="MUTFAK" yasak1="YEMEK" yasak2="ODA" yasak3="FIRIN" yasak4="HAZIRLAMAK" yasak5="PİŞİRMEK" />
+    <kelimeler kelime="ALT GEÇİT" yasak1="GİTMEK" yasak2="ÜST" yasak3="YOL" yasak4="TRAFİK" yasak5="YAYA" />
+    <kelimeler kelime="ALİ KIRCA" yasak1="SUNUCU" yasak2="TELEVİZYON" yasak3="HABER" yasak4="YAZAR" yasak5="SHOW" />
+    <kelimeler kelime="MARANGOZ" yasak1="MOBİLYA" yasak2="USTA" yasak3="AĞAÇ" yasak4="ŞEKİL" yasak5="YAPMAK" />
+    <kelimeler kelime="POS BIYIK" yasak1="UZUN" yasak2="ERKEK" yasak3="GÜR" yasak4="SAKAL" yasak5="KIL" />
+    <kelimeler kelime="ASAL" yasak1="BAŞLICA" yasak2="TEMEL" yasak3="ESAS" yasak4="SAYI" yasak5="ÇARPAN" />
+    <kelimeler kelime="VEFA" yasak1="BEŞİKTAŞ" yasak2="SEVGİ" yasak3="YETİNMEK" yasak4="BAĞLILIK" yasak5="ACIMAK" />
+    <kelimeler kelime="FENOMEN" yasak1="ÜNLÜ" yasak2="MEŞHUR" yasak3="OLMAK" yasak4="RADYO" yasak5="ÇEKİCİ" />
+    <kelimeler kelime="ANDROJEN" yasak1="TESTOSTERON" yasak2="HORMON" yasak3="ERKEK" yasak4="TESTİS" yasak5="ÖSTROJEN" />
+    <kelimeler kelime="MASA" yasak1="KALEM" yasak2="YEMEK" yasak3="BİLGİSAYAR" yasak4="DOSYA" yasak5="ÇEKMECE" />
+    <kelimeler kelime="BALIK" yasak1="RAKI" yasak2="HAMSİ" yasak3="DENİZ" yasak4="FIRIN" yasak5="OLTA" />
+    <kelimeler kelime="TÜFEK" yasak1="ATEŞ" yasak2="AV" yasak3="SİLAH" yasak4="POMPALI" yasak5="ÖLDÜRMEK" />
+    <kelimeler kelime="TOKA" yasak1="TAKMAK" yasak2="BAĞLAMAK" yasak3="TUTTURMAK" yasak4="KADIN" yasak5="SAÇ" />
+    <kelimeler kelime="İLAH" yasak1="ALLAH" yasak2="TANRI" yasak3="DERECE" yasak4="OLMAK" yasak5="YARATICI" />
+    <kelimeler kelime="KOLTUK TAKIMI" yasak1="ODA" yasak2="DİVAN" yasak3="MOBİLYA" yasak4="KANEPE" yasak5="OTURMAK" />
+    <kelimeler kelime="BOZUK" yasak1="KIRMAK" yasak2="ÇALIŞMAK" yasak3="BECERMEK" yasak4="ENGEL" yasak5="GÖREV" />
+    <kelimeler kelime="KARİYER" yasak1="MESLEK" yasak2="GÖREV" yasak3="UZMANLIK" yasak4="İHTİSAS" yasak5="HAYAT" />
+    <kelimeler kelime="ADEM ELMASI" yasak1="GIRTLAK" yasak2="ERKEK" yasak3="MEYVE" yasak4="ÇIKINTI" yasak5="HAVVA" />
+    <kelimeler kelime="ORKESTRA" yasak1="ENSTRÜMAN" yasak2="ÇALGI" yasak3="MÜZİK" yasak4="TOPLULUK" yasak5="ŞEF" />
+    <kelimeler kelime="RAPTİYE" yasak1="ASMAK" yasak2="ÇİVİ" yasak3="KARTON" yasak4="KAĞIT" yasak5="TUTTURMAK" />
+    <kelimeler kelime="KAYGISIZLAR" yasak1="DİZİ" yasak2="KÜLTİGİN" yasak3="ERCAN YAZGAN" yasak4="KALABALIK" yasak5="AİLE" />
+    <kelimeler kelime="KAHIR" yasak1="MAHVETME" yasak2="PERİŞAN" yasak3="EZME" yasak4="ÇEKMEK" yasak5="ETMEK" />
+    <kelimeler kelime="ZURNA" yasak1="NEFES" yasak2="DAVUL" yasak3="ÜFLEMEK" yasak4="ÇALMAK" yasak5="DÜĞÜN" />
+    <kelimeler kelime="KAŞIKÇI ELMASI" yasak1="SERGİLENMEK" yasak2="MÜZE" yasak3="ELMAS" yasak4="KARAT" yasak5="TOPKAPI SARAYI" />
+    <kelimeler kelime="EMZİK" yasak1="MEME" yasak2="AĞLAMAK" yasak3="NAYLON" yasak4="EMMEK" yasak5="BEBEK" />
+    <kelimeler kelime="AFOROZ" yasak1="HRİSTİYAN" yasak2="KİLİSE" yasak3="DIŞLAMAK" yasak4="ÇIKARMAK" yasak5="KOVMAK" />
+    <kelimeler kelime="GAZAP" yasak1="ÇEKMEK" yasak2="HİDDET" yasak3="ÖFKE" yasak4="KIZGIN" yasak5="ÜZÜM" />
+    <kelimeler kelime="FRANSIZ ÖPÜCÜĞÜ" yasak1="SEVGİLİ" yasak2="SEVİŞMEK" yasak3="ROMANTİK" yasak4="DUDAK" yasak5="DİL" />
+    <kelimeler kelime="JAGUAR" yasak1="HAYVAN" yasak2="ASLAN" yasak3="KEDİ" yasak4="KAPLAN" yasak5="ARABA" />
+    <kelimeler kelime="SIĞINMAK" yasak1="GÜVENLİ" yasak2="YARDIM" yasak3="KORUNMAK" yasak4="ÇEKİLMEK" yasak5="BAŞVURMAK" />
+    <kelimeler kelime="İNCİNMEK" yasak1="GÜCENMEK" yasak2="ALINMAK" yasak3="KÜSMEK" yasak4="DARILMAK" yasak5="KIRILMAK" />
+    <kelimeler kelime="BİR DEMET TİYATRO" yasak1="DEMET AKBAĞ" yasak2="DİZİ" yasak3="FERİŞTAH" yasak4="KOMEDİ" yasak5="YILMAZ ERDOĞAN" />
+    <kelimeler kelime="SERBEST" yasak1="HÜR" yasak2="BAĞLI" yasak3="RAHAT" yasak4="ÖZGÜR" yasak5="MUAF" />
+    <kelimeler kelime="İKLİM" yasak1="MEVSİM" yasak2="METEOROLOJİ" yasak3="DURUM" yasak4="HAVA" yasak5="ATMOSFER" />
+    <kelimeler kelime="SÜNGÜ" yasak1="ÇUBUK" yasak2="TÜFEK" yasak3="SİLAH" yasak4="UÇ" yasak5="KILIÇ" />
+    <kelimeler kelime="KOFUL" yasak1="STOPLAZMA" yasak2="HÜCRE" yasak3="SIVI" yasak4="HAVA" yasak5="BOŞLUK" />
+    <kelimeler kelime="ELEKTROLİZ" yasak1="ELEKTRİK" yasak2="SU" yasak3="AYIRMAK" yasak4="YÖNTEM" yasak5="KİMYA" />
+    <kelimeler kelime="KANTAR" yasak1="NURİ" yasak2="TARTMAK" yasak3="AĞIRLIK" yasak4="TOPUZ" yasak5="ÖLÇMEK" />
+    <kelimeler kelime="ANGARYA" yasak1="ZORUNLU" yasak2="HİZMET" yasak3="ZORLA" yasak4="ÜCRETSİZ" yasak5="BIKTIRICI" />
+    <kelimeler kelime="DEVLET BAŞKANI" yasak1="MİLLET" yasak2="DONALD TRUMP" yasak3="HÜKÜMET" yasak4="ÜLKE" yasak5="CUMHURBAŞKANI" />
+    <kelimeler kelime="DÖVME" yasak1="ÇİZDİRMEK" yasak2="KOL" yasak3="ŞEKİL" yasak4="YAPTIRMAK" yasak5="DERİ" />
+    <kelimeler kelime="HALLETMEK" yasak1="İŞ" yasak2="BİTİRMEK" yasak3="ÇÖZMEK" yasak4="BECERMEK" yasak5="TAMAMLAMAK" />
+    <kelimeler kelime="BAKLA" yasak1="FASULYE" yasak2="SEBZE" yasak3="BİTKİ" yasak4="YEMEK" yasak5="TANE" />
+    <kelimeler kelime="MÜHÜRLEMEK" yasak1="KAŞE" yasak2="DOĞRULAMAK" yasak3="BASMAK" yasak4="ONAYLAMAK" yasak5="DAMGA" />
+    <kelimeler kelime="HABİP" yasak1="AŞIK" yasak2="SEVGİLİ" yasak3="YA" yasak4="YAR" yasak5="DOST" />
+    <kelimeler kelime="YÜZÜK" yasak1="NİŞAN" yasak2="TAKMAK" yasak3="KOLYE" yasak4="EVLİLİK" yasak5="PARMAK" />
+    <kelimeler kelime="BEYOĞLU" yasak1="SEMT" yasak2="TAKSİM" yasak3="İSTİKLAL" yasak4="İSTANBUL" yasak5="PERA" />
+    <kelimeler kelime="KALP" yasak1="YAŞAM" yasak2="KAN" yasak3="ORGAN" yasak4="AŞK" yasak5="KRİZ" />
+    <kelimeler kelime="ÇEKİM" yasak1="GÜÇ" yasak2="YER" yasak3="SİNEMA" yasak4="FİLM" yasak5="CAZİBE" />
+    <kelimeler kelime="TARAF TUTMAK" yasak1="OLMAK" yasak2="DESTEKLEMEK" yasak3="YAN ÇIKMAK" yasak4="ÇIKMAK" yasak5="AİTLİK" />
+    <kelimeler kelime="BECERMEK" yasak1="ÜSTESİNDEN GELMEK" yasak2="BOZMAK" yasak3="ÇÖZMEK" yasak4="YAPABİLMEK" yasak5="HALLETMEK" />
+    <kelimeler kelime="İÇ ÇAMAŞIRI" yasak1="FANİLA" yasak2="ATLET" yasak3="KÜLOT" yasak4="GİYMEK" yasak5="ALT" />
+    <kelimeler kelime="AYVALIK TOSTU" yasak1="YEMEK" yasak2="EKMEK" yasak3="ŞARKÜTERİ" yasak4="KOYMAK" yasak5="BALIKESİR" />
+    <kelimeler kelime="AŞURE" yasak1="ON" yasak2="YEMEK" yasak3="KARIŞIK" yasak4="MEYVE" yasak5="TATLI" />
+    <kelimeler kelime="SOKAK ÇOCUĞU" yasak1="DİLENMEK" yasak2="YAŞAMAK" yasak3="TİNER" yasak4="FAKİR" yasak5="CADDE" />
+    <kelimeler kelime="KAZMA" yasak1="ARAÇ" yasak2="TOPRAK" yasak3="DÜZELTMEK" yasak4="İŞLEMEK" yasak5="ÇAPA" />
+    <kelimeler kelime="ZEMBEREK" yasak1="ÇIKMAK" yasak2="SAAT" yasak3="FIRLAMAK" yasak4="DÜZENEK" yasak5="YAY" />
+    <kelimeler kelime="FATURA" yasak1="KAĞIT" yasak2="FİŞ" yasak3="İRSALİYE" yasak4="BORÇ" yasak5="ÖDEMEK" />
+    <kelimeler kelime="DİKİZLEMEK" yasak1="BAKMAK" yasak2="TAKİP ETMEK" yasak3="GÖZLEMEK" yasak4="AYNA" yasak5="İZLEMEK" />
+    <kelimeler kelime="ALIN YAZISI" yasak1="TAKDİR-İ İLAHİ" yasak2="TALİH" yasak3="BAHT" yasak4="KADER" yasak5="YAZGI" />
+    <kelimeler kelime="KÜRESEL ISINMA" yasak1="SERA" yasak2="GAZ" yasak3="ATMOSFER" yasak4="ARTIŞ" yasak5="SICAKLIK" />
+    <kelimeler kelime="İLAÇ" yasak1="MUAYENE" yasak2="HASTA" yasak3="REÇETE" yasak4="ECZANE" yasak5="SAĞLIK" />
+    <kelimeler kelime="TAHAMMÜL" yasak1="KATLANMAK" yasak2="DAYANMAK" yasak3="ETMEK" yasak4="ZORLAMAK" yasak5="KARŞI" />
+    <kelimeler kelime="SİHİRLİ" yasak1="BÜYÜ" yasak2="ANNEM" yasak3="TILSIM" yasak4="YAPMAK" yasak5="EFSUN" />
+    <kelimeler kelime="PARANOYAK" yasak1="PSİKOLOJİ" yasak2="HASTALIK" yasak3="TEHLİKE" yasak4="ŞÜPHE" yasak5="KUŞKU" />
+    <kelimeler kelime="ADALE" yasak1="ANATOMİ" yasak2="HAREKET" yasak3="AĞRI" yasak4="KAS" yasak5="VÜCUT" />
+    <kelimeler kelime="ZAMK" yasak1="SÜRMEK" yasak2="KİMYASAL" yasak3="MOBİLYA" yasak4="BOYA" yasak5="YAPIŞTIRMAK" />
+    <kelimeler kelime="BATAKLIK" yasak1="KÖTÜ" yasak2="SAZLIK" yasak3="BÖLGE" yasak4="SIĞ" yasak5="ÇAMUR" />
+    <kelimeler kelime="BULAŞMAK" yasak1="SATAŞMAK" yasak2="MİKROP" yasak3="KİRLENMEK" yasak4="HASTALIK" yasak5="KARIŞMAK" />
+    <kelimeler kelime="BARDAK" yasak1="SU" yasak2="İÇMEK" yasak3="İNCE  BELLİ" yasak4="CAM" yasak5="KADEH" />
+    <kelimeler kelime="KİRLİ SAKAL" yasak1="BIRAKMAK" yasak2="TIRAŞ" yasak3="ERKEK" yasak4="YÜZ" yasak5="KIL" />
+    <kelimeler kelime="EMEK" yasak1="ALIN TERİ" yasak2="GÜÇ" yasak3="İŞ" yasak4="KUVVET" yasak5="HARCAMAK" />
+    <kelimeler kelime="SOĞAN" yasak1="YEMEK" yasak2="AĞLAMAK" yasak3="KAVURMAK" yasak4="SARIMSAK" yasak5="DOĞRAMAK" />
+    <kelimeler kelime="KIŞ" yasak1="SOĞUK" yasak2="YAZ" yasak3="MEVSİM" yasak4="SONBAHAR" yasak5="KAR" />
+    <kelimeler kelime="ASTRONOT" yasak1="UZAY" yasak2="ÇALIŞMAK" yasak3="NASA" yasak4="GEMİ" yasak5="UÇUŞ" />
+    <kelimeler kelime="BALON" yasak1="HELYUM" yasak2="HAVA" yasak3="ÇOCUK" yasak4="ŞİŞİRMEK" yasak5="UÇAN" />
+    <kelimeler kelime="KİVİ" yasak1="MEYVE" yasak2="TÜYLÜ" yasak3="EKŞİ" yasak4="YEŞİL" yasak5="KARADENİZ" />
+    <kelimeler kelime="TURŞUCU" yasak1="ADİLE NAŞİT" yasak2="YAPMAK" yasak3="EKŞİ" yasak4="SALATALIK" yasak5="SİRKE" />
+    <kelimeler kelime="OFİS" yasak1="ODA" yasak2="ÇALIŞMAK" yasak3="PATRON" yasak4="İŞ YERİ" yasak5="ŞİRKET" />
+    <kelimeler kelime="POZ VERMEK" yasak1="HAL" yasak2="DURUM" yasak3="FOTOĞRAF" yasak4="RESİM" yasak5="MODEL" />
+    <kelimeler kelime="KURU TEMİZLEME" yasak1="GİYSİ" yasak2="LEKE" yasak3="GÖTÜRMEK" yasak4="KİRLENMEK" yasak5="CEKET" />
+    <kelimeler kelime="PROMOSYON" yasak1="ÜRÜN" yasak2="HEDİYE" yasak3="MAĞAZA" yasak4="SATIŞ" yasak5="İNDİRİM" />
+    <kelimeler kelime="PİRE" yasak1="YORGAN" yasak2="KAŞINMAK" yasak3="BİT" yasak4="HAŞARAT" yasak5="BÖCEK" />
+    <kelimeler kelime="HELİKOPTER" yasak1="PERVANE" yasak2="PİLOT" yasak3="DÖNMEK" yasak4="HAVA" yasak5="UÇAK" />
+    <kelimeler kelime="BARAJ" yasak1="HİDROELEKTRİK" yasak2="BİRİKTİRMEK" yasak3="ENGELLEMEK" yasak4="SU" yasak5="KEBAN" />
+    <kelimeler kelime="İPEK BÖCEĞİ" yasak1="İPLİK" yasak2="YOL" yasak3="KUMAŞ" yasak4="TIRTIL" yasak5="KOZA" />
+    <kelimeler kelime="PELİKAN" yasak1="KUŞ" yasak2="KESE" yasak3="GAGA" yasak4="SİLGİ" yasak5="HAYVAN" />
+    <kelimeler kelime="TAPINAK" yasak1="KUTSAL" yasak2="TANRI" yasak3="ŞÖVALYE" yasak4="DUA ETMEK" yasak5="ARTEMİS" />
+    <kelimeler kelime="FINDIK KURDU" yasak1="KURUYEMİŞ" yasak2="BİT" yasak3="DÖKMEK" yasak4="KURTÇUK" yasak5="ZARAR" />
+    <kelimeler kelime="FESLEĞEN" yasak1="KOKU" yasak2="REYHAN" yasak3="YEMEK" yasak4="BİTKİ" yasak5="SOS" />
+    <kelimeler kelime="ESPRİ" yasak1="NÜKTE" yasak2="İNCE" yasak3="GÜLMEK" yasak4="YAPMAK" yasak5="KOMEDİ" />
+    <kelimeler kelime="ÖZGÜRLÜK HEYKELİ" yasak1="NEW YORK" yasak2="KULE" yasak3="ANIT" yasak4="AMERİKA" yasak5="SİMGE" />
+    <kelimeler kelime="KALİFİYE" yasak1="KALİTE" yasak2="VASIF" yasak3="ELEMAN" yasak4="ÖZELLİK" yasak5="NİTELİKLİ" />
+    <kelimeler kelime="UZAY" yasak1="FEZA" yasak2="BİLİM" yasak3="GÖK" yasak4="ASTRONOT" yasak5="MEKAN" />
+    <kelimeler kelime="SİNEKKAYDI" yasak1="PÜRÜZSÜZ" yasak2="TIRAŞ" yasak3="SAKAL" yasak4="ÖZENLİ" yasak5="ERKEK" />
+    <kelimeler kelime="ALATURKA" yasak1="TUVALET" yasak2="ALAFRANGA" yasak3="GELENEK" yasak4="ESKİ" yasak5="TÜRK" />
+    <kelimeler kelime="PANPA" yasak1="DOST" yasak2="EMO" yasak3="KARDEŞ" yasak4="KANKA" yasak5="ARKADAŞ" />
+    <kelimeler kelime="KÜPE" yasak1="KULAK" yasak2="KOLYE" yasak3="DELİK" yasak4="TAKMAK" yasak5="AKSESUAR" />
+    <kelimeler kelime="KAMBİYO" yasak1="EVRAK" yasak2="ALMAK" yasak3="SATMAK" yasak4="DEĞİŞTİRMEK" yasak5="PARA" />
+    <kelimeler kelime="MAZGAL" yasak1="KANALİZASYON" yasak2="YOL" yasak3="DAR" yasak4="DELİK" yasak5="GİDER" />
+    <kelimeler kelime="KAMİKAZE" yasak1="PİLOT" yasak2="JAPON" yasak3="İNTİHAR" yasak4="UÇAK" yasak5="ARAÇ" />
+    <kelimeler kelime="ADAŞ" yasak1="ARKADAŞ" yasak2="DOST" yasak3="İSİM" yasak4="AYNI" yasak5="OLMAK" />
+    <kelimeler kelime="MÜCEVHER" yasak1="KOLYE" yasak2="TAKI" yasak3="ALTIN" yasak4="KADIN" yasak5="BİLEZİK" />
+    <kelimeler kelime="PARTİZAN" yasak1="SEVMEK" yasak2="AŞIRI" yasak3="MÜCADELE" yasak4="KATILMAK" yasak5="SEMPATİ" />
+    <kelimeler kelime="DEYİM" yasak1="ANLATMAK" yasak2="MECAZ" yasak3="ANLATIM" yasak4="ATASÖZÜ" yasak5="TABİR" />
+    <kelimeler kelime="ZAMAN GEÇİRMEK" yasak1="UĞRAŞMAK" yasak2="VAKİT" yasak3="BOŞ" yasak4="MEŞGULİYET" yasak5="OYALANMAK" />
+    <kelimeler kelime="SÜPÜRGE" yasak1="ELEKTRİKLİ" yasak2="EL" yasak3="KİRLENMEK" yasak4="HALI" yasak5="TEMİZLEMEK" />
+    <kelimeler kelime="HUDUT" yasak1="ÇİZMEK" yasak2="SON" yasak3="SINIR" yasak4="UÇ" yasak5="ÇİZGİ" />
+    <kelimeler kelime="DUVAK" yasak1="GELİN" yasak2="DAMAT" yasak3="YÜZ" yasak4="ÖRTMEK" yasak5="TÜL" />
+    <kelimeler kelime="PANİK ATAK" yasak1="DEPRESYON" yasak2="PSİKOLOJİK" yasak3="ÖLÜM KORKUSU" yasak4="HASTALIK" yasak5="TELAŞ" />
+    <kelimeler kelime="AYAKKABI" yasak1="AYAK" yasak2="GALOŞ" yasak3="ÇİZME" yasak4="KUNDURA" yasak5="KORUMAK" />
+    <kelimeler kelime="ÇAĞ" yasak1="SÜRE" yasak2="ZAMAN" yasak3="VAKİT" yasak4="DÖNEM" yasak5="İLK" />
+    <kelimeler kelime="YASTIK" yasak1="TÜY" yasak2="YATAK" yasak3="YORGAN" yasak4="UYKU" yasak5="YUMUŞAK" />
+    <kelimeler kelime="ÜŞÜŞMEK" yasak1="TOPLANMAK" yasak2="GELMEK" yasak3="YIĞILMAK" yasak4="BİRİKMEK" yasak5="ÇOKUŞMAK" />
+    <kelimeler kelime="ZABITA" yasak1="BELEDİYE" yasak2="GÖREV" yasak3="DENETLEMEK" yasak4="KONTROL" yasak5="GÜVENLİK" />
+    <kelimeler kelime="DEPRESYON" yasak1="GİRMEK" yasak2="ÇÖKÜNTÜ" yasak3="RUH" yasak4="SİNİR" yasak5="BUNALIM" />
+    <kelimeler kelime="OLAY" yasak1="VAKA" yasak2="OLGU" yasak3="OLMAK" yasak4="VUKU" yasak5="HADİSE" />
+    <kelimeler kelime="İDDİA" yasak1="HAL" yasak2="İNAT" yasak3="SAVUNMAK" yasak4="SAV" yasak5="DÜŞÜNCE" />
+    <kelimeler kelime="VURGUN" yasak1="FELÇ" yasak2="DALGIÇ" yasak3="DENİZ" yasak4="YEMEK" yasak5="BASINÇ" />
+    <kelimeler kelime="TOKMAK" yasak1="ASMAK" yasak2="VURMAK" yasak3="KAPI" yasak4="ÇALMAK" yasak5="KOL" />
+    <kelimeler kelime="AŞÇI" yasak1="MESLEK" yasak2="YEMEK" yasak3="MUTFAK" yasak4="ÖNLÜK" yasak5="OKTAY USTA" />
+    <kelimeler kelime="GLÜTEN" yasak1="YEMEK" yasak2="TAHIL" yasak3="HAMUR" yasak4="YARARLI" yasak5="PROTEİN" />
+    <kelimeler kelime="DUYU" yasak1="MERKEZ" yasak2="ORGAN" yasak3="BEŞ" yasak4="ALGI" yasak5="YETENEK" />
+    <kelimeler kelime="ŞANTİYE" yasak1="YAPI" yasak2="İNŞAAT" yasak3="İŞÇİ" yasak4="SAKLAMAK" yasak5="ÇALIŞMAK" />
+    <kelimeler kelime="POLİKLİNİK" yasak1="TEDAVİ" yasak2="HASTANE" yasak3="MUAYENE" yasak4="AYAKTA" yasak5="SAĞLIK" />
+    <kelimeler kelime="KALBUR" yasak1="ÜSTÜ" yasak2="BASTI" yasak3="AYIRMAK" yasak4="TAHIL" yasak5="DELİK" />
+    <kelimeler kelime="KEMOTERAPİ" yasak1="KİMYASAL" yasak2="KANSER" yasak3="İLAÇ" yasak4="TEDAVİ" yasak5="SAÇ DÖKÜLMESİ" />
+    <kelimeler kelime="ÇAM" yasak1="YILBAŞI" yasak2="AĞAÇ" yasak3="DİKEN" yasak4="KOZALAK" yasak5="SÜSLEMEK" />
+    <kelimeler kelime="ZARURİ" yasak1="GEREKLİ" yasak2="MECBUR" yasak3="ZORUNLU" yasak4="OLMAK" yasak5="KESİN" />
+    <kelimeler kelime="ÖRÜMCEK" yasak1="AĞ" yasak2="ADAM" yasak3="BACAK" yasak4="TARANTULA" yasak5="FİLM" />
+    <kelimeler kelime="DAVETSİZ" yasak1="ÇAĞIRMAK" yasak2="GİTMEK" yasak3="FİLM" yasak4="MİSAFİR" yasak5="GELMEK" />
+    <kelimeler kelime="KUNG FU PANDA" yasak1="FİLM" yasak2="ANİMASYON" yasak3="DREAMWORKS" yasak4="ÇOCUK" yasak5="İZLEMEK" />
+    <kelimeler kelime="KURT ADAM" yasak1="DÖNÜŞMEK" yasak2="DOLUNAY" yasak3="EFSANE" yasak4="HAYVAN" yasak5="YARATIK" />
+    <kelimeler kelime="CEMRE" yasak1="SICAKLIK" yasak2="BAHAR" yasak3="DÜŞMEK" yasak4="SU" yasak5="HAVA" />
+    <kelimeler kelime="BAMYA" yasak1="TÜYLÜ" yasak2="SALYA" yasak3="YEŞİL" yasak4="KÜÇÜK" yasak5="SEBZE" />
+    <kelimeler kelime="BEYTİ" yasak1="KEBAP" yasak2="YEMEK" yasak3="FLORYA" yasak4="İSKENDER" yasak5="MAHLAS" />
+    <kelimeler kelime="HAVAİ" yasak1="UÇARI" yasak2="FİŞEK" yasak3="MAVİ" yasak4="GAMSIZ" yasak5="DERTSİZ" />
+    <kelimeler kelime="KUMPAS" yasak1="TUZAK" yasak2="DALGA" yasak3="ÖLÇÜM" yasak4="KURMAK" yasak5="DEMİR" />
+    <kelimeler kelime="İKİNCİ BAHAR" yasak1="TÜRKAN ŞORAY" yasak2="ALİ HAYDAR" yasak3="SEZEN AKSU" yasak4="ŞENER ŞEN" yasak5="DİZİ" />
+    <kelimeler kelime="BEŞİK" yasak1="KERTME" yasak2="UYUTMAK" yasak3="BEBEK" yasak4="YATMAK" yasak5="SALLAMAK" />
+    <kelimeler kelime="LOBİ" yasak1="RESEPSİYON" yasak2="KOLTUK" yasak3="OTEL" yasak4="GİRİŞ" yasak5="BEKLEMEK" />
+    <kelimeler kelime="RAF" yasak1="KOYMAK" yasak2="MOBİLYA" yasak3="ÇEKMECE" yasak4="EŞYA" yasak5="DOLAP" />
+    <kelimeler kelime="MECBUR" yasak1="TUTKUN" yasak2="BAĞLI" yasak3="ZORUNLU" yasak4="DÜŞKÜN" yasak5="OLMAK" />
+    <kelimeler kelime="YEŞİLÇAM" yasak1="OYUNCU" yasak2="OYNAMAK" yasak3="SİNEMA" yasak4="TÜRK" yasak5="SANATÇI" />
+    <kelimeler kelime="MÜNAKAŞA" yasak1="ÇEKİŞME" yasak2="AYRILIK" yasak3="TARTIŞMA" yasak4="ETMEK" yasak5="KAVGA" />
+    <kelimeler kelime="KAYKAY" yasak1="TEKER" yasak2="KAYMAK" yasak3="TAHTA" yasak4="SPOR" yasak5="YOL" />
+    <kelimeler kelime="SİFON" yasak1="TUVALET" yasak2="KLOZET" yasak3="SU" yasak4="TEMİZLEMEK" yasak5="ÇEKMEK" />
+    <kelimeler kelime="SHAKİRA" yasak1="LATİN" yasak2="KOLOMBİYA" yasak3="WAKA WAKA" yasak4="PIQUE" yasak5="ŞARKICI" />
+    <kelimeler kelime="SİMYA" yasak1="ÖLÜMSÜZLÜK" yasak2="MADDE" yasak3="KİMYA" yasak4="BULMAK" yasak5="BİLİM" />
+    <kelimeler kelime="NEM" yasak1="RUTUBET" yasak2="SU" yasak3="BUHAR" yasak4="HAVA" yasak5="ISLAK" />
+    <kelimeler kelime="SOFİSTİKE" yasak1="YALAN" yasak2="YANILTICI" yasak3="DAVRANMAK" yasak4="İÇTEN" yasak5="YAPMACIK" />
+    <kelimeler kelime="CAMİA" yasak1="TÜR" yasak2="GRUP" yasak3="ZÜMRE" yasak4="TAKIM" yasak5="TOPLULUK" />
+    <kelimeler kelime="DİNAMO" yasak1="ELEKTRİK" yasak2="JENERATÖR" yasak3="DÖNÜŞTÜRMEK" yasak4="AYGIT" yasak5="MEKANİK" />
+    <kelimeler kelime="FEZLEKE" yasak1="YAZI" yasak2="ÖZET" yasak3="HUKUK" yasak4="RAPOR" yasak5="KARAR" />
+    <kelimeler kelime="TERAZİ" yasak1="BURÇ" yasak2="ÖLÇMEK" yasak3="AĞIRLIK" yasak4="DENGE" yasak5="TARTI" />
+    <kelimeler kelime="ÖN YARGI" yasak1="PEŞİN" yasak2="TARAF" yasak3="KARŞI" yasak4="OBJEKTİF" yasak5="HÜKÜM" />
+    <kelimeler kelime="TISLAMAK" yasak1="SES" yasak2="HAYVAN" yasak3="KAZ" yasak4="İNİLTİ" yasak5="YILAN" />
+    <kelimeler kelime="SUİKAST" yasak1="KASIT" yasak2="ÖLDÜRMEK" yasak3="ABDİ İPEKÇİ" yasak4="KURBAN" yasak5="UĞUR MUMCU" />
+    <kelimeler kelime="KLAN" yasak1="AŞİRET" yasak2="BİRLİK" yasak3="TOPLULUK" yasak4="KABİLE" yasak5="BOY" />
+    <kelimeler kelime="KEMALPAŞA" yasak1="MUSTAFA" yasak2="TATLI" yasak3="İZMİR" yasak4="ATATÜRK" yasak5="İLÇE" />
+    <kelimeler kelime="PERİ BACALARI" yasak1="TURİSTİK" yasak2="SİHİRLİ" yasak3="NEVŞEHİR" yasak4="KAYA" yasak5="KAPADOKYA" />
+    <kelimeler kelime="YÜN" yasak1="KUMAŞ" yasak2="GİYSİ" yasak3="İP" yasak4="KOYUN" yasak5="ELYAF" />
+    <kelimeler kelime="UCUZLUK" yasak1="ÜRÜN" yasak2="İNDİRİM" yasak3="FİYAT" yasak4="ALIŞVERİŞ" yasak5="DAVRANIŞ" />
+    <kelimeler kelime="EFES" yasak1="ANTİK" yasak2="İZMİR" yasak3="NEFES" yasak4="BİRA" yasak5="TURİSTİK" />
+    <kelimeler kelime="ALLAH VERGİSİ" yasak1="DOĞUŞTAN" yasak2="TANRI" yasak3="YETENEK" yasak4="YARADILIŞ" yasak5="GÜZELLİK" />
+    <kelimeler kelime="SÜPER MARKET" yasak1="TÜKETİM" yasak2="ALIŞVERİŞ" yasak3="SATIN ALMAK" yasak4="MİGROS" yasak5="MAL" />
+    <kelimeler kelime="KANİŞ" yasak1="HAYVAN" yasak2="FRANSA" yasak3="KÖPEK" yasak4="CİNS" yasak5="ZEKİ" />
+    <kelimeler kelime="KULUÇKAYA YATMAK" yasak1="CİVCİV" yasak2="YUMURTA" yasak3="ISITMAK" yasak4="TAVUK" yasak5="OTURMAK" />
+    <kelimeler kelime="MALA" yasak1="ARAÇ" yasak2="HARÇ" yasak3="SIVA" yasak4="DUVAR" yasak5="VURMAK" />
+    <kelimeler kelime="KANGREN OLMAK" yasak1="DOKU" yasak2="GEÇMEK" yasak3="KAN" yasak4="ÖLMEK" yasak5="KESMEK" />
+    <kelimeler kelime="DEVEKUŞU" yasak1="KABARE" yasak2="GÖMMEK" yasak3="HIZLI" yasak4="KUM" yasak5="UÇMAK" />
+    <kelimeler kelime="BULGUR PİLAVI" yasak1="YEMEK" yasak2="TAHIL" yasak3="KISIR" yasak4="PİRİNÇ" yasak5="BUĞDAY" />
+    <kelimeler kelime="DEMEÇ" yasak1="YAYMAK" yasak2="BEYANAT" yasak3="VERMEK" yasak4="YAYINLAMAK" yasak5="AÇIKLAMA" />
+    <kelimeler kelime="MİKROFON" yasak1="KONUŞMAK" yasak2="HOPARLÖR" yasak3="SES" yasak4="EL" yasak5="KARAOKE" />
+    <kelimeler kelime="TRAŞ LOSYONU" yasak1="SÜRMEK" yasak2="KOLONYA" yasak3="KOKMAK" yasak4="ERKEK" yasak5="SONRA" />
+    <kelimeler kelime="EMLAK VERGİSİ" yasak1="ÇÖP" yasak2="ÖDEMEK" yasak3="EV" yasak4="KONUT" yasak5="BELEDİYE" />
+    <kelimeler kelime="AKUSTİK" yasak1="YANKI" yasak2="MÜZİK" yasak3="SES" yasak4="GİTAR" yasak5="TİTREŞİM" />
+    <kelimeler kelime="GONCA" yasak1="HAL" yasak2="GÜL" yasak3="ÇİÇEK" yasak4="TOMURCUK" yasak5="İSİM" />
+    <kelimeler kelime="ARAKLAMAK" yasak1="AŞIRMAK" yasak2="ÇALMAK" yasak3="YÜRÜTMEK" yasak4="GÖTÜRMEK" yasak5="HIRSIZLIK" />
+    <kelimeler kelime="BOŞLUK" yasak1="DOLDURMAK" yasak2="DÜŞMEK" yasak3="EKSİKLİK" yasak4="DOLU" yasak5="ARALIK" />
+    <kelimeler kelime="RİMEL" yasak1="AĞLAMAK" yasak2="AKMAK" yasak3="KADIN" yasak4="MAKYAJ" yasak5="SÜRMEK" />
+    <kelimeler kelime="PEŞTEMAL" yasak1="ÖRTMEK" yasak2="BEZ" yasak3="HAMAM" yasak4="SARMAK" yasak5="HAVLU" />
+    <kelimeler kelime="SEMAZEN" yasak1="MEVLANA" yasak2="DERVİŞ" yasak3="DÖNMEK" yasak4="EL" yasak5="KALDIRMAK" />
+    <kelimeler kelime="DİZGİNLEMEK" yasak1="ELE ALMAK" yasak2="ENGELLEMEK" yasak3="FRENLEMEK" yasak4="DUYGU" yasak5="ÇEKİLMEK" />
+    <kelimeler kelime="GANYAN" yasak1="BİLET" yasak2="YARIŞ" yasak3="BAYİ" yasak4="AT" yasak5="OYNAMAK" />
+    <kelimeler kelime="KIRITMAK" yasak1="YÜRÜMEK" yasak2="CİLVE" yasak3="DAVRANMAK" yasak4="BEĞENDİRMEK" yasak5="ŞIMARMAK" />
+    <kelimeler kelime="MIZIKÇI" yasak1="OYNAMAK" yasak2="OYUNBOZAN" yasak3="KÜSMEK" yasak4="DARILMAK" yasak5="KABUL ETMEK" />
+    <kelimeler kelime="KLARNET" yasak1="PERDE" yasak2="ÜFLEME" yasak3="METAL" yasak4="ÇALGI" yasak5="HÜSNÜ ŞENLENDİRİCİ" />
+    <kelimeler kelime="DOBRA DOBRA" yasak1="KANAL D" yasak2="MÜGE ANLI" yasak3="PROGRAM" yasak4="TARTIŞMA" yasak5="AÇIK SÖZLÜ" />
+    <kelimeler kelime="TOST MAKİNASI" yasak1="SUCUK" yasak2="KAŞAR" yasak3="EKMEK" yasak4="CİHAZ" yasak5="ELEKTRİK" />
+    <kelimeler kelime="BAŞLIK PARASI" yasak1="GELİN" yasak2="PARA" yasak3="ÖDEMEK" yasak4="DAMAT" yasak5="EVLENMEK" />
+    <kelimeler kelime="ESKRİM" yasak1="SİLAH" yasak2="SPOR" yasak3="KILIÇ" yasak4="YAPMAK" yasak5="STRATEJİK" />
+    <kelimeler kelime="POMPA" yasak1="ŞİŞİRMEK" yasak2="HAVA" yasak3="TEKERLEK" yasak4="BENZİN" yasak5="BASMAK" />
+    <kelimeler kelime="NÜFUS SAYIMI" yasak1="SAYI" yasak2="TOPLANMAK" yasak3="TESPİT ETMEK" yasak4="ÜLKE" yasak5="GENEL" />
+    <kelimeler kelime="CİRİT" yasak1="AT" yasak2="ATMA" yasak3="ATA" yasak4="OYUN" yasak5="SPOR" />
+    <kelimeler kelime="KAZAZEDE" yasak1="YARALANMAK" yasak2="YARALI" yasak3="GEÇİRMEK" yasak4="ÇARPMAK" yasak5="UĞRAMAK" />
+    <kelimeler kelime="FLÖRT ETMEK" yasak1="ERKEK" yasak2="KADIN" yasak3="İLİŞKİ" yasak4="SEVMEK" yasak5="BAKIŞMAK" />
+    <kelimeler kelime="KOPÇA" yasak1="TAKMAK" yasak2="SÜTYEN" yasak3="ASKI" yasak4="BİRLEŞTİRMEK" yasak5="AGRAF" />
+    <kelimeler kelime="FERYAT" yasak1="ETMEK" yasak2="FİGAN" yasak3="HAYKIRIŞ" yasak4="ÇIĞLIK" yasak5="BAĞIRMAK" />
+    <kelimeler kelime="KAV" yasak1="YANMAK" yasak2="KİBRİT" yasak3="SÜRTMEK" yasak4="UÇ" yasak5="KISIM" />
+    <kelimeler kelime="VİAGRA" yasak1="HAP" yasak2="MAVİ" yasak3="ERKEK" yasak4="İLAÇ" yasak5="KULLANMAK" />
+    <kelimeler kelime="MISIR" yasak1="NİL" yasak2="PİRAMİT" yasak3="YEMEK" yasak4="ÜLKE" yasak5="PATLAMIŞ" />
+    <kelimeler kelime="ÇİNGENE" yasak1="NEŞELİ" yasak2="ROMAN" yasak3="SULUKULE" yasak4="DANS ETMEK" yasak5="İNSAN" />
+    <kelimeler kelime="YARALAMAK" yasak1="SİLAH" yasak2="ZARAR VERMEK" yasak3="İNCİTMEK" yasak4="KESİCİ ALET" yasak5="KIRMAK" />
+    <kelimeler kelime="İMHA ETMEK" yasak1="KALDIRMAK" yasak2="YOK ETMEK" yasak3="ENGELLEMEK" yasak4="BOMBA" yasak5="UZMAN" />
+    <kelimeler kelime="ENERJİ" yasak1="KUVVET" yasak2="POTANSİYEL" yasak3="KİNETİK" yasak4="KÜTLE" yasak5="VERMEK" />
+    <kelimeler kelime="SİBİRYA KURDU" yasak1="KÖPEK" yasak2="HUSKY" yasak3="CİNS" yasak4="MAVİ" yasak5="ÇOK TATLI" />
+    <kelimeler kelime="BERLİN DUVARI" yasak1="AYIRMAK" yasak2="ALMANYA" yasak3="DOĞU" yasak4="BATI" yasak5="BÖLÜNMEK" />
+    <kelimeler kelime="MAHREM" yasak1="SIRDAŞ" yasak2="GİZLİ" yasak3="ELİF ŞAFAK" yasak4="SAKLI" yasak5="ROMAN" />
+    <kelimeler kelime="TIPA" yasak1="TIKAÇ" yasak2="MANTAR" yasak3="ŞİŞE" yasak4="KAPATMAK" yasak5="TAPA" />
+    <kelimeler kelime="TERCİH" yasak1="YEĞLEME" yasak2="SEÇİM" yasak3="ÖSS" yasak4="YAPMAK" yasak5="LYS" />
+    <kelimeler kelime="YUMUŞATICI" yasak1="KOKU" yasak2="ÇAMAŞIR" yasak3="YUMOŞ" yasak4="YIKAMAK" yasak5="PARFÜM" />
+    <kelimeler kelime="TIMARLI SİPAHİ" yasak1="OSMANLI" yasak2="ASKER" yasak3="KÖYLÜ" yasak4="VERMEK" yasak5="PARALI" />
+    <kelimeler kelime="İÇ GÜVEYİ" yasak1="BİRLİKTE" yasak2="DAMAT" yasak3="YAŞAMAK" yasak4="HALLİCE" yasak5="AİLE" />
+    <kelimeler kelime="BİLARDO MASASI" yasak1="ISTAKA" yasak2="OYNAMAK" yasak3="TOP" yasak4="DELİK" yasak5="VURMAK" />
+    <kelimeler kelime="MAVİ TUR" yasak1="YOLCULUK" yasak2="YAT" yasak3="DENİZ" yasak4="GEZMEK" yasak5="TEKNE" />
+    <kelimeler kelime="NOSTALJİ" yasak1="YAPMAK" yasak2="ESKİ" yasak3="MUAZEZ ERSOY" yasak4="ALBÜM" yasak5="GEÇMİŞ" />
+    <kelimeler kelime="YATAKHANE" yasak1="OKUL" yasak2="YATMAK" yasak3="YURT" yasak4="KIŞLA" yasak5="YATILI" />
+    <kelimeler kelime="DAVA" yasak1="AÇMAK" yasak2="SUÇ" yasak3="YARGI" yasak4="MAHKEME" yasak5="HAKİM" />
+    <kelimeler kelime="KUYTU" yasak1="GİZLİ" yasak2="KÖŞE" yasak3="ISSIZ" yasak4="ÇEKİLMEK" yasak5="SAKLI" />
+    <kelimeler kelime="KARBÜRATÖR" yasak1="KARIŞTIRMAK" yasak2="ARABA" yasak3="ARAÇ" yasak4="MOTOR" yasak5="YANMAK" />
+    <kelimeler kelime="JETSKİ" yasak1="MOTOR" yasak2="DENİZ" yasak3="SÜRMEK" yasak4="ARAÇ" yasak5="BİNMEK" />
+    <kelimeler kelime="KİLOTLU ÇORAP" yasak1="İNCE" yasak2="KADIN" yasak3="GİYMEK" yasak4="UZUN" yasak5="NAYLON" />
+    <kelimeler kelime="FES" yasak1="OSMANLI" yasak2="BAŞ" yasak3="TAKMAK" yasak4="ŞAPKA" yasak5="ERKEK" />
+    <kelimeler kelime="DEGAJE" yasak1="DÖKÜMLÜ" yasak2="YAKA" yasak3="GİYMEK" yasak4="AÇIK" yasak5="SERBEST" />
+    <kelimeler kelime="SİVİLCE" yasak1="AKNE" yasak2="SIKMAK" yasak3="PATLATMAK" yasak4="CİLT" yasak5="YÜZ" />
+    <kelimeler kelime="KARNIYARIK" yasak1="YEMEK" yasak2="PATLICAN" yasak3="DOLDURMAK" yasak4="KESMEK" yasak5="KOYMA" />
+    <kelimeler kelime="ŞIPSEVDİ" yasak1="SEVMEK" yasak2="MAYMUN İŞTAHLI" yasak3="SEVGİ" yasak4="AŞIK OLMAK" yasak5="SAKIZ" />
+    <kelimeler kelime="YAZIHANE" yasak1="ODA" yasak2="BÜRO" yasak3="İŞ YERİ" yasak4="ÇALIŞMAK" yasak5="OFİS" />
+    <kelimeler kelime="KIZMA BİRADER" yasak1="KARE" yasak2="OYNAMAK" yasak3="OYUN" yasak4="TAŞ" yasak5="ZAR" />
+    <kelimeler kelime="KIKIRDAMAK" yasak1="ÇIKARMAK" yasak2="SES" yasak3="DONMAK" yasak4="KONUŞMAK" yasak5="GÜLMEK" />
+    <kelimeler kelime="POKEMON" yasak1="PİKAÇU" yasak2="ÇİZGİ" yasak3="CHARMANDER" yasak4="TASO" yasak5="ANİME" />
+    <kelimeler kelime="BASKILI TİŞÖRT" yasak1="ÜST" yasak2="DESEN" yasak3="RESİM" yasak4="GİYMEK" yasak5="YAZ" />
+    <kelimeler kelime="BÜROKRASİ" yasak1="KAMU" yasak2="KURAL" yasak3="İŞLEM" yasak4="TOPLULUK" yasak5="YÖNETİCİ" />
+    <kelimeler kelime="TRANSPARAN" yasak1="KADIN" yasak2="ŞEFFAF" yasak3="GİYMEK" yasak4="SAYDAM" yasak5="AÇIK" />
+    <kelimeler kelime="DİYABET" yasak1="İNSÜLİN" yasak2="HASTALIK" yasak3="AZ" yasak4="KRONİK" yasak5="ŞEKER" />
+    <kelimeler kelime="LPG" yasak1="TÜP" yasak2="ARABA" yasak3="GAZ" yasak4="SIVI" yasak5="TAKMAK" />
+    <kelimeler kelime="TAZMANYA CANAVARI" yasak1="KARAKTER" yasak2="DİZİ" yasak3="HAYVAN" yasak4="YIRTICI" yasak5="ÇİZGİ" />
+    <kelimeler kelime="AYRINTI" yasak1="TEFERRUAT" yasak2="DETAY" yasak3="ŞEYTAN" yasak4="TAKILMAK" yasak5="PARÇA" />
+    <kelimeler kelime="KALKAN" yasak1="ZIRH" yasak2="KORUMAK" yasak3="SAVAŞ" yasak4="SAVUNMAK" yasak5="BALIK" />
+    <kelimeler kelime="FORMALİTE" yasak1="KANUNİ" yasak2="İŞLEM" yasak3="YASAL" yasak4="İCAB" yasak5="ÖYLESİNE" />
+    <kelimeler kelime="İMALATHANE" yasak1="YAPIM" yasak2="ÜRETİM" yasak3="İŞ YERİ" yasak4="MOBİLYA" yasak5="ATÖLYE" />
+    <kelimeler kelime="KORSE" yasak1="İNCE" yasak2="SIKMAK" yasak3="GİYMEK" yasak4="GÖSTERMEK" yasak5="KADIN" />
+    <kelimeler kelime="ZORO" yasak1="İZLEMEK" yasak2="DİZİ" yasak3="ÇİZGİ" yasak4="MASKE" yasak5="KARAKTER" />
+    <kelimeler kelime="DERİN DONDURUCU" yasak1="SAKLAMAK" yasak2="SOĞUTMAK" yasak3="UĞUR" yasak4="BEYAZ" yasak5="DONDURMAK" />
+    <kelimeler kelime="KEŞKÜL" yasak1="SÜTLÜ" yasak2="YEMEK" yasak3="ÇANAK" yasak4="FISTIK" yasak5="TATLI" />
+    <kelimeler kelime="KADİFE" yasak1="YUMUŞAK" yasak2="KUMAŞ" yasak3="BEZ" yasak4="PARLAK" yasak5="KESE" />
+    <kelimeler kelime="Q KLAVYE" yasak1="BASMAK" yasak2="BİLGİSAYAR" yasak3="TUŞ" yasak4="TİP" yasak5="F KLAVYE" />
+    <kelimeler kelime="PARALEL EVREN" yasak1="DÜNYA" yasak2="BAŞKA" yasak3="FARKLI" yasak4="TEORİ" yasak5="UZAY" />
+    <kelimeler kelime="ŞEKER KIZ CANDY" yasak1="FİLM" yasak2="ÇİZGİ" yasak3="SARIŞIN" yasak4="İZLEMEK" yasak5="DİZİ" />
+    <kelimeler kelime="EPİLASYON" yasak1="ALMAK" yasak2="KIL" yasak3="ALET" yasak4="KADIN" yasak5="TÜY" />
+    <kelimeler kelime="SÜNGER BOB" yasak1="DİZİ" yasak2="FİLM" yasak3="ÇİZGİ" yasak4="KARAKTER" yasak5="ÇOCUK" />
+    <kelimeler kelime="MİDYE DOLMA" yasak1="ÜRÜN" yasak2="TAVA" yasak3="DENİZ" yasak4="LİMON" yasak5="YEMEK" />
+    <kelimeler kelime="DONDURMA" yasak1="YAZ" yasak2="ERİMEK" yasak3="YALAMAK" yasak4="SERİN" yasak5="MARAŞ" />
+    <kelimeler kelime="DAMA" yasak1="KARE" yasak2="OYUN" yasak3="OYNAMAK" yasak4="ON ALTI" yasak5="TAŞ" />
+    <kelimeler kelime="KOMA" yasak1="GİRMEK" yasak2="DALGINLIK" yasak3="BİLİNÇ" yasak4="HASTALIK" yasak5="ALGILAMAK" />
+    <kelimeler kelime="ŞARJ ALETİ" yasak1="TELEFON" yasak2="BATARYA" yasak3="DOLDURMAK" yasak4="BİTMEK" yasak5="ADAPTÖR" />
+    <kelimeler kelime="CESET" yasak1="CİNAYET" yasak2="ÖLÜ" yasak3="OTOPSİ" yasak4="ADLİ TIP" yasak5="KATİL" />
+    <kelimeler kelime="KLİMA" yasak1="SICAK" yasak2="KALORİFER" yasak3="YAZ" yasak4="SOĞUK" yasak5="DUVAR" />
+    <kelimeler kelime="HALI" yasak1="AYAK" yasak2="BASMAK" yasak3="ODA" yasak4="EV " yasak5="YER" />
+    <kelimeler kelime="NOSTRADAMUS" yasak1="MÜNECCİM" yasak2="KEHANET" yasak3="BİLMEK" yasak4="KİTAP" yasak5="KAHİN" />
+    <kelimeler kelime="MUSLUK" yasak1="BANYO" yasak2="SU" yasak3="TUVALET" yasak4="AKMAK" yasak5="LAVABO" />
+    <kelimeler kelime="DIŞ TİCARET" yasak1="ÜRÜN" yasak2="İTHALAT" yasak3="İHRACAT" yasak4="YABANCI" yasak5="AVRUPA" />
+    <kelimeler kelime="YELKOVAN" yasak1="SAAT" yasak2="ZAMAN" yasak3="AKREP" yasak4="SANİYE" yasak5="SAAT" />
+    <kelimeler kelime="KARTON" yasak1="ÇİZGİ FİLM" yasak2="KAĞIT" yasak3="KOYMAK" yasak4="SERT" yasak5="KUTU" />
+    <kelimeler kelime="ŞEŞ" yasak1="FA" yasak2="TAVLA" yasak3="ALTI" yasak4="OYNAMAK" yasak5="KU" />
+    <kelimeler kelime="GÜNEŞ" yasak1="DÜNYA" yasak2="AY" yasak3="GÖKYÜZÜ" yasak4="GECE" yasak5="GÜNDÜZ" />
+    <kelimeler kelime="ZIMBA" yasak1="KAĞIT" yasak2="KIRTASİYE" yasak3="TEL" yasak4="DELMEK" yasak5="BİRLEŞTİRMEK" />
+    <kelimeler kelime="POKER" yasak1="İSKAMBİL KARTLARI" yasak2="LAS VEGAS" yasak3="BAHİS" yasak4="KUMAR" yasak5="OYUN" />
+    <kelimeler kelime="RANZA" yasak1="UYUMAK" yasak2="YATMAK" yasak3="ODA" yasak4="ÇİFT KAT" yasak5="MOBİLYA" />
+    <kelimeler kelime="BEYAZ SHOW" yasak1="TELEVİZYON" yasak2="KANAL D" yasak3="EĞLENCE" yasak4="BEYAZIT ÖZTÜRK" yasak5="PROGRAM" />
+    <kelimeler kelime="TİNER" yasak1="UÇUCU" yasak2="BOYA" yasak3="İNCELTMEK" yasak4="TEREBENTİN" yasak5="ÇEKMEK" />
+    <kelimeler kelime="ŞEMSİYE" yasak1="ISLANMAK" yasak2="AÇMAK" yasak3="GÜNEŞ" yasak4="YAĞMUR" yasak5="KORUNMAK" />
+    <kelimeler kelime="KESME ŞEKER" yasak1="ÇAY" yasak2="KARIŞTIRMAK" yasak3="KÜP" yasak4="TAT" yasak5="ERİMEK" />
+    <kelimeler kelime="ASFALT" yasak1="KAPLAMA" yasak2="KATRAN" yasak3="YOL" yasak4="KARIŞIM" yasak5="DÖKMEK" />
+    <kelimeler kelime="ZİRAAT FAKÜLTESİ" yasak1="BÖLÜM" yasak2="BİTKİ" yasak3="TARIM" yasak4="ÜRETİM" yasak5="MÜHENDİS" />
+    <kelimeler kelime="MODEM" yasak1="KABLOSUZ" yasak2="TELEKOM" yasak3="ADSL" yasak4="BİLGİSAYAR" yasak5="İNTERNET" />
+    <kelimeler kelime="SIR" yasak1="SAKLAMAK" yasak2="GİZLİ" yasak3="PAYLAŞMAK" yasak4="ANLATMAK" yasak5="İKİ KİŞİ" />
+    <kelimeler kelime="FASIL" yasak1="SAZ" yasak2="MÜZİK" yasak3="GECE" yasak4="TÜRKÜ" yasak5="SANAT" />
+    <kelimeler kelime="BASKÜL" yasak1="ÖLÇMEK" yasak2="KİLO" yasak3="ÇIKMAK" yasak4="TARTI" yasak5="AĞIRLIK" />
+    <kelimeler kelime="ZEYTİN DALI" yasak1="AĞAÇ" yasak2="YAĞ" yasak3="MEYVE" yasak4="BARIŞ" yasak5="UZATMAK" />
+    <kelimeler kelime="NEVRESİM" yasak1="ÖRTMEK" yasak2="YATAK" yasak3="TAKIM" yasak4="ÇARŞAF" yasak5="UYUMAK" />
+    <kelimeler kelime="ARGO" yasak1="KÖTÜ" yasak2="KÜFÜR" yasak3="KABA" yasak4="KÜLHAN BEY" yasak5="KONUŞMAK" />
+    <kelimeler kelime="RADYO" yasak1="FREKANS" yasak2="ÇEKMEK" yasak3="İSTASYON" yasak4="TELEVİZYON" yasak5="MÜZİK" />
+    <kelimeler kelime="AVRUPA BİRLİĞİ" yasak1="GİRMEK" yasak2="UYUM" yasak3="ASYA" yasak4="KOPENHAG" yasak5="YASA" />
+    <kelimeler kelime="KIRBAÇ" yasak1="VURMAK" yasak2="AT" yasak3="FANTAZİ" yasak4="İŞKENCE" yasak5="DÖVMEK" />
+    <kelimeler kelime="İT" yasak1="KÜFÜR" yasak2="ISIRMAK" yasak3="KÖPEK" yasak4="HAVLAMAK" yasak5="ARGO" />
+    <kelimeler kelime="HİPODROM" yasak1="JOKEY" yasak2="AT" yasak3="KOŞU" yasak4="KLÜP" yasak5="YARIŞ" />
+    <kelimeler kelime="TANGO" yasak1="ARJANTİN" yasak2="DANS" yasak3="TUTKULU" yasak4="LATİN" yasak5="ROMANTİK" />
+    <kelimeler kelime="AIDS" yasak1="KAN" yasak2="CİNSELLİK" yasak3="ERKEK" yasak4="KORUNMAK" yasak5="HIV" />
+    <kelimeler kelime="EKSEN" yasak1="EĞİKLİK" yasak2="SANAL" yasak3="NOTA" yasak4="DÖNMEK" yasak5="DOĞRU" />
+    <kelimeler kelime="CİLALAMAK" yasak1="KORUMAK" yasak2="PARLATMAK" yasak3="SÜRMEK" yasak4="TIRNAK" yasak5="AĞAÇ" />
+    <kelimeler kelime="ŞİMŞEK" yasak1="ÇARPIŞMAK" yasak2="GÖK GÜRÜLTÜSÜ" yasak3="BULUT" yasak4="ÇAKMAK" yasak5="ELEKTRİK" />
+    <kelimeler kelime="DIGITURK" yasak1="LİG TV" yasak2="TELEVİZYON" yasak3="SPOR" yasak4="PAKET" yasak5="KABLO TV" />
+    <kelimeler kelime="DENİZ" yasak1="TUZLU SU" yasak2="KUM" yasak3="PLAJ" yasak4="YAZ" yasak5="TATİL" />
+    <kelimeler kelime="RATİNG" yasak1="TELEVİZYON" yasak2="İZLENME" yasak3="KANAL" yasak4="ORAN" yasak5="DİZİ" />
+    <kelimeler kelime="KALEMLİK" yasak1="OKUL" yasak2="ÖĞRENCİ" yasak3="YAZMAK" yasak4="DEFTER" yasak5="SİLGİ" />
+    <kelimeler kelime="FELEK" yasak1="GECE" yasak2="ŞANS" yasak3="BAHT" yasak4="GÜLMEK" yasak5="HAYAT" />
+    <kelimeler kelime="DİŞ" yasak1="AĞIZ" yasak2="SIKMAK" yasak3="ÇİĞNEMEK" yasak4="AZI" yasak5="DOLGU" />
+    <kelimeler kelime="AMBULANS" yasak1="HASTANE" yasak2="POLİS" yasak3="KAZA" yasak4="SİREN" yasak5="ARAÇ" />
+    <kelimeler kelime="PLAYSTATION" yasak1="BİLGİSAYAR" yasak2="OYUN OYNAMAK" yasak3="TELEVİZYON" yasak4="KOL" yasak5="ATARİ" />
+    <kelimeler kelime="TEHLİKE" yasak1="ÖLÜM" yasak2="İKAZ" yasak3="YASAK" yasak4="UYARI" yasak5="ALARM" />
+    <kelimeler kelime="KIRMIZI" yasak1="BOĞA" yasak2="UYANMAK" yasak3="AL" yasak4="RENK" yasak5="KAN" />
+    <kelimeler kelime="KAFES" yasak1="BESLEMEK" yasak2="TEL" yasak3="EVCİL HAYVAN" yasak4="KOYMAK" yasak5="KUŞ" />
+    <kelimeler kelime="PALET" yasak1="AYAK" yasak2="DENİZ" yasak3="RESİM" yasak4="DALGIÇ" yasak5="BOYA" />
+    <kelimeler kelime="YUMURTA" yasak1="TAVUK" yasak2="RAFADAN" yasak3="CİVCİV" yasak4="KAYNATMAK" yasak5="KULUÇKA" />
+    <kelimeler kelime="ŞİŞMAN" yasak1="CILIZ" yasak2="ZAYIF" yasak3="OBEZ" yasak4="ATA DEMİRER" yasak5="BALIK ET" />
+    <kelimeler kelime="DOĞUM GÜNÜ" yasak1="PASTA" yasak2="YAŞ" yasak3="KUTLAMAK" yasak4="MUM" yasak5="HEDİYE" />
+    <kelimeler kelime="ANTİK ÇAĞ" yasak1="ROMAN" yasak2="DÖNEM" yasak3="YUNAN" yasak4="HELEN" yasak5="İLK" />
+    <kelimeler kelime="KATALOG" yasak1="FİRMA" yasak2="AJANS" yasak3="ÜRÜN" yasak4="RESİM" yasak5="BAKMAK" />
+    <kelimeler kelime="GEBE" yasak1="BEBEK" yasak2="EBE" yasak3="KARIN" yasak4="ANNE" yasak5="DOĞURMAK" />
+    <kelimeler kelime="KRAL" yasak1="OKAN BAYÜLGEN" yasak2="KRALİÇE" yasak3="TAHT" yasak4="TAÇ" yasak5="ŞATO" />
+    <kelimeler kelime="FANTAZİ" yasak1="CİNSELLİK" yasak2="KURGU" yasak3="SEKS" yasak4="KIRBAÇ" yasak5="HAYAL" />
+    <kelimeler kelime="MAKİNE" yasak1="ALET" yasak2="CİHAZ" yasak3="MÜHENDİS" yasak4="ÇALIŞMAK" yasak5="BOZULMAK" />
+    <kelimeler kelime="YAZICI" yasak1="BİLGİSAYAR" yasak2="BELGE" yasak3="ÇIKTI" yasak4="MAKİNE" yasak5="PARÇA" />
+    <kelimeler kelime="AJANDA" yasak1="YILBAŞI" yasak2="RANDEVU" yasak3="TARİH" yasak4="YAZMAK" yasak5="TAKVİM" />
+    <kelimeler kelime="ARI" yasak1="KOVAN" yasak2="BAL" yasak3="PETEK" yasak4="AYI" yasak5="MAYA" />
+    <kelimeler kelime="ETEK" yasak1="TERZİ" yasak2="GİYMEK" yasak3="DEKOLTE" yasak4="KISA" yasak5="KIZ" />
+    <kelimeler kelime="EBE" yasak1="BEBEK" yasak2="DOĞURTMAK" yasak3="DOĞMAK" yasak4="HASTANE" yasak5="DÜNYA" />
+    <kelimeler kelime="MUM" yasak1="YAKMAK" yasak2="KİBRİT" yasak3="ATAŞ" yasak4="LOŞ" yasak5="ROMANTİK" />
+    <kelimeler kelime="MAHKEME" yasak1="ADALET" yasak2="YARGI" yasak3="SAVCI" yasak4="AVUKAT" yasak5="HAKİM" />
+    <kelimeler kelime="KÜNEFE" yasak1="PEYNİR" yasak2="HATAY" yasak3="KADAYIF" yasak4="KAYMAK" yasak5="TATLI" />
+    <kelimeler kelime="APARTMAN" yasak1="KAPICI" yasak2="OTURMAK" yasak3="DAİRE" yasak4="BLOK" yasak5="KİRACI" />
+    <kelimeler kelime="SONBAHAR" yasak1="YAPRAK" yasak2="MEVSİM" yasak3="DÜŞMEK" yasak4="AY" yasak5="HÜZÜN" />
+    <kelimeler kelime="BROŞÜR" yasak1="KİTAP" yasak2="TANITIM" yasak3="KÜÇÜK" yasak4="ÜRÜN" yasak5="REKLAM" />
+    <kelimeler kelime="REKLAM" yasak1="ÜRÜN" yasak2="TELEVİZYON" yasak3="MARKA" yasak4="PARA" yasak5="TANITIM" />
+    <kelimeler kelime="MİKRO DALGA" yasak1="ISITMAK" yasak2="FIRIN" yasak3="HIZLI" yasak4="ÇABUK" yasak5="MUTFAK" />
+    <kelimeler kelime="ÇAKMAK" yasak1="YAKMAK" yasak2="ATEŞ" yasak3="ZİPPO" yasak4="KİBRİT" yasak5="SİGARA" />
+    <kelimeler kelime="KAVGA" yasak1="BAĞIRMAK" yasak2="TARTIŞMAK" yasak3="KIZMAK" yasak4="KÜSMEK" yasak5="SİNİRLENMEK" />
+    <kelimeler kelime="PARADOKS" yasak1="BELİRSİZ" yasak2="YANILTMAÇ" yasak3="ABSÜRD" yasak4="ÇELİŞKİ" yasak5="DÖNGÜ" />
+    <kelimeler kelime="YAZI" yasak1="DEFTER" yasak2="KATİP" yasak3="KAĞIT" yasak4="KALEM" yasak5="HARF" />
+    <kelimeler kelime="SİCİL" yasak1="KÜTÜK" yasak2="KAĞIT" yasak3="KAYIT" yasak4="TESCİL" yasak5="TEMİZ" />
+    <kelimeler kelime="SİGARA" yasak1="DUMAN" yasak2="İZMARİT" yasak3="İÇMEK" yasak4="KÜLLÜK" yasak5="TÜTÜN" />
+    <kelimeler kelime="KOL DÜĞMESİ" yasak1="BACAK" yasak2="EL" yasak3="İLİKLEMEK" yasak4="PANTOLON" yasak5="GÖMLEK" />
+    <kelimeler kelime="SİREN" yasak1="UYARI" yasak2="SES" yasak3="ALARM" yasak4="AMBULANS" yasak5="POLİS" />
+    <kelimeler kelime="İLETİŞİM" yasak1="KOPARMAK" yasak2="GSM" yasak3="BAĞLANTI" yasak4="KESİLMEK" yasak5="KONUŞMAK" />
+    <kelimeler kelime="KAPAN" yasak1="ORMAN" yasak2="TUZAK" yasak3="FARE" yasak4="HAYVAN" yasak5="AV" />
+    <kelimeler kelime="TEKERLEK" yasak1="TAŞIT" yasak2="ARABA" yasak3="DÖNMEK" yasak4="MOTOR" yasak5="LASTİK" />
+    <kelimeler kelime="SEDYE" yasak1="AMBULANS" yasak2="HASTA" yasak3="HASTANE" yasak4="TAŞIMAK" yasak5="YATAK" />
+    <kelimeler kelime="JEOTERMAL" yasak1="ISI" yasak2="SALİHLİ" yasak3="SU" yasak4="YERALTI" yasak5="ENERJİ" />
+    <kelimeler kelime="PATOLOJİ" yasak1="ARAŞTIRMA" yasak2="TIP" yasak3="HÜCRE" yasak4="İNCELEME" yasak5="BİLİM" />
+    <kelimeler kelime="MAGAZİN" yasak1="ARTİST" yasak2="ÜNLÜ" yasak3="HAYAT" yasak4="HABER" yasak5="PROGRAM" />
+    <kelimeler kelime="PROFESÖR" yasak1="DOKTOR" yasak2="HOCA" yasak3="ÜNİVERSİTE" yasak4="DOÇENT" yasak5="ÜNVAN" />
+    <kelimeler kelime="TALAN ETMEK" yasak1="YIKMAK" yasak2="YAĞMALAMAK" yasak3="YAKMAK" yasak4="ZARAR VERMEK" yasak5="ÇALMAK" />
+    <kelimeler kelime="KAPLICA" yasak1="KAYNAK" yasak2="SU" yasak3="SICAK" yasak4="ILICA" yasak5="SPA" />
+    <kelimeler kelime="GÜNCEL" yasak1="BUGÜN" yasak2="AKTÜEL" yasak3="HABER" yasak4="DURUM" yasak5="OLAY" />
+    <kelimeler kelime="HİNDİBA" yasak1="RADİKA" yasak2="SEBZE" yasak3="YEŞİL" yasak4="KARA" yasak5="BİTKİ" />
+    <kelimeler kelime="SEBZE" yasak1="TAZE" yasak2="MEYVE" yasak3="KİLO" yasak4="YEMEK" yasak5="PAZAR" />
+    <kelimeler kelime="MENZİL" yasak1="GÖRÜŞ" yasak2="UÇAK" yasak3="YÜKSEKLİK" yasak4="MESAFE" yasak5="UÇAK" />
+    <kelimeler kelime="UYGULAMA" yasak1="YAPMAK" yasak2="PRATİK" yasak3="YASA" yasak4="YAPTIRIM" yasak5="TATBİK" />
+    <kelimeler kelime="KOBRA YILANI" yasak1="VAHŞİ" yasak2="SÜRÜNGEN" yasak3="ÇALGI" yasak4="PİTON" yasak5="ÇINGIRAK" />
+    <kelimeler kelime="AVATAR" yasak1="MAVİ" yasak2="FİLM" yasak3="YARATIK" yasak4="PANDORA" yasak5="JAMES CAMERON" />
+    <kelimeler kelime="ŞİKE" yasak1="ÇIKAR" yasak2="YAPMAK" yasak3="SPOR" yasak4="ANLAŞMA" yasak5="FUTBOL" />
+    <kelimeler kelime="DUVAR KAĞIDI" yasak1="EV" yasak2="SÜSLEMEK" yasak3="KORUMAK" yasak4="GÜZELLEŞTİRMEK" yasak5="YAPIŞTIRMAK" />
+    <kelimeler kelime="MUSTAFA TOPALOĞLU" yasak1="KEKELEMEK" yasak2="ŞARKICI" yasak3="TÜRKÜ" yasak4="OBAMA" yasak5="UZAY" />
+    <kelimeler kelime="NABIZ" yasak1="BOYUN" yasak2="BİLEK" yasak3="ATMAK" yasak4="YOKLAMAK" yasak5="SAYMAK" />
+    <kelimeler kelime="UĞUR" yasak1="İSİM" yasak2="BÖCEK" yasak3="AT NALI" yasak4="İNANÇ" yasak5="MARKA" />
+    <kelimeler kelime="YAĞMUR" yasak1="SEL" yasak2="BULUT" yasak3="SU" yasak4="YAĞMAK" yasak5="DAMLA" />
+    <kelimeler kelime="EMNİYET KEMERİ" yasak1="ARAÇ" yasak2="TRAFİK" yasak3="GÜVENLİK" yasak4="KAZA" yasak5="TAKMAK" />
+    <kelimeler kelime="OLGUN" yasak1="ERİŞKİN" yasak2="YETİŞKİN" yasak3="AĞIRBAŞLI" yasak4="DOLGUN" yasak5="MEYVE" />
+    <kelimeler kelime="EVEREST" yasak1="YÜKSEK" yasak2="TIRMANMA" yasak3="TİBET" yasak4="HİMALAYA" yasak5="DAĞCI" />
+    <kelimeler kelime="SESSİZ FİLM" yasak1="TELEVİZYON" yasak2="SİYAH BEYAZ" yasak3="SİNEMA" yasak4="CHARLIE CHAPLIN" yasak5="ESKİ" />
+    <kelimeler kelime="CİLT" yasak1="KAPAK" yasak2="KARTON" yasak3="DERİ" yasak4="KAP" yasak5="TEN" />
+    <kelimeler kelime="KÖPÜK" yasak1="DENİZ" yasak2="BİRA" yasak3="KAHVE" yasak4="SABUN" yasak5="BEYAZ" />
+    <kelimeler kelime="KAZANÇ" yasak1="GELİR" yasak2="MAAŞ" yasak3="MANEVİ" yasak4="AYLIK" yasak5="PARA" />
+    <kelimeler kelime="TAMİRCİ" yasak1="TAKIM" yasak2="İŞÇİ" yasak3="TULUM" yasak4="ARIZA" yasak5="BAKIM" />
+    <kelimeler kelime="HAÇ" yasak1="HRİSTİYAN" yasak2="ARTI" yasak3="İSA" yasak4="ÇARMIH" yasak5="ÇAĞLA ŞİKEL" />
+    <kelimeler kelime="PARSTIRMA" yasak1="ET" yasak2="KAYSERİ" yasak3="SICAK" yasak4="YUMURTA" yasak5="KOKU" />
+    <kelimeler kelime="ÖKSÜZ" yasak1="ANNE" yasak2="GARİP" yasak3="YURT" yasak4="YARDIM" yasak5="YALNIZ" />
+    <kelimeler kelime="STADYUM" yasak1="YEŞİL SAHA" yasak2="KONSER" yasak3="TRİBÜN" yasak4="MAÇ" yasak5="BİLET" />
+    <kelimeler kelime="KISIR DÖNGÜ" yasak1="SINIRLI" yasak2="BULGUR" yasak3="KARŞIT" yasak4="FASİT DAİRE" yasak5="ÇOCUĞU OLMAYAN" />
+    <kelimeler kelime="MAHALLE" yasak1="YERLEŞİM" yasak2="İDARİ BÖLÜM" yasak3="SOKAKLAR" yasak4="İNSAN" yasak5="SAKİN" />
+    <kelimeler kelime="KALIP" yasak1="CÜSSE" yasak2="ELBİSE" yasak3="SABUN" yasak4="PATRON" yasak5="BİÇİM" />
+    <kelimeler kelime="HİNDİ" yasak1="TAVUK" yasak2="KÜMES" yasak3="KABARMA" yasak4="YILBAŞI" yasak5="KEL FATMA" />
+    <kelimeler kelime="ÇATAL" yasak1="KAŞIK" yasak2="TABAK" yasak3="AÇMA" yasak4="SİMİT" yasak5="YEMEK" />
+    <kelimeler kelime="TİYATRO" yasak1="SAHNE" yasak2="OYUNCU" yasak3="PERDE" yasak4="OYUN" yasak5="YÖNETMEN" />
+    <kelimeler kelime="DÜŞMANLIK" yasak1="HUSUMET" yasak2="HASIM" yasak3="KAVGA" yasak4="DOST" yasak5="SAVAŞ" />
+    <kelimeler kelime="BAL" yasak1="ARI" yasak2="KOVAN" yasak3="PETEK" yasak4="REÇEL" yasak5="KAHVALTI" />
+    <kelimeler kelime="RAKI BARDAĞI" yasak1="KADEH" yasak2="ANASON" yasak3="ASLAN SÜTÜ" yasak4="MEYHANE" yasak5="MEZE" />
+    <kelimeler kelime="E-MAİL" yasak1="BİLGİSAYAR" yasak2="HABERLEŞME" yasak3="ELEKTRONİK" yasak4="MEKTUP" yasak5="ÇAĞDAŞ" />
+    <kelimeler kelime="SOKET" yasak1="VERİ" yasak2="UÇ" yasak3="PRİZ" yasak4="KABLO" yasak5="ÇORAP" />
+    <kelimeler kelime="SARGI" yasak1="PANSUMAN" yasak2="GAZLI BEZ" yasak3="YARA" yasak4="ŞERİT" yasak5="SARMAK" />
+    <kelimeler kelime="MEHMET ALİ ERBİL" yasak1="DOBROVSKİ" yasak2="ÇARKIFELEK" yasak3="SHOWMAN" yasak4="SUNUCU" yasak5="TİYATRO" />
+    <kelimeler kelime="TURİST" yasak1="DÖVİZ" yasak2="REHBER" yasak3="TUR" yasak4="SEYEHAT" yasak5="ÖMER" />
+    <kelimeler kelime="SEREMONİ" yasak1="RESMİ" yasak2="KURAL" yasak3="TÖREN" yasak4="KUTLAMA" yasak5="RİTÜEL" />
+    <kelimeler kelime="BOĞA GÜREŞİ" yasak1="MATADOR" yasak2="ARENA" yasak3="OLEY" yasak4="CESARET" yasak5="İSPANYA" />
+    <kelimeler kelime="KAYAK" yasak1="KAR" yasak2="ULUDAĞ" yasak3="KARTAL KAYA" yasak4="KIRMIZI" yasak5="BUZ" />
+    <kelimeler kelime="RÜKÜŞ" yasak1="GİYİM" yasak2="UYUMSUZ" yasak3="ÇİRKİN" yasak4="GÜLÜNÇ" yasak5="SAKİL" />
+    <kelimeler kelime="APOLET" yasak1="SUBAY" yasak2="SÜS" yasak3="ÜNİFORMA" yasak4="RÜTBE" yasak5="OMUZ" />
+    <kelimeler kelime="POSTER" yasak1="ASMAK" yasak2="DUVAR" yasak3="BİLDİRİ" yasak4="RESİM" yasak5="PANO" />
+    <kelimeler kelime="PARAŞÜT" yasak1="YÜKSEK" yasak2="DÜŞME" yasak3="ARAÇ" yasak4="ATLAMA" yasak5="UÇAK" />
+    <kelimeler kelime="PARMAK İZİ" yasak1="DELİL" yasak2="İPUCU" yasak3="DERİ" yasak4="HALKA" yasak5="KRİMİNAL" />
+    <kelimeler kelime="YATAY" yasak1="ENLEM" yasak2="PARALEL" yasak3="X EKSENİ" yasak4="ZEMİN" yasak5="UFKİ" />
+    <kelimeler kelime="FOLKLÖR" yasak1="OYUN" yasak2="KIYAFET" yasak3="GRUP" yasak4="YÖRE" yasak5="ANADOLU" />
+    <kelimeler kelime="YENGEÇ" yasak1="YÜRÜME" yasak2="KABUK" yasak3="KISKAÇ" yasak4="KAYA" yasak5="DENİZ" />
+    <kelimeler kelime="AYI" yasak1="ARMUT" yasak2="YOGİ" yasak3="HAYVAN" yasak4="BOZ" yasak5="KUTUP" />
+    <kelimeler kelime="SMOKİN" yasak1="PAPYON" yasak2="DAVET" yasak3="ERKEK" yasak4="RESMİ" yasak5="SİYAH" />
+    <kelimeler kelime="YATAK ODASI" yasak1="UYKU" yasak2="DEKORASYON" yasak3="FANTAZİ" yasak4="BÖLÜM" yasak5="EV" />
+    <kelimeler kelime="ATA DEMİRER" yasak1="KOMEDYEN" yasak2="ŞİŞMAN" yasak3="AVRUPA YAKASI" yasak4="STAND UP" yasak5="KORSAN TV" />
+    <kelimeler kelime="YARIŞ PİSTİ" yasak1="PADOK" yasak2="VİRAJ" yasak3="HIZ" yasak4="FORMULA" yasak5="PİLOT" />
+    <kelimeler kelime="HOTEL" yasak1="İŞLETME" yasak2="KONAKLAMA" yasak3="YATAK" yasak4="TURİST" yasak5="YOLCU" />
+    <kelimeler kelime="CİKLET" yasak1="SAKIZ" yasak2="PATLATMA" yasak3="ÇİĞNEME" yasak4="MENTOL" yasak5="NANE" />
+    <kelimeler kelime="KIZAMIK" yasak1="AŞI" yasak2="ÇOCUK" yasak3="BULAŞICI" yasak4="HASTALIK" yasak5="BENEK" />
+    <kelimeler kelime="HAKİM" yasak1="OLAY" yasak2="SUÇLU" yasak3="MAHKEME" yasak4="AVUKAT" yasak5="TOKMAK" />
+    <kelimeler kelime="SIRT" yasak1="DAYAMAK" yasak2="GÖĞÜS" yasak3="TEPE" yasak4="ÜST" yasak5="ARKA" />
+    <kelimeler kelime="AY TUTULMASI" yasak1="GÖLGE" yasak2="DİZİLME" yasak3="DÜNYA" yasak4="GÜNEŞ" yasak5="KARARMA" />
+    <kelimeler kelime="VİŞNE" yasak1="KOMPOSTO" yasak2="EKŞİ" yasak3="REÇEL" yasak4="KİRAZ" yasak5="MEYVE" />
+    <kelimeler kelime="İSKELET" yasak1="ÇATI" yasak2="BİNA" yasak3="ÇIPLAK" yasak4="ZAYIF" yasak5="KEMİK" />
+    <kelimeler kelime="TAN SAĞTÜRK" yasak1="DANS" yasak2="BALE" yasak3="FRANSA" yasak4="SANATÇI" yasak5="OKUL" />
+    <kelimeler kelime="TOPUZ" yasak1="KADIN" yasak2="KUAFÖR" yasak3="SAÇ" yasak4="BAŞ" yasak5="TOPLAMAK" />
+    <kelimeler kelime="SAPAN" yasak1="AVLAMAK" yasak2="KUŞ" yasak3="TAŞ" yasak4="ATMAK" yasak5="İLKEL" />
+    <kelimeler kelime="GÜN BATIMI" yasak1="UFUK" yasak2="GÜNEŞ" yasak3="KIZIL" yasak4="AKŞAM ÜSTÜ" yasak5="MANZARA" />
+    <kelimeler kelime="DİZ" yasak1="MENİSKÜS" yasak2="OYNAK" yasak3="EKLEM" yasak4="KAPAK" yasak5="BACAK" />
+    <kelimeler kelime="FERİBOT" yasak1="GEMİ" yasak2="TRANSPORT" yasak3="NAKİL" yasak4="ARAÇ" yasak5="DENİZ" />
+    <kelimeler kelime="TRAMPLEN" yasak1="SIÇRAMAK" yasak2="YÜZME" yasak3="SU" yasak4="HAVUZ" yasak5="ATLAMAK" />
+    <kelimeler kelime="KİTAPLIK" yasak1="DOLAP" yasak2="RAF" yasak3="KÜTÜPHANE" yasak4="SAKLAMA" yasak5="DİZME" />
+    <kelimeler kelime="DELME" yasak1="SİVRİ" yasak2="MATKAP" yasak3="YELEK" yasak4="KULAK" yasak5="PIERCING" />
+    <kelimeler kelime="BAYRAK" yasak1="DALGALANMAK" yasak2="MİLLET" yasak3="ÜLKE" yasak4="SANCAK" yasak5="SİMGE" />
+    <kelimeler kelime="TETİK ÇEKME" yasak1="DÜĞÜN" yasak2="PATLAMA" yasak3="SİLAH" yasak4="ATEŞ ETMEK" yasak5="KURŞUN" />
+    <kelimeler kelime="GIDIKLAMA" yasak1="PARMAK" yasak2="HUYLANMA" yasak3="KAHKAHA" yasak4="GÜLME" yasak5="KRİZ" />
+    <kelimeler kelime="KARTVİZİT" yasak1="FİRMA" yasak2="TANITMA" yasak3="UNVAN" yasak4="BASTIRMAK" yasak5="BİLGİ" />
+    <kelimeler kelime="FERNANDO ALONSO" yasak1="FORMULA 1" yasak2="İSPANYOL" yasak3="YARIŞ" yasak4="PİLOT" yasak5="RENAULT" />
+    <kelimeler kelime="TANSİYON" yasak1="ALET" yasak2="DÜŞÜK" yasak3="YÜKSEK" yasak4="ÖLÇME" yasak5="NABIZ" />
+    <kelimeler kelime="YABANCI" yasak1="AVRUPA" yasak2="TURİST" yasak3="FARKLI" yasak4="DİL" yasak5="LİSAN" />
+    <kelimeler kelime="TAMPON" yasak1="BASKI" yasak2="ARABA" yasak3="KAZA" yasak4="TIKAÇ" yasak5="ÇARPMA" />
+    <kelimeler kelime="ŞEHİR" yasak1="KENT" yasak2="İL" yasak3="KALABALIK" yasak4="BÜYÜK" yasak5="YERLEŞİM" />
+    <kelimeler kelime="İZCİ" yasak1="İZ" yasak2="TAKİPÇİ" yasak3="EĞİTİM" yasak4="GENÇ" yasak5="KAMP" />
+    <kelimeler kelime="HEYKEL" yasak1="HEYKELTRAŞ" yasak2="YONTU" yasak3="BÜST" yasak4="TUNÇ" yasak5="STATÜ" />
+    <kelimeler kelime="FERMUAR" yasak1="KAPATICI" yasak2="CIRCIR" yasak3="ÇEKMEK" yasak4="MONT" yasak5="PANTOLON" />
+    <kelimeler kelime="DÜĞÜN" yasak1="GELİN" yasak2="DAMAT" yasak3="MİSAFİR" yasak4="YÜZÜK" yasak5="EVLENMEK" />
+    <kelimeler kelime="MUM IŞIĞI" yasak1="TİTREK" yasak2="KIRMIZI" yasak3="ROMANTİZM" yasak4="YEMEK" yasak5="ELEKTRİK" />
+    <kelimeler kelime="GARAJ" yasak1="PARK" yasak2="AÇIK" yasak3="KAPALI" yasak4="TERMİNAL" yasak5="TAMİRHANE" />
+    <kelimeler kelime="OJE" yasak1="TIRNAK" yasak2="MANİKÜR" yasak3="RENK" yasak4="SÜRMEK" yasak5="ASETON" />
+    <kelimeler kelime="BUKET" yasak1="DEMET" yasak2="GÜL" yasak3="ÇİÇEK" yasak4="İSİM" yasak5="HEDİYE" />
+    <kelimeler kelime="POST" yasak1="HAYVAN DERİSİ" yasak2="DİREK" yasak3="POSTALAMA" yasak4="YÜN YUMAĞI" yasak5="KÜRK" />
+    <kelimeler kelime="KAFATASI" yasak1="BEYİN" yasak2="SAÇ" yasak3="KAZI" yasak4="KEMİK" yasak5="ARKEOLOJİ" />
+    <kelimeler kelime="KALECİ" yasak1="MAÇ" yasak2="GOL" yasak3="KURTARMAK" yasak4="TOP" yasak5="TAKIM" />
+    <kelimeler kelime="HÜLYA AVŞAR" yasak1="KAYA" yasak2="SİNEMA" yasak3="SANATÇI" yasak4="MAVİ GÖZ " yasak5="HELİN" />
+    <kelimeler kelime="REPLİKA" yasak1="KOPYA" yasak2="KLASİK" yasak3="KOLEKSİYON" yasak4="MÜZE" yasak5="RESİM" />
+    <kelimeler kelime="ÇINAR" yasak1="AĞAÇ" yasak2="HEYBETLİ" yasak3="EVLADİYELİK" yasak4="KALIN" yasak5="İSİM" />
+    <kelimeler kelime="ÇILBIR" yasak1="TEREYAĞ" yasak2="SU" yasak3="YUMURTA" yasak4="YOĞURT" yasak5="KAYNATMA" />
+    <kelimeler kelime="YALI" yasak1="KIYI" yasak2="DENİZ" yasak3="EV" yasak4="SAHİL" yasak5="KAZIK" />
+    <kelimeler kelime="MÜZE" yasak1="ZİYARET" yasak2="ESKİ" yasak3="ARKEOLOJİ" yasak4="TOPKAPI" yasak5="TARİH" />
+    <kelimeler kelime="PORTMANTO" yasak1="ASKILIK" yasak2="AYNA" yasak3="ANTRE" yasak4="PALTO" yasak5="ŞAPKA" />
+    <kelimeler kelime="FONDÖTEN" yasak1="RENK" yasak2="KAPATICI" yasak3="KREM" yasak4="SÜRME" yasak5="CİLT" />
+    <kelimeler kelime="GEOMETRİ" yasak1="ÇİZİM" yasak2="MATEMATİK" yasak3="DERS" yasak4="ÜÇGEN" yasak5="ŞEKİL" />
+    <kelimeler kelime="KALDIRIM" yasak1="YAYA" yasak2="YOL" yasak3="TAŞ" yasak4="YÜRÜME" yasak5="MÜHENDİS" />
+    <kelimeler kelime="ÇEKİLME" yasak1="AYRILMA" yasak2="GERİLEME" yasak3="RİCAT" yasak4="İSTİFA" yasak5="BIRAKMA" />
+    <kelimeler kelime="RODEO" yasak1="OYUN" yasak2="YABANİ AT" yasak3="ÖKÜZ" yasak4="BİNİCİ" yasak5="AMERİKA" />
+    <kelimeler kelime="COĞRAFYA" yasak1="DERS" yasak2="HARİTA" yasak3="DÜNYA" yasak4="YERYÜZÜ" yasak5="BİLİM" />
+    <kelimeler kelime="BÜLENT ERSOY" yasak1="TÜRK SANAT MÜZİĞİ" yasak2="SANATÇI" yasak3="GÜÇLÜ SES" yasak4="SAHNE" yasak5="CİNSİYET" />
+    <kelimeler kelime="FREDDIE MERCURY" yasak1="SOLİST" yasak2="QUEEN" yasak3="BOHEMIAN RHAPSODY" yasak4="AIDS" yasak5="ROCK" />
+    <kelimeler kelime="VİZE" yasak1="KONSOLOSLUK" yasak2="GİRİŞ İZNİ" yasak3="YURTDIŞI" yasak4="ARASINAV" yasak5="GİTMEK" />
+    <kelimeler kelime="KÜREK ÇEKME" yasak1="SANDAL" yasak2="KANO" yasak3="DENİZ" yasak4="AKINTI" yasak5="SPOR" />
+    <kelimeler kelime="GEYİK" yasak1="HAYVAN" yasak2="BOYNUZ" yasak3="SOHBET" yasak4="REN" yasak5="KUZEY" />
+    <kelimeler kelime="RAMAZAN BAYRAMI" yasak1="ORUÇ" yasak2="ŞEKER" yasak3="DİNİ" yasak4="TATİL" yasak5="ZİYARET" />
+    <kelimeler kelime="AĞDA" yasak1="KIL" yasak2="BACAK" yasak3="KADIN" yasak4="KUAFÖR" yasak5="SESU" />
+    <kelimeler kelime="YELEK" yasak1="CEKET" yasak2="CAN" yasak3="ÇELİK" yasak4="GİYMEK" yasak5="KOLSUZ" />
+    <kelimeler kelime="SUÇ ORTAĞI" yasak1="ETMEK" yasak2="YARDIM" yasak3="BERABER" yasak4="YASAK" yasak5="YATAKLIK" />
+    <kelimeler kelime="MOZAİK" yasak1="KÜÇÜK" yasak2="TAŞ" yasak3="MERMER" yasak4="DÖŞEME" yasak5="PASTA" />
+    <kelimeler kelime="LEKE" yasak1="İZ" yasak2="KİR" yasak3="KUMAŞ" yasak4="TEMİZLEME" yasak5="DETERJAN" />
+    <kelimeler kelime="EVREN" yasak1="KAİNAT" yasak2="UZAY" yasak3="ALEM" yasak4="KOZMOS" yasak5="DÜZEN" />
+    <kelimeler kelime="KABE" yasak1="TAVAF" yasak2="MÜSLÜMAN" yasak3="İSLAM" yasak4="KUTSAL" yasak5="MEKKE" />
+    <kelimeler kelime="BİLİRKİŞİ" yasak1="UZMAN" yasak2="EKSPER" yasak3="RAPOR" yasak4="İNCELEME" yasak5="MAHKEME" />
+    <kelimeler kelime="ŞEFKAT" yasak1="GÖSTERMEK" yasak2="ANNE" yasak3="DUYGU" yasak4="SEVGİ" yasak5="MERHAMET" />
+    <kelimeler kelime="TOMBALAK" yasak1="ŞİŞMAN" yasak2="ZAYIF" yasak3="YUVARLAK" yasak4="KISA" yasak5="KİLOLU" />
+    <kelimeler kelime="ŞEYTANA UYMAK" yasak1="KÖTÜ" yasak2="SUÇ" yasak3="HATA" yasak4="GÜNAH" yasak5="YAPMAK" />
+    <kelimeler kelime="ADRENALİN" yasak1="YÜKSELMEK" yasak2="HEYECAN" yasak3="MACERA" yasak4="YAŞAMAK" yasak5="BUNGEE JUMPING" />
+    <kelimeler kelime="YASTIKALTI" yasak1="BANKA" yasak2="SAKLAMAK" yasak3="EV" yasak4="PARA" yasak5="BİRİKTİRMEK" />
+    <kelimeler kelime="ATARLI" yasak1="KIZGIN" yasak2="SİNİRLİ" yasak3="ANİ" yasak4="ERGEN" yasak5="ÖFKE" />
+    <kelimeler kelime="SUİSTİMAL" yasak1="İYİ" yasak2="NİYET" yasak3="KULLANMAK" yasak4="FAYDALANMAK" yasak5="KÖTÜ" />
+    <kelimeler kelime="GİYİNİK" yasak1="SOYUNMAK" yasak2="ELBİSE" yasak3="ÇIPLAK" yasak4="SABAH" yasak5="KIYAFET" />
+    <kelimeler kelime="İÇİ GEÇMEK" yasak1="UYUMAK" yasak2="İSTEMEK" yasak3="YATMAK" yasak4="YAŞLI" yasak5="BOZULMAK" />
+    <kelimeler kelime="ŞİLE BEZİ" yasak1="İLÇE" yasak2="DENİZ" yasak3="KUMAŞ" yasak4="İNCE" yasak5="YAZLIK" />
+    <kelimeler kelime="MİKROCERRAHİ" yasak1="AMELİYAT" yasak2="DOKTOR" yasak3="HASTANE" yasak4="İNCE" yasak5="BEYİN" />
+    <kelimeler kelime="TRENÇKOT" yasak1="YAĞMURLUK" yasak2="PALTO" yasak3="İNCE" yasak4="PARDÖSÜ" yasak5="MONT" />
+    <kelimeler kelime="TÜY SİKLET" yasak1="KİLO" yasak2="BOKSÖR" yasak3="AĞIRLIK" yasak4="DÖVÜŞMEK" yasak5="İNCE" />
+    <kelimeler kelime="KAPIŞMAK" yasak1="KAVGA" yasak2="KAPMAK" yasak3="HIZLI" yasak4="TARTIŞMAK" yasak5="SİNİRLENMEK" />
+    <kelimeler kelime="POLYESTER" yasak1="GİYSİ" yasak2="BLUZ" yasak3="TERLEMEK" yasak4="KUMAŞ" yasak5="SENTETİK" />
+    <kelimeler kelime="KAOTİK" yasak1="KARIŞIK" yasak2="KARGAŞA" yasak3="DÜZENSİZ" yasak4="ORTAM" yasak5="OLAY" />
+    <kelimeler kelime="BÜZÜLMEK" yasak1="KÜÇÜLMEK" yasak2="TORBA" yasak3="AĞIZ" yasak4="EZİLMEK" yasak5="KORKMAK" />
+    <kelimeler kelime="NEMRUT" yasak1="GÜLMEK" yasak2="SURATSIZ" yasak3="ADIYAMAN" yasak4="DAĞ" yasak5="SEVİMSİZ" />
+    <kelimeler kelime="NEZAKETEN" yasak1="KİBAR" yasak2="GÖRGÜ" yasak3="İSTEMEDEN" yasak4="DAVRANMAK" yasak5="SAYGILI" />
+    <kelimeler kelime="AKRAN" yasak1="YAŞ" yasak2="AYNI" yasak3="ÇOCUK" yasak4="YAKIN" yasak5="ARKADAŞ" />
+    <kelimeler kelime="KONTES" yasak1="SOYLU" yasak2="KADIN" yasak3="PRENSES" yasak4="EŞ" yasak5="DÜŞES" />
+    <kelimeler kelime="SİMULTANE TERCÜME" yasak1="ANINDA" yasak2="İNGİLİZCE" yasak3="DİL" yasak4="ÇEVİRMEK" yasak5="KONUŞMAK" />
+    <kelimeler kelime="DARMADUMAN" yasak1="DAĞILMAK" yasak2="GRUP" yasak3="ROCK" yasak4="ALBÜM" yasak5="YENİLMEK" />
+    <kelimeler kelime="YAVRUKURT" yasak1="İZCİ SÖZÜ" yasak2="ÇOCUK" yasak3="KAMP" yasak4="ÇADIR" yasak5="ATEŞ" />
+    <kelimeler kelime="IŞILTI" yasak1="PARILTI" yasak2="SİM" yasak3="FAR" yasak4="IŞIK" yasak5="LAMBA" />
+    <kelimeler kelime="ANTARKTİKA" yasak1="KUTUP" yasak2="PENGUEN" yasak3="BUZUL" yasak4="SOĞUK" yasak5="KITA" />
+    <kelimeler kelime="ŞEYTAN TIRNAĞI" yasak1="MANİKÜR" yasak2="PARMAK" yasak3="KENAR" yasak4="ACITMK" yasak5="EL" />
+    <kelimeler kelime="KIŞKIRTICI" yasak1="HAREKET" yasak2="TAHRİK ETMEK" yasak3="BAŞTAN ÇIKARMAK" yasak4="SEKSİ" yasak5="HEVESLENDİRMEK" />
+    <kelimeler kelime="KEHANET" yasak1="KAHİN" yasak2="BİLMEK" yasak3="NOSTRADAMUS" yasak4="FAL" yasak5="GELECEK" />
+    <kelimeler kelime="KOKUŞMAK" yasak1="BOZULMAK" yasak2="ÇÜRÜMEK" yasak3="KALMAK" yasak4="YEMEK" yasak5="ESKİ" />
+    <kelimeler kelime="KALFA" yasak1="USTA" yasak2="ÇIRAK" yasak3="İNŞAAT" yasak4="ÖĞRENMEK" yasak5="YARDIMCI" />
+    <kelimeler kelime="BROADWAY" yasak1="NEW YORK" yasak2="AMERİKA" yasak3="KABARE" yasak4="MÜZİKAL" yasak5="TİYATRO" />
+    <kelimeler kelime="KILIFINA UYDURMAK" yasak1="ÇALMAK" yasak2="KANDIRMAK" yasak3="MİNARE" yasak4="HESAPLAMAK" yasak5="YASTIK" />
+    <kelimeler kelime="BOLLYWOOD" yasak1="SİNEMA" yasak2="HİNDİSTAN" yasak3="DANS" yasak4="AMERİKA" yasak5="FİLM" />
+    <kelimeler kelime="SABİT FİKİRLİ" yasak1="İNATÇI" yasak2="DÜŞÜNMEK" yasak3="DÜMDÜZ" yasak4="AYNI" yasak5="ANLATMAK" />
+    <kelimeler kelime="RETRO" yasak1="ESKİ MODA" yasak2="NOSTALJİK" yasak3="VİNTAGE" yasak4="GEÇMİŞ" yasak5="TARZ" />
+    <kelimeler kelime="KİCK BOKS" yasak1="KARATE" yasak2="TEKME" yasak3="YUMRUK" yasak4="VURMAK" yasak5="RİNG" />
+    <kelimeler kelime="DENİZAŞIRI" yasak1="UZAK" yasak2="ÜLKE" yasak3="GEMİ" yasak4="YOLCULUK" yasak5="UÇAK" />
+    <kelimeler kelime="OTOBUR" yasak1="ET" yasak2="HAYVAN" yasak3="BESLENMEK" yasak4="YEMEK" yasak5="BİTKİ" />
+    <kelimeler kelime="KERATİN" yasak1="SAÇ" yasak2="DÜZLEŞTİRMEK" yasak3="KUAFÖR" yasak4="TIRNAK" yasak5="BAKIM" />
+    <kelimeler kelime="BOCALAMAK" yasak1="ŞAŞIRMAK" yasak2="KARARSIZ" yasak3="ŞÜPHE" yasak4="EMİN OLMAK" yasak5="BİLMEK" />
+    <kelimeler kelime="SUDAN SEBEP" yasak1="UYDURMAK" yasak2="BAHANE" yasak3="BAŞTAN SAVMA" yasak4="İNANMAK" yasak5="MAZARET" />
+    <kelimeler kelime="ŞEREF MİSAFİRİ" yasak1="DAVET ETMEK" yasak2="TOPLANTI" yasak3="KONUK" yasak4="ONUR KONUĞU" yasak5="ÖNEMLİ" />
+    <kelimeler kelime="SİLSİLE" yasak1="BAĞLI" yasak2="DİZİ" yasak3="SIRA" yasak4="OLAY" yasak5="ZİNCİR" />
+    <kelimeler kelime="SABAHLIK" yasak1="GİYMEK" yasak2="GECELK" yasak3="ÜZERİ" yasak4="YATAK" yasak5="UYKU" />
+    <kelimeler kelime="DIRDIR ETMEK" yasak1="KARI-KOCA" yasak2="VIDI VIDI" yasak3="EVLİLİK" yasak4="KONUŞMAK" yasak5="SÖYLENMEK" />
+    <kelimeler kelime="OTOKONTROL" yasak1="İRADE" yasak2="KENDİ" yasak3="ÖZ DENETİM" yasak4="KISITLAMAK" yasak5="TUTMAK" />
+    <kelimeler kelime="KIRAĞI" yasak1="SABAH" yasak2="ÇİĞ" yasak3="YAPRAK" yasak4="SU" yasak5="DONMAK" />
+    <kelimeler kelime="NAĞME" yasak1="SES" yasak2="MELODİ" yasak3="EZGİ" yasak4="GÜZEL" yasak5="MÜZİK" />
+    <kelimeler kelime="TÜYMEK" yasak1="SIVIŞMAK" yasak2="GİZLİ" yasak3="KAÇMAK" yasak4="TOZ OLMAK" yasak5="GİTMEK" />
+    <kelimeler kelime="GİDİŞAT" yasak1="KÖTÜ" yasak2="OLAY" yasak3="İYİ" yasak4="BAKMAK" yasak5="DURUM" />
+    <kelimeler kelime="YAYLI SAZLAR" yasak1="TELLİ" yasak2="KANUN" yasak3="MÜZİK" yasak4="VURMALI ÇALGILAR" yasak5="KEMAN" />
+    <kelimeler kelime="DOYMA NOKTASI" yasak1="SINIR" yasak2="YEMEK" yasak3="BİTMEK" yasak4="KİMYA" yasak5="DURMAK" />
+    <kelimeler kelime="AYIRT ETMEK" yasak1="BENZER" yasak2="İKİZ" yasak3="FARK ETMEK" yasak4="ANLAMAK" yasak5="BİRBİRİNDEN" />
+    <kelimeler kelime="KARINCAYİYEN" yasak1="HAYVAN" yasak2="YUVA" yasak3="YER" yasak4="BURUN" yasak5="HORTUM" />
+    <kelimeler kelime="MÜZMİN BEKAR" yasak1="UZUN" yasak2="SÜRE" yasak3="EVLENMEK" yasak4="YALNIZ" yasak5="ZAMAN" />
+    <kelimeler kelime="CAZİBELİ" yasak1="KADIN" yasak2="ZARİF" yasak3="GÜZEL" yasak4="ÇEKİCİ" yasak5="ALIMLI" />
+    <kelimeler kelime="TROMPET" yasak1="BANDO" yasak2="SAKSAFON" yasak3="ÜFLEMEK" yasak4="MÜZİK" yasak5="NEFESLİ" />
+    <kelimeler kelime="KUŞKONMAZ" yasak1="FRANSIZ" yasak2="HAŞLAMAK" yasak3="ET" yasak4="SEBZE" yasak5="ÇORBA" />
+    <kelimeler kelime="HELAK OLMAK" yasak1="ZORLAMAK" yasak2="GÜÇSÜZ" yasak3="YORULMAK" yasak4="ÇALIŞMAK" yasak5="BİTKİN" />
+    <kelimeler kelime="TAŞERON" yasak1="YAPTIRMAK" yasak2="İNŞAAT" yasak3="MÜTEAHHİT" yasak4="VERMEK" yasak5="İŞ" />
+    <kelimeler kelime="PENYE" yasak1="KUMAŞ" yasak2="TİŞÖRT" yasak3="PAMUKLU" yasak4="YAZ" yasak5="KISA KOLLU" />
+    <kelimeler kelime="MAYIŞMAK" yasak1="SICAK" yasak2="YEMEK" yasak3="RAHATLAMAK" yasak4="REHAVET" yasak5="GEVŞEMEK" />
+    <kelimeler kelime="BASIK" yasak1="ALÇAK" yasak2="MEKAN" yasak3="HAVADAR" yasak4="TAVAN" yasak5="YÜKSEK" />
+    <kelimeler kelime="YATAKLIK ETMEK" yasak1="DESTEKLEMEK" yasak2="GİZLİ" yasak3="SAKLAMAK" yasak4="YARDIM" yasak5="SUÇLU" />
+    <kelimeler kelime="CADI KAZANI" yasak1="BÜYÜ" yasak2="KONUŞMAK" yasak3="DEDİKODU" yasak4="DÜŞMEK" yasak5="KAYNAMAK" />
+    <kelimeler kelime="HULK" yasak1="DEV" yasak2="YEŞİL" yasak3="BRUCE BANNER" yasak4="FİLM" yasak5="AVENGERS" />
+    <kelimeler kelime="CIZBIZ KÖFTE" yasak1="HAMBURGER" yasak2="KIYMA" yasak3="IZGARA" yasak4="PATATES" yasak5="ET" />
+    <kelimeler kelime="GÖMME DOLAP" yasak1="ODA" yasak2="EV" yasak3="EŞYA" yasak4="KOYMAK" yasak5="DUVAR" />
+    <kelimeler kelime="ÜYELİK AİDATI" yasak1="SPOR SALONU" yasak2="PARA" yasak3="ÖDEMEK" yasak4="YAZILMAK" yasak5="GİRİŞ ÜCRETİ" />
+    <kelimeler kelime="TIKAÇ" yasak1="KÜVET" yasak2="SU" yasak3="KULAK" yasak4="DELİK" yasak5="KAPATMAK" />
+    <kelimeler kelime="MİMOZA" yasak1="BAHAR" yasak2="KOKMAK" yasak3="ÇİÇEK" yasak4="SARI" yasak5="AĞAÇ" />
+    <kelimeler kelime="BAĞRI YANIK" yasak1="DERTLİ" yasak2="AŞIK" yasak3="YÜREK" yasak4="SIKINTI" yasak5="ACI" />
+    <kelimeler kelime="" yasak1="" yasak2="" yasak3="" yasak4="" yasak5="" />
+    <kelimeler kelime="ATOM ÇEKİRDEĞİ" yasak1="PROTON" yasak2="ELEKTRON" yasak3="PARÇA" yasak4="MOLEKÜL" yasak5="KÜÇÜK" />
+    <kelimeler kelime="BAĞ BOZUMU" yasak1="SALKIM" yasak2="HASAT" yasak3="TOPLAMAK" yasak4="ŞARAP" yasak5="ÜZÜM" />
+    <kelimeler kelime="NAZLANMAK" yasak1="ŞIMARMAK" yasak2="SEVGİLİ" yasak3="İSTEKSİZ" yasak4="OYNATMAK" yasak5="BEKLEMEK" />
+    <kelimeler kelime="KONTRAST" yasak1="FOTOĞRAF" yasak2="TERS" yasak3="RENK" yasak4="AYAR" yasak5="ZIT" />
+    <kelimeler kelime="HAŞMETLİ" yasak1="GÖRKEMLİ" yasak2="İRİ" yasak3="GÖSTERİŞLİ" yasak4="PADİŞAH" yasak5="GÜÇLÜ" />
+    <kelimeler kelime="SIRILSIKLAM AŞIK" yasak1="ÇOK" yasak2="SEVDA" yasak3="ISLANMA" yasak4="GÖZÜ GÖRMEMEK" yasak5="SEVGİLİ" />
+    <kelimeler kelime="KIZIŞMAK" yasak1="MART" yasak2="KEDİ" yasak3="ISINMAK" yasak4="İSTEMEK" yasak5="ÇİFTLEŞMEK" />
+    <kelimeler kelime="MECAZİ" yasak1="GERÇEK" yasak2="KULLANMA" yasak3="METAFOR" yasak4="ANLAM" yasak5="BENZETMEK" />
+    <kelimeler kelime="TATLI SERT" yasak1="SÖZ" yasak2="DAVRANMAK" yasak3="KIZMAK" yasak4="ÖĞRETMEN" yasak5="SEVMEK" />
+    <kelimeler kelime="GERGEDAN" yasak1="SU AYGIRI" yasak2="AFRİKA" yasak3="BOYNUZ" yasak4="GRİ" yasak5="BÜYÜK" />
+    <kelimeler kelime="POT KIRMAK" yasak1="HATA" yasak2="YANLIŞ" yasak3="YERSİZ" yasak4="GAF YAPMAK" yasak5="SÖYLEMEK" />
+    <kelimeler kelime="MARJİNAL" yasak1="TAKILMAK" yasak2="UÇ" yasak3="FARKLI" yasak4="TAKILMAK" yasak5="DÜŞÜNMEK" />
+    <kelimeler kelime="BAVUL" yasak1="ÇANTA" yasak2="PAKET" yasak3="SEYAHAT" yasak4="HAVALİMANI" yasak5="BAGAJ" />
+    <kelimeler kelime="HİPNOZ" yasak1="ŞIKLATMAK" yasak2="PARMAK" yasak3="SAAT" yasak4="BİLİNÇ" yasak5="UYUTMAK" />
+    <kelimeler kelime="VOLEYBOL" yasak1="FİLE" yasak2="FUTBOL" yasak3="SERVİS" yasak4="SPOR" yasak5="OYNAMAK" />
+    <kelimeler kelime="AÇI" yasak1="GEOMETRİ" yasak2="DERECE" yasak3="ÜÇGEN" yasak4="DİK" yasak5="DOĞRU" />
+    <kelimeler kelime="SÜT" yasak1="KURABİYE" yasak2="SAĞMAK" yasak3="MANDIRA" yasak4="BEYAZ" yasak5="İNEK" />
+    <kelimeler kelime="ALMAN USULÜ" yasak1="HESAP" yasak2="ÖDEMEK" yasak3="PARA" yasak4="YEMEK" yasak5="KENDİ" />
+    <kelimeler kelime="KORNİŞON" yasak1="SALATALIK" yasak2="HIYAR" yasak3="TURŞU" yasak4="TUZ" yasak5="KÜÇÜK" />
+    <kelimeler kelime="KAFAYI ÇEKMEK" yasak1="MEYHANE" yasak2="RAKI" yasak3="İÇMEK" yasak4="SOFRA" yasak5="ALKOL" />
+    <kelimeler kelime="PİŞKİN" yasak1="UTANMAK" yasak2="SIKILMAK" yasak3="RAHAT" yasak4="YEMEK" yasak5="ÇİĞ" />
+    <kelimeler kelime="KONTENJAN" yasak1="LİMİT" yasak2="SAYI" yasak3="SINIRLI" yasak4="BELİRLİ" yasak5="ALMAK" />
+    <kelimeler kelime="KROKİ" yasak1="KUŞ BAKIŞI" yasak2="PLAN" yasak3="ÇİZMEK" yasak4="HARİTA" yasak5="TARİF" />
+    <kelimeler kelime="ERİTMEK" yasak1="SICAK" yasak2="SIVI" yasak3="KATI" yasak4="DONDURMA" yasak5="BUZ" />
+    <kelimeler kelime="SIRADIŞI" yasak1="FARKLI" yasak2="ALIŞILMADIK" yasak3="AYNI" yasak4="MONOTON" yasak5="OLAĞAN" />
+    <kelimeler kelime="ROKA" yasak1="BALIK" yasak2="YEŞİLLİK" yasak3="SALATA" yasak4="RAKI" yasak5="YAPRAK" />
+    <kelimeler kelime="DALAVERE" yasak1="GİZLİ" yasak2="İKİ YÜZLÜ" yasak3="İŞ ÇEVİRMEK" yasak4="ARKA" yasak5="KURNAZ" />
+    <kelimeler kelime="DEDE KORKUT" yasak1="ERGENEKON" yasak2="EFSANE" yasak3="DESTAN" yasak4="ESKİ" yasak5="HİKAYE" />
+    <kelimeler kelime="YUDUM" yasak1="DUDAK" yasak2="İÇMEK" yasak3="AĞIZ" yasak4="ÇAY" yasak5="SU" />
+    <kelimeler kelime="KANAL TEDAVİSİ" yasak1="DOKTOR" yasak2="DİŞ HEKİMİ" yasak3="ÇÜRÜK" yasak4="YAPTIRMAK" yasak5="DOLGU" />
+    <kelimeler kelime="HAYLAZ" yasak1="AFACAN" yasak2="YARAMAZ" yasak3="KÜÇÜK" yasak4="ÇOCUK" yasak5="USLU" />
+    <kelimeler kelime="MANEVRA" yasak1="ARABA" yasak2="PARK ETMEK" yasak3="KABİLİYET" yasak4="YAPMAK" yasak5="HAREKET" />
+    <kelimeler kelime="KEFİR" yasak1="SÜT" yasak2="AYRAN" yasak3="MAYA" yasak4="ORTA ASYA" yasak5="İÇECEK" />
+    <kelimeler kelime="RAPUNZEL" yasak1="SAÇ" yasak2="KULE" yasak3="MASAL" yasak4="PRENSES" yasak5="TIRMANMAK" />
+    <kelimeler kelime="KATEGORİ" yasak1="KONU" yasak2="SINIF" yasak3="GRUP" yasak4="AYIRMAK" yasak5="AYNI" />
+    <kelimeler kelime="SİRTAKİ" yasak1="YUNANİSTAN" yasak2="DANS" yasak3="HALAY" yasak4="UZO" yasak5="TABAK" />
+    <kelimeler kelime="KULAÇ" yasak1="YÜZMEK" yasak2="ATMAK" yasak3="KOL" yasak4="DENİZ" yasak5="HAVUZ" />
+    <kelimeler kelime="BİLANÇO" yasak1="CİRO" yasak2="YIL" yasak3="KAR" yasak4="AÇIKLAMAK" yasak5="ŞİRKET" />
+    <kelimeler kelime="ÇAYLAK" yasak1="ACEMİ" yasak2="YENİ" yasak3="USTA" yasak4="TECRÜBE" yasak5="DENEYİM" />
+    <kelimeler kelime="TÜP BEBEK" yasak1="DOKTOR" yasak2="ÇOCUK" yasak3="HAMİLE" yasak4="KISIR" yasak5="DOĞUM" />
+    <kelimeler kelime="YUFKA YÜREKLİ" yasak1="YUMUŞAK" yasak2="MERHAMETLİ" yasak3="ACIMAK" yasak4="ÜZÜLMEK" yasak5="İYİ" />
+    <kelimeler kelime="YÜK" yasak1="EŞEK" yasak2="AT" yasak3="TAŞIMAK" yasak4="ARABA" yasak5="AĞIR" />
+    <kelimeler kelime="DERT" yasak1="DERMAN" yasak2="SIKINTI" yasak3="ÜZÜNTÜ" yasak4="KÖTÜ" yasak5="ACI" />
+    <kelimeler kelime="NİHAYET" yasak1="BEKLEMEK" yasak2="GEÇ KALMAK" yasak3="GELMEK" yasak4="ANCAK" yasak5="SONUNDA" />
+    <kelimeler kelime="DAMPİNG" yasak1="SATMAK" yasak2="UCUZ" yasak3="DÜŞÜRMEK" yasak4="İNDİRİM" yasak5="FİYAT" />
+    <kelimeler kelime="SİVİL" yasak1="TOPLUM" yasak2="SAVUNMA" yasak3="ÜNİFORMA" yasak4="RESMİ" yasak5="ASKER" />
+    <kelimeler kelime="TELLAK" yasak1="KİR" yasak2="HAMAM" yasak3="KESE" yasak4="GÖBEK TAŞI" yasak5="YIKANMAK" />
+    <kelimeler kelime="ZENCEFİL" yasak1="YEMEK" yasak2="OT" yasak3="BİTKİ" yasak4="BAHARAT" yasak5="ÇAY" />
+    <kelimeler kelime="APANDİST" yasak1="PATLAMAK" yasak2="AĞRI" yasak3="İLTİHAP" yasak4="ACİL" yasak5="AMELİYAT" />
+    <kelimeler kelime="YÜZÜNE VURMAK" yasak1="GERÇEK" yasak2="KABA" yasak3="SÖYLEMEK" yasak4="SERT" yasak5="DOBRA" />
+    <kelimeler kelime="FİNANS" yasak1="EKONOMİ" yasak2="PARA" yasak3="BORSA" yasak4="MAİL" yasak5="BANKA" />
+    <kelimeler kelime="KOKLAMAK" yasak1="YEMEK" yasak2="ÇİÇEK" yasak3="PARFÜM" yasak4="BURUN" yasak5="DUYU" />
+    <kelimeler kelime="BEYANNAME" yasak1="FATURA" yasak2="BELGE" yasak3="KDV" yasak4="VERMEK" yasak5="VERGİ" />
+    <kelimeler kelime="TABİR" yasak1="ANLAM" yasak2="RÜYA" yasak3="CAİZ" yasak4="YER" yasak5="DEYİM" />
+    <kelimeler kelime="KÜSMEK" yasak1="DARILMAK" yasak2="KIZMAK" yasak3="KONUŞMAK" yasak4="TARTIŞMAK" yasak5="KAVGA" />
+    <kelimeler kelime="SENKRONİZE" yasak1="EŞ" yasak2="AYNI" yasak3="BİRLİKTE" yasak4="YÜZME" yasak5="ZAMAN" />
+    <kelimeler kelime="UÇUK" yasak1="KAÇIK" yasak2="SİVİLCE" yasak3="DUDAK" yasak4="VİRÜS" yasak5="ÇIKMAK" />
+    <kelimeler kelime="DAMARINA BASMAK" yasak1="İNAT" yasak2="ÖFKE" yasak3="SÖYLEMEK" yasak4="KIZDIRMAK" yasak5="SİNİRLENMEK" />
+    <kelimeler kelime="BORIS BECKER" yasak1="TENİS" yasak2="RAKET" yasak3="ALMAN" yasak4="ERKEK" yasak5="SPOR" />
+    <kelimeler kelime="KOLON" yasak1="BİNA" yasak2="YAPI" yasak3="BETON" yasak4="TAŞIMAK" yasak5="İNŞAAT" />
+    <kelimeler kelime="ÇAM DEVİRMEK" yasak1="GAF" yasak2="POT" yasak3="HATA" yasak4="YANLIŞ" yasak5="KONUŞMAK" />
+    <kelimeler kelime="INTERPOL" yasak1="SUÇLU" yasak2="POLİS" yasak3="ULUSLARARASI" yasak4="YAKALAMAK" yasak5="KAÇAK" />
+    <kelimeler kelime="MÜTHİŞ" yasak1="HARİKA" yasak2="İNANILMAZ" yasak3="OLAĞANÜSTÜ" yasak4="ÇOK" yasak5="SÜPER" />
+    <kelimeler kelime="PRÖMİYER" yasak1="GALA" yasak2="İLK" yasak3="GÖSTERİ" yasak4="TİYATRO" yasak5="FİLM" />
+    <kelimeler kelime="FİNGİRDEK" yasak1="OYNAK" yasak2="CİLVELİ" yasak3="NEŞELİ" yasak4="KIZ" yasak5="KADIN" />
+    <kelimeler kelime="KONUŞLANDIRMAK" yasak1="ORDU" yasak2="ASKER" yasak3="POZİSYON" yasak4="SAVAŞ" yasak5="YERLEŞMEK" />
+    <kelimeler kelime="GÜNAH ÇIKARMAK" yasak1="HRİSTİYAN" yasak2="KİLİSE" yasak3="PEDER" yasak4="AFFETMEK" yasak5="SEVAP" />
+    <kelimeler kelime="KERPETEN" yasak1="ÇEKMEK" yasak2="PENSE" yasak3="ÇEKİÇ" yasak4="ÇİVİ" yasak5="ALET" />
+    <kelimeler kelime="AVİZE" yasak1="AYDINLIK" yasak2="IŞIK" yasak3="TAVAN" yasak4="KRİSTAL" yasak5="LAMBA" />
+    <kelimeler kelime="NURİ ALÇO" yasak1="ROPDÖŞAMBIR" yasak2="SİNEMA" yasak3="KÖTÜ ADAM" yasak4="YEŞİLÇAM" yasak5="OYUNCU" />
+    <kelimeler kelime="ORDİNARYUS" yasak1="PROFESÖR" yasak2="ÜNİVERSİTE" yasak3="BİLİM" yasak4="UNVAN" yasak5="KÜRSÜ" />
+    <kelimeler kelime="FALSO" yasak1="VERMEK" yasak2="YAMUK" yasak3="VURMAK" yasak4="ATMAK" yasak5="TOP" />
+    <kelimeler kelime="TOYNAK" yasak1="HAYVAN" yasak2="TIRNAK" yasak3="AYAK" yasak4="NAL" yasak5="AT" />
+    <kelimeler kelime="EDİTÖR" yasak1="OKUMAK" yasak2="SAYFA" yasak3="YAZI" yasak4="DERGİ" yasak5="GAZETE" />
+    <kelimeler kelime="GAM" yasak1="DERT" yasak2="KEDER" yasak3="ÜZÜNTÜ" yasak4="TASA" yasak5="YEMEK" />
+    <kelimeler kelime="BAŞINA BUYRUK" yasak1="KURAL" yasak2="BİLDİĞİNİ OKUMAK" yasak3="KENDİ" yasak4="YAPMAK" yasak5="DİNLEMEK" />
+    <kelimeler kelime="SİM" yasak1="MAKYAJ" yasak2="PARLAK" yasak3="KART" yasak4="TELEFON" yasak5="IŞILDAMAK" />
+    <kelimeler kelime="BRİYANTİN" yasak1="PARLAK" yasak2="KREM" yasak3="JÖLE" yasak4="SÜRMEK" yasak5="SAÇ" />
+    <kelimeler kelime="KÜSURAT" yasak1="UFAK" yasak2="PARA" yasak3="BASAMAK" yasak4="VİRGÜL" yasak5="SAYI" />
+    <kelimeler kelime="USKUMRU" yasak1="ÇEŞİT" yasak2="PALAMUT" yasak3="HAMSİ" yasak4="LÜFER" yasak5="BALIK" />
+    <kelimeler kelime="LÜZUMSUZ" yasak1="GEREK" yasak2="LAZIM" yasak3="GÖRMEK" yasak4="İHTİYAÇ" yasak5="OLMAK" />
+    <kelimeler kelime="HAZIRA KONMAK" yasak1="ÇABA" yasak2="SARF ETMEK" yasak3="UĞRAŞMAK" yasak4="FIRSAT" yasak5="MİRAS" />
+    <kelimeler kelime="KİREÇ" yasak1="DUVAR" yasak2="BADANA" yasak3="BOYA" yasak4="ODA" yasak5="ÇAMAŞIR MAKNESİ" />
+    <kelimeler kelime="BURAM BURAM" yasak1="KOKMAK" yasak2="DUMAN" yasak3="TÜTMEK" yasak4="YEMEK" yasak5="GELMEK" />
+    <kelimeler kelime="ARTEZYEN" yasak1="KUYU" yasak2="SU" yasak3="KAYNAK" yasak4="SONDAJ" yasak5="DELMEK" />
+    <kelimeler kelime="MÜJDE" yasak1="HABER" yasak2="VERMEK" yasak3="İSTEMEK" yasak4="SEVİNÇ" yasak5="İYİ" />
+    <kelimeler kelime="BETONARME" yasak1="İNŞAAT" yasak2="BİNA" yasak3="SAĞLAM" yasak4="AHŞAP" yasak5="ÇİMENTO" />
+    <kelimeler kelime="YULAR" yasak1="TAKMAK" yasak2="AĞIZ" yasak3="İP" yasak4="BAĞLAMAK" yasak5="AT" />
+    <kelimeler kelime="DİZGİN" yasak1="ELE ALMAK" yasak2="YÖNETMEK" yasak3="VURMAK" yasak4="YULAR" yasak5="AT" />
+    <kelimeler kelime="ZENNE" yasak1="DANSÖZ" yasak2="OYNAMAK" yasak3="ORYANTAL" yasak4="KADIN" yasak5="ERKEK" />
+    <kelimeler kelime="BEZGİN" yasak1="BEKİR" yasak2="LEMAN" yasak3="YORGUNN" yasak4="BİTKİN" yasak5="TEMBEL" />
+    <kelimeler kelime="YOĞUNLAŞMAK" yasak1="ODAKLANMAK" yasak2="TOPLANMAK" yasak3="SIVI" yasak4="BUHAR" yasak5="DİKKAT" />
+    <kelimeler kelime="TEPEGÖZ" yasak1="YAZI" yasak2="PROJEKSİYON" yasak3="OPTİK" yasak4="GÖSTERMEK" yasak5="YANSITMAK" />
+    <kelimeler kelime="BEETHOVEN" yasak1="KLASİK" yasak2="BESTECİ" yasak3="BATI" yasak4="MÜZİSYEN" yasak5="MOZART" />
+    <kelimeler kelime="KURTLANMAK" yasak1="BOZULMAK" yasak2="ÇÜRÜMEK" yasak3="YEMEK" yasak4="TELAŞ" yasak5="KIMILDANMAK" />
+    <kelimeler kelime="3G" yasak1="İNTERNET" yasak2="TEKNOLOJİ" yasak3="HIZ" yasak4="BAĞLANMAK" yasak5="MOBİL" />
+    <kelimeler kelime="METELİK" yasak1="DEMİR" yasak2="KURUŞ" yasak3="ÇEYREK" yasak4="ATMAK" yasak5="PARA" />
+    <kelimeler kelime="HAYSİYET" yasak1="SAYGINLIK" yasak2="İTİBAR" yasak3="DEĞER" yasak4="ŞEREF" yasak5="MESELE" />
+    <kelimeler kelime="YÖRE" yasak1="DOLAY" yasak2="BÖLGE" yasak3="TOPRAK" yasak4="CİVAR" yasak5="ŞİVE" />
+    <kelimeler kelime="EKMEK KADAYIFI" yasak1="KAYMAK" yasak2="YEMEK" yasak3="TEL" yasak4="ŞEKER" yasak5="TATLI" />
+    <kelimeler kelime="METAL" yasak1="KİMYA" yasak2="DEMİR" yasak3="AMETAL" yasak4="İLETKEN" yasak5="MADEN" />
+    <kelimeler kelime="İSTERİK" yasak1="AŞIRI" yasak2="İSTEME" yasak3="ÇOK" yasak4="ARZULAMAK" yasak5="KADIN" />
+    <kelimeler kelime="İCAT ETMEK" yasak1="MUCİT" yasak2="İLK" yasak3="YARATMAK" yasak4="YENİ" yasak5="BULUŞ" />
+    <kelimeler kelime="ÖZÜMSEMEK" yasak1="TEMSİL ETMEK" yasak2="SİNDİRMEK" yasak3="BESİN" yasak4="BENİMSEMEK" yasak5="GETİRMEK" />
+    <kelimeler kelime="BATTANİYE" yasak1="SICAK" yasak2="ÖRTMEK" yasak3="YASTIK" yasak4="YORGAN" yasak5="ÜST" />
+    <kelimeler kelime="TELAFFUZ" yasak1="BİÇİM" yasak2="SESLENDİRMEK" yasak3="KELİME" yasak4="SÖYLEMEK" yasak5="KONUŞMAK" />
+    <kelimeler kelime="SOYGAZ" yasak1="METAL" yasak2="AMETAL" yasak3="HELYUM" yasak4="ASAL" yasak5="KİMYA" />
+    <kelimeler kelime="ALYUVAR" yasak1="KIRMIZI" yasak2="AKYUVAR" yasak3="KAN" yasak4="VÜCUT" yasak5="HÜCRE" />
+    <kelimeler kelime="KELEBEK ETKİSİ" yasak1="ETKİLEMEK" yasak2="LORENZ" yasak3="FİLM" yasak4="ASHTON KUTCHER" yasak5="DEĞİŞİKLİK" />
+    <kelimeler kelime="ACIKMAK" yasak1="İHTİYAÇ" yasak2="YEMEK" yasak3="DOYMAK" yasak4="KARIN" yasak5="SUSAMAK" />
+    <kelimeler kelime="TOPUKLU AYAKKABI" yasak1="YÜRÜMEK" yasak2="KADIN" yasak3="YÜKSEK" yasak4="ÖKÇE" yasak5="GİYMEK" />
+    <kelimeler kelime="KATİP ÇELEBİ" yasak1="TARİH" yasak2="BİLİM ADAMI" yasak3="AYDIN" yasak4="OSMANLI" yasak5="COĞRAFYA" />
+    <kelimeler kelime="MAŞRAPA" yasak1="KULP" yasak2="KAP" yasak3="İÇMEK" yasak4="SU" yasak5="BARDAK" />
+    <kelimeler kelime="AĞZI SIKI" yasak1="SÖYLEMEK" yasak2="KONUŞMAK" yasak3="GÜVENİLİR" yasak4="SAKLAMAK" yasak5="SIR" />
+    <kelimeler kelime="BÜSTİYER" yasak1="AÇIK" yasak2="KIYAFET" yasak3="ÜST" yasak4="KADIN" yasak5="GİYMEK" />
+    <kelimeler kelime="POLİÇE" yasak1="PARA" yasak2="ÖDEMEK" yasak3="BORÇ" yasak4="SENET" yasak5="SİGORTA" />
+    <kelimeler kelime="GANİMET" yasak1="ORDU" yasak2="HAZİNE" yasak3="KAZANMAK" yasak4="PARA" yasak5="SAVAŞ" />
+    <kelimeler kelime="HOKKA" yasak1="YAZMAK" yasak2="DOLMAKALEM" yasak3="MÜREKKEP" yasak4="DİVİT" yasak5="BURUN" />
+    <kelimeler kelime="BİÇİM" yasak1="FORM" yasak2="YAKIŞIK" yasak3="UYGUN" yasak4="GÖRÜNÜŞ" yasak5="ŞEKİL" />
+    <kelimeler kelime="KONT" yasak1="SOYLU" yasak2="LORD" yasak3="ASİL" yasak4="SÖR" yasak5="DÜK" />
+    <kelimeler kelime="HOMURDANMAK" yasak1="SİNİRLENMEK" yasak2="KIZMAK" yasak3="MIRILDANMAK" yasak4="KONUŞMAK" yasak5="SÖYLENMEK" />
+    <kelimeler kelime="KÜME" yasak1="İLKOKUL" yasak2="ÇALIŞMA" yasak3="AYIRMAK" yasak4="LİG" yasak5="GRUP" />
+    <kelimeler kelime="REYTİNG" yasak1="TELEVİZYON" yasak2="İZLEMEK" yasak3="YÜKSEK" yasak4="ÖLÇMEK" yasak5="PROGRAM" />
+    <kelimeler kelime="OKLAVA" yasak1="MERDANE" yasak2="UN" yasak3="TAHTA" yasak4="AÇMAK" yasak5="HAMUR" />
+    <kelimeler kelime="YAS TUTMAK" yasak1="ACI" yasak2="SİYAH" yasak3="MATEM" yasak4="ÖLÜM" yasak5="ÜZÜLMEK" />
+    <kelimeler kelime="HAZIRA KONMAK" yasak1="MİRAS" yasak2="FIRSAT" yasak3="UĞRAŞMAK" yasak4="SARF ETMEK" yasak5="ÇABA" />
+    <kelimeler kelime="ÇÖMELMEK" yasak1="EĞİLMEK" yasak2="DİZ" yasak3="YER" yasak4="ÇÖKMEK" yasak5="OTURMAK" />
+    <kelimeler kelime="TELEFERİK" yasak1="TIRMANMAK" yasak2="DAĞ" yasak3="BİNMEK" yasak4="ÇIKMAK" yasak5="İNMEK" />
+    <kelimeler kelime="MAMUT" yasak1="BUZUL ÇAĞI" yasak2="DİNAZOR" yasak3="HORTUM" yasak4="FİL" yasak5="HAYVAN" />
+    <kelimeler kelime="ABORJİN" yasak1="BİR ÇİFT YÜREK" yasak2="BASİT" yasak3="İLKEL" yasak4="YERLİ" yasak5="AVUSTRALYA" />
+    <kelimeler kelime="KULVAR" yasak1="SINIR" yasak2="KOŞMAK" yasak3="ATLET" yasak4="ÇİZGİ" yasak5="YARIŞ" />
+    <kelimeler kelime="KEREM GÖRSEV" yasak1="MILES DAVIS" yasak2="ÇALMAK" yasak3="MÜZİSYEN" yasak4="PİYANİST" yasak5="CAZ" />
+    <kelimeler kelime="KONDİSYON" yasak1="SPORCU" yasak2="ANTRENMAN" yasak3="KOŞMAK" yasak4="ZAYIF" yasak5="İYİ" />
+    <kelimeler kelime="TEKSTİL" yasak1="KIYAFET" yasak2="GİYSİ" yasak3="MODA" yasak4="SEKTÖR" yasak5="KUMAŞ" />
+    <kelimeler kelime="TURKUAZ" yasak1="DEĞERLİ" yasak2="TAŞ" yasak3="RENK" yasak4="MAVİ" yasak5="YEŞİL" />
+    <kelimeler kelime="KIZAK" yasak1="KÖPEK" yasak2="ARAÇ" yasak3="ULUDAĞ" yasak4="KAR" yasak5="KAYAK" />
+    <kelimeler kelime="ASAYİŞ" yasak1="BERKEMAL" yasak2="EMNİYET" yasak3="BEKÇİ" yasak4="POLİS" yasak5="DÜZEN" />
+    <kelimeler kelime="MAKİNİST" yasak1="FİLM" yasak2="SİNEMA" yasak3="METRO" yasak4="TREN" yasak5="KULLANMAK" />
+    <kelimeler kelime="KESAT" yasak1="SATIŞ" yasak2="MÜŞTERİ" yasak3="AZ" yasak4="PARA" yasak5="İŞ" />
+    <kelimeler kelime="YABAN MERSİNİ" yasak1="YEMEK" yasak2="TOPLAMAK" yasak3="ORMAN" yasak4="BİTKİ" yasak5="MEYVE" />
+    <kelimeler kelime="JANT" yasak1="YUVARLAK" yasak2="TEKERLEK" yasak3="METAL" yasak4="LASTİK" yasak5="ARABA" />
+    <kelimeler kelime="TAŞRA" yasak1="KÜÇÜK" yasak2="KASABA" yasak3="KÖY" yasak4="İLÇE" yasak5="ŞEHİR" />
+    <kelimeler kelime="ISLANMAK" yasak1="BANYO" yasak2="KURU" yasak3="YAŞ" yasak4="SU" yasak5="YAĞMUR" />
+    <kelimeler kelime="CEVHER" yasak1="YETENEK" yasak2="KEŞFETMEK" yasak3="ÇIKARMAK" yasak4="POTANSİYEL" yasak5="MADEN" />
+    <kelimeler kelime="TORPİL" yasak1="FIRLATMAK" yasak2="DENİZALTI" yasak3="YAPMAK" yasak4="TANIDIK" yasak5="KAYIRMAK" />
+    <kelimeler kelime="ÇAĞLAMAK" yasak1="NEHİR" yasak2="IRMAK" yasak3="ŞELALE" yasak4="AKMAK" yasak5="SU" />
+    <kelimeler kelime="ARITMAK" yasak1="KİRLİ" yasak2="MİKROP" yasak3="TEMİZ" yasak4="SAF" yasak5="SU" />
+    <kelimeler kelime="SERSERİ" yasak1="AVARE" yasak2="ASİ" yasak3="GEZMEK" yasak4="İŞSİZ" yasak5="BOŞ" />
+    <kelimeler kelime="TURA" yasak1="İMZA" yasak2="MÜHÜR" yasak3="PADİŞAH" yasak4="OSMANLI" yasak5="DAMGA" />
+    <kelimeler kelime="FANTASTİK" yasak1="DÖRTLÜ" yasak2="GERÇEK" yasak3="İNANILMAZ" yasak4="HAYAL" yasak5="BİLİM KURGU" />
+    <kelimeler kelime="ASPARAGAS" yasak1="GERÇEK" yasak2="GAZETE" yasak3="UYDURMAK" yasak4="HABER" yasak5="YALAN" />
+    <kelimeler kelime="KARTUŞ" yasak1="BİTMEK" yasak2="BİLGİSAYAR" yasak3="BASMAK" yasak4="MÜREKKEP" yasak5="YAZICI" />
+    <kelimeler kelime="ZOR" yasak1="GELMEK" yasak2="YAPMAK" yasak3="SIKINTI" yasak4="GÜÇLÜK" yasak5="KOLAY" />
+    <kelimeler kelime="ATMOSFER" yasak1="OKSİJEN" yasak2="GAZ" yasak3="UZAY" yasak4="DÜNYA" yasak5="HAVA" />
+    <kelimeler kelime="BARİYER" yasak1="KURMAK" yasak2="DURDURMAK" yasak3="SET" yasak4="ÖN" yasak5="ENGEL" />
+    <kelimeler kelime="KLİŞE" yasak1="İLGİNÇ" yasak2="BASMA KALIP" yasak3="SIKICI" yasak4="ALIŞILMIŞ" yasak5="SIRADAN" />
+    <kelimeler kelime="AMORTİ" yasak1="ÇIKMAK" yasak2="SON" yasak3="PARA" yasak4="İKRAMİYE" yasak5="MİLLİ PİYANGO" />
+    <kelimeler kelime="DENKLEM" yasak1="EŞİT" yasak2="SAYI" yasak3="BİLİNMEYEN" yasak4="X" yasak5="MATEMATİK" />
+    <kelimeler kelime="SALYA" yasak1="AKMAK" yasak2="KUDUZ" yasak3="KÖPEK" yasak4="AĞIZ" yasak5="TÜKÜRÜK" />
+    <kelimeler kelime="BAGET" yasak1="VURMAK" yasak2="ÇALMAK" yasak3="DAVUL" yasak4="EKMEK" yasak5="BATERİ" />
+    <kelimeler kelime="PÖRSÜMEK" yasak1="MEYVE" yasak2="SEBZE" yasak3="SARKMAK" yasak4="ESKİ" yasak5="YUMUŞAMA" />
+    <kelimeler kelime="ŞALGAM" yasak1="TURŞU" yasak2="KEBAP" yasak3="SU" yasak4="RAKI" yasak5="İÇMEK" />
+    <kelimeler kelime="KERATA" yasak1="YARAMAZ" yasak2="ÇOCUK" yasak3="GİYMEK" yasak4="ÇEKECEK" yasak5="AYAKKABI" />
+    <kelimeler kelime="JÜRİ" yasak1="DEĞERLENDİRMEK" yasak2="DERECE" yasak3="YARIŞMA" yasak4="KARAR" yasak5="MAHKEME" />
+    <kelimeler kelime="KETUM" yasak1="AĞZI SIKI" yasak2="DEDİKODU" yasak3="LAF" yasak4="GEVEZE" yasak5="KONUŞMAK" />
+    <kelimeler kelime="ÇİZELGE" yasak1="GÖSTERMEK" yasak2="PLAN" yasak3="GRAFİK" yasak4="TABLO" yasak5="LİSTE" />
+    <kelimeler kelime="TETANOS" yasak1="KAN " yasak2="BATMAK" yasak3="ÇİVİ" yasak4="PAS" yasak5="AŞI" />
+    <kelimeler kelime="PARDOSÜ" yasak1="UZUN" yasak2="GİYMEK" yasak3="RÜZGARLIK" yasak4="KABAN" yasak5="PALTO" />
+    <kelimeler kelime="ATTİLA İLHAN" yasak1="ŞİİR" yasak2="ŞAPKA" yasak3="KİTAP" yasak4="YAZAR" yasak5="ŞAİR" />
+    <kelimeler kelime="ÖZLEM" yasak1="GURBET" yasak2="SEVGİLİ" yasak3="AYRILIK" yasak4="HASRET" yasak5="UZAK" />
+    <kelimeler kelime="VERİ" yasak1="SAYISAL" yasak2="ARAŞTIRMA" yasak3="BİLGİ" yasak4="İSTATİSTİK" yasak5="BELİRTİLMİŞ" />
+    <kelimeler kelime="KIŞKIRTMAK" yasak1="FESAT" yasak2="KANDIRMAK" yasak3="KARŞI" yasak4="AYAKLANMA" yasak5="KÖTÜ" />
+    <kelimeler kelime="DOYMUŞ YAĞ" yasak1="YEMEK" yasak2="ORAN" yasak3="MARGARİN" yasak4="KALP" yasak5="KOLESTEROL" />
+    <kelimeler kelime="KARİDES" yasak1="YEMEK" yasak2="GÜVEÇ" yasak3="BALIK" yasak4="BÖCEK" yasak5="DENİZ" />
+    <kelimeler kelime="HOŞGÖRÜ" yasak1="KIZMAK" yasak2="OLGUNLUK" yasak3="AFFETMEK" yasak4="SABIR" yasak5="ANLAYIŞ" />
+    <kelimeler kelime="HAYKIRMAK" yasak1="ÇIĞLIK" yasak2="ACI" yasak3="YÜKSEK" yasak4="SES" yasak5="BAĞIRMAK" />
+    <kelimeler kelime="OZAN" yasak1="YUNUS EMRE" yasak2="AŞIK VEYSEL" yasak3="HALK" yasak4="ŞİİR" yasak5="ŞAİR" />
+    <kelimeler kelime="AMORTİSÖR" yasak1="ARABA" yasak2="BİSİKLET" yasak3="ÇUKUR" yasak4="YAY" yasak5="SÜSPANSİYON" />
+    <kelimeler kelime="MEŞALE" yasak1="OLİMPİYAT" yasak2="YAKMAK" yasak3="AYDINLIK" yasak4="IŞIK" yasak5="ATEŞ" />
+    <kelimeler kelime="REŞİT" yasak1="ÇOCUK" yasak2="BÜYÜK" yasak3="YETİŞKİN" yasak4="ERGEN" yasak5="+18" />
+    <kelimeler kelime="MUAMMA" yasak1="OLAY" yasak2="ESRARENGİZ" yasak3="ANLAŞILMAZ" yasak4="YUHAF" yasak5="BİLİNMEZ" />
+    <kelimeler kelime="KIRAATHANE" yasak1="ÇAY" yasak2="KAHVE" yasak3="İSKAMBİL" yasak4="TAVLA" yasak5="OKEY" />
+    <kelimeler kelime="DADANMAK" yasak1="HOŞLANMAK" yasak2="SEVMEK" yasak3="ALIŞKANLIK" yasak4="İSTEMEK" yasak5="BEĞENMEK" />
+    <kelimeler kelime="HAVAN" yasak1="EZMEK" yasak2="DÖVMEK" yasak3="FINDIK" yasak4="CEVİZ" yasak5="SARIMSAK" />
+    <kelimeler kelime="GİZEM" yasak1="DOĞAÜSTÜ" yasak2="OLAY" yasak3="BİLİNMEZ" yasak4="TUHAF" yasak5="SIR" />
+    <kelimeler kelime="GLOBAL" yasak1="ÜLKE" yasak2="BÖLGESEL" yasak3="BÜTÜNLEŞMEK" yasak4="DÜNYA" yasak5="KÜRESEL" />
+    <kelimeler kelime="BOMBE" yasak1="YÜZEY" yasak2="DÜZ" yasak3="KABARIK" yasak4="ÇIKINTI" yasak5="ŞİŞKİN" />
+    <kelimeler kelime="ARA BULUCU" yasak1="UZLAŞTIRMAK" yasak2="TARAF" yasak3="BARIŞTIRMAK" yasak4="ANLAŞMAZLIK" yasak5="KÜSMEK" />
+    <kelimeler kelime="ARSENİK" yasak1="İÇMEK" yasak2="İNTİHAR" yasak3="ÖLMEK" yasak4="ZEHİR" yasak5="SİYANÜR" />
+    <kelimeler kelime="ANTETLİ KAĞIT" yasak1="A4" yasak2="SAYFA" yasak3="YAZI" yasak4="KURUMSAL" yasak5="LOGO" />
+    <kelimeler kelime="HACİM" yasak1="KÜTLE" yasak2="METRE KÜP" yasak3="BOY" yasak4="EN" yasak5="ALAN" />
+    <kelimeler kelime="ALÜVYON" yasak1="YIĞMAK" yasak2="VERİMLİ" yasak3="TAŞIMAK" yasak4="TOPRAK" yasak5="AKARSU" />
+    <kelimeler kelime="GÖZYAŞI" yasak1="ÜZÜLMEK" yasak2="ISLAK" yasak3="SU" yasak4="DAMLA" yasak5="AĞLAMAK" />
+    <kelimeler kelime="İLTİCA ETMEK" yasak1="ÜLKE" yasak2="SİYASİ" yasak3="SIĞINMA" yasak4="GÖÇ" yasak5="MÜLTECİ" />
+    <kelimeler kelime="ÇILGINLIK" yasak1="YAPMAK" yasak2="RİSK" yasak3="DEĞİŞİKLİK" yasak4="HEYECAN" yasak5="DELİLİK" />
+    <kelimeler kelime="MENSUP" yasak1="ÜYE" yasak2="İLİŞKİ" yasak3="BASIN" yasak4="BAĞLI" yasak5="OLMAK" />
+    <kelimeler kelime="JACK NICHOLSON" yasak1="SİNEMA" yasak2="HOLLYWOOD" yasak3="BATMAN" yasak4="AKTÖR" yasak5="YAŞLI" />
+    <kelimeler kelime="TİKSİNMEK" yasak1="MİDE BULANTISI" yasak2="PİSLİK" yasak3="YEMEK" yasak4="BÖCEK" yasak5="İĞRENMEK" />
+    <kelimeler kelime="EL EMEĞİ" yasak1="GÖZ NURU" yasak2="ÇALIŞMAK" yasak3="UĞRAŞMAK" yasak4="YAPMAK" yasak5="İŞ" />
+    <kelimeler kelime="DAYALI DÖŞELİ" yasak1="DEKORASYON" yasak2="EKSİKSİZ" yasak3="EŞYA" yasak4="MOBİLYA" yasak5="EV" />
+    <kelimeler kelime="GARİBAN" yasak1="TEK" yasak2="YALNIZ" yasak3="KİMSESİZ" yasak4="ZAVALLI" yasak5="FAKİR" />
+    <kelimeler kelime="BANDAJ" yasak1="YARA" yasak2="BURKMAK" yasak3="SPOR" yasak4="SAKATLIK" yasak5="SARMAK" />
+    <kelimeler kelime="TURP GİBİ" yasak1="HASTA" yasak2="KUVVETLİ" yasak3="GÜÇLÜ" yasak4="SAĞLIKLI" yasak5="SAĞLAM" />
+    <kelimeler kelime="ETER" yasak1="ÇÖZMEK" yasak2="KOKU" yasak3="ALKOL" yasak4="BAYILMAK" yasak5="UÇUCU" />
+    <kelimeler kelime="MOLEKÜL" yasak1="PARÇA" yasak2="TANECİK" yasak3="MADDE" yasak4="ATOM" yasak5="KİMYA" />
+    <kelimeler kelime="BOYUN EĞMEK" yasak1="YAPMAK" yasak2="UYMAK" yasak3="EMİR" yasak4="KABUL" yasak5="TESLİM" />
+    <kelimeler kelime="GÖZE ALMAK" yasak1="HER ŞEY" yasak2="KABUL ETMEK" yasak3="İNANMAK" yasak4="KARAR" yasak5="CESARET" />
+    <kelimeler kelime="ABES" yasak1="ANLAMSIZ" yasak2="YERSİZ" yasak3="İŞTİGAL" yasak4="BOŞ" yasak5="GEREKSİZ" />
+    <kelimeler kelime="YALVARMAK" yasak1="LÜTFEN" yasak2="TANRI" yasak3="ALLAH" yasak4="DUA" yasak5="İSTEMEK" />
+    <kelimeler kelime="EKSTRA" yasak1="AYRICA" yasak2="FAZLA" yasak3="SÜPER" yasak4="KALİTELİ" yasak5="İYİ" />
+    <kelimeler kelime="BELGELEMEK" yasak1="ORTAYA ÇIKARMAK" yasak2="İSPAT ETMEK" yasak3="GÖSTERMEK" yasak4="AÇIKLAMAK" yasak5="KANIT" />
+    <kelimeler kelime="AFET" yasak1="SEL" yasak2="DEPREM" yasak3="FELAKET" yasak4="DOĞAL" yasak5="YIKIM" />
+    <kelimeler kelime="BİTKİN" yasak1="DÜŞMEK" yasak2="ÇALIŞMAK" yasak3="DİNLENMEK" yasak4="GÜÇ" yasak5="YORGUN" />
+    <kelimeler kelime="EKSTRE" yasak1="ÖDEMEK" yasak2="BANKA" yasak3="AY" yasak4="HESAP" yasak5="KREDİ KARTI" />
+    <kelimeler kelime="YANAŞMAK" yasak1="KIYI" yasak2="VAPUR" yasak3="UZAK" yasak4="YAKIN" yasak5="GELMEK" />
+    <kelimeler kelime="FÜNYE" yasak1="BARUT" yasak2="ATMAK" yasak3="ATEŞLEMEK" yasak4="ÇEKMEK" yasak5="EL BOMBASI" />
+    <kelimeler kelime="MÜLAYİM" yasak1="İYİ" yasak2="YUMUŞAK" yasak3="SESSİZ" yasak4="SAKİN" yasak5="UYUMLU" />
+    <kelimeler kelime="İZMARİT" yasak1="KÜL TABLASI" yasak2="SÖNDÜRMEK" yasak3="İÇMEK" yasak4="ATMAK" yasak5="SİGARA" />
+    <kelimeler kelime="KÖZ" yasak1="KÖMÜR" yasak2="MANGAL" yasak3="KOR" yasak4="ATEŞ" yasak5="YANMAK" />
+    <kelimeler kelime="GÖRECELİ" yasak1="KAVRAM" yasak2="FARK" yasak3="KİŞİ" yasak4="DEĞİŞMEK" yasak5="KIYAS" />
+    <kelimeler kelime="MICIR" yasak1="KÜÇÜK" yasak2="ASFALT" yasak3="YOL" yasak4="DÖKMEK" yasak5="TAŞ" />
+    <kelimeler kelime="ÇAĞAN IRMAK" yasak1="BABAM VE OĞLUM" yasak2="ASMALI KONAK" yasak3="SİNEMA" yasak4="YÖNETMEN" yasak5="FİLM" />
+    <kelimeler kelime="DİKİZ AYNASI" yasak1="AYARLAMAK" yasak2="BAKMAK" yasak3="ARKA" yasak4="ARABA" yasak5="OTOMOBİL" />
+    <kelimeler kelime="ÖZENMEK" yasak1="OLMAK" yasak2="KÜÇÜK" yasak3="BÜYÜK" yasak4="BEĞENMEK" yasak5="BENZEMEK" />
+    <kelimeler kelime="KURNA" yasak1="GÖBEK TAŞI" yasak2="TELLAK" yasak3="SU" yasak4="YIKANMAK" yasak5="HAMAM" />
+    <kelimeler kelime="KİTABE" yasak1="ANIT" yasak2="ESKİ" yasak3="OKUMAK" yasak4="YAZIT" yasak5="GÖKTÜRK" />
+    <kelimeler kelime="GÖZE GELMEK" yasak1="BATIL İNANÇ" yasak2="MAVİ BONCUK" yasak3="NAZAR DEĞMEK" yasak4="KISKANMAK" yasak5="KONUŞMAK" />
+    <kelimeler kelime="FOSEPTİK" yasak1="VİDANJÖR" yasak2="KANALİZASYON" yasak3="KUYU" yasak4="LAĞIM" yasak5="ÇUKUR" />
+    <kelimeler kelime="MUHTEMELEN" yasak1="OLASILIK" yasak2="İHTİMAL" yasak3="KESİN" yasak4="EMİN" yasak5="BELKİ" />
+    <kelimeler kelime="PİŞMANLIK" yasak1="HATA" yasak2="YANLIŞ" yasak3="KEŞKE" yasak4="ÜZÜLMEK" yasak5="SON" />
+    <kelimeler kelime="ELDEN DÜŞME" yasak1="ALMAK" yasak2="ESKİ" yasak3="YENİ" yasak4="ARABA" yasak5="İKİNCİ EL" />
+    <kelimeler kelime="HÜMEYRA" yasak1="SİNEMA" yasak2="İFO" yasak3="AVRUPA YAKASI" yasak4="BABAM VE OĞLUM" yasak5="OYUNCU" />
+    <kelimeler kelime="AHESTE" yasak1="TEMBEL" yasak2="DURGUN" yasak3="YAVAŞ" yasak4="AĞIR" yasak5="HIZLI" />
+    <kelimeler kelime="BERABER" yasak1="ORTAK" yasak2="YAPMAK" yasak3="İKİ" yasak4="TEK" yasak5="BİRLİKTE" />
+    <kelimeler kelime="PANKART" yasak1="YAZMAK" yasak2="ASMAK" yasak3="SLOGAN" yasak4="GÖSTERİ" yasak5="AÇMAK" />
+    <kelimeler kelime="SÜNNET" yasak1="KEMAL ÖZKAN" yasak2="KESMEK" yasak3="ERKEK" yasak4="DÜĞÜN" yasak5="KİRVE" />
+    <kelimeler kelime="KANAAT" yasak1="DÜŞÜNCE" yasak2="DERS" yasak3="OKUL" yasak4="ÖĞRETMEN" yasak5="NOT" />
+    <kelimeler kelime="BİRİKİM" yasak1="YATIRIM" yasak2="TASARRUF" yasak3="ZENGİNLİK" yasak4="PARA" yasak5="KAZANÇ" />
+    <kelimeler kelime="TEF" yasak1="EL" yasak2="ZİL" yasak3="MÜZİK" yasak4="VURMAK" yasak5="ÇALMAK" />
+    <kelimeler kelime="ARNAVUT CİĞERİ" yasak1="ET" yasak2="SAKATAT" yasak3="TAVA" yasak4="ORGAN" yasak5="YEMEK" />
+    <kelimeler kelime="MESELE" yasak1="ZORLUK" yasak2="KONU" yasak3="İŞ" yasak4="OLAY" yasak5="SORUN" />
+    <kelimeler kelime="REHAVET" yasak1="YORGUN" yasak2="YEMEK" yasak3="ÇÖKMEK" yasak4="AĞIRLIK" yasak5="UYKU" />
+    <kelimeler kelime="TRANSFER" yasak1="FUTBOL" yasak2="OYUNCU" yasak3="PARA" yasak4="TAKIM" yasak5="ALMAK" />
+    <kelimeler kelime="BULANIK" yasak1="KİRLİ" yasak2="ÇAMURLU" yasak3="TEMİZ" yasak4="DURU" yasak5="SU" />
+    <kelimeler kelime="SUSHI" yasak1="ÇUBUK" yasak2="PİRİNÇ" yasak3="ÇİĞ BALIK" yasak4="YEMEK" yasak5="JAPON" />
+    <kelimeler kelime="İLLET" yasak1="KÖTÜ" yasak2="DEVA" yasak3="SİNİR" yasak4="SORUN" yasak5="HASTALIK" />
+    <kelimeler kelime="KABZIMAL" yasak1="ARACI" yasak2="SATMAK" yasak3="HAL" yasak4="SEBZE" yasak5="MEYVE" />
+    <kelimeler kelime="ŞAMDAN" yasak1="DERGİ" yasak2="YAKMAK" yasak3="AYDINLIK" yasak4="IŞIK" yasak5="MUM" />
+    <kelimeler kelime="HARABE" yasak1="GEZMEK" yasak2="EFES" yasak3="TARİHİ" yasak4="ESKİ" yasak5="YIKIK" />
+    <kelimeler kelime="DEKONT" yasak1="ÖDEME" yasak2="HAVALE" yasak3="BANKA" yasak4="BELGE" yasak5="PARA" />
+    <kelimeler kelime="MP3" yasak1="DİNLEMEK" yasak2="YÜKLEMEK" yasak3="İNDİRMEK" yasak4="ŞARKI" yasak5="MÜZİK" />
+    <kelimeler kelime="KURDEŞEN" yasak1="DÖKMEK" yasak2="CİLT" yasak3="İSİLİK" yasak4="KAŞINMAK" yasak5="ALERJİ" />
+    <kelimeler kelime="ANTRİKOT" yasak1="PİRZOLA" yasak2="KEMİK" yasak3="DANA" yasak4="SIĞIR" yasak5="ET" />
+    <kelimeler kelime="KALDIRAÇ" yasak1="TAHTEREVALLİ" yasak2="DENGE" yasak3="AŞAĞI" yasak4="YUKARI" yasak5="PARK" />
+    <kelimeler kelime="KIPIRDAMAK" yasak1="CANLI" yasak2="OYNAMAK" yasak3="SABİT" yasak4="HARAKET" yasak5="DURMAK" />
+    <kelimeler kelime="GİZLİ" yasak1="SAKLI" yasak2="ARAMAK" yasak3="BULMAK" yasak4="BİLMEK" yasak5="GÖRMEK" />
+    <kelimeler kelime="FALİYET" yasak1="ETKİNLİK" yasak2="ÇALIŞMAK" yasak3="GÖSTERMEK" yasak4="RAPOR" yasak5="YASA DIŞI" />
+    <kelimeler kelime="KELEPÇE" yasak1="POLİS" yasak2="SUÇLU" yasak3="YAKALAMAK" yasak4="TAKMAK" yasak5="EL" />
+    <kelimeler kelime="SERAMİK" yasak1="KİL" yasak2="FIRIN" yasak3="PORSELEN" yasak4="TABAK" yasak5="TOPRAK" />
+    <kelimeler kelime="SİKLET" yasak1="AĞIR" yasak2="HAFİF" yasak3="TÜY" yasak4="BOKS" yasak5="GÜREŞ" />
+    <kelimeler kelime="SIĞ" yasak1="BOY" yasak2="YÜZMEK" yasak3="KIYI" yasak4="DENİZ" yasak5="DERİN" />
+    <kelimeler kelime="HECE" yasak1="KELİME" yasak2="HARF" yasak3="SES" yasak4="OKUMAK" yasak5="YAZI" />
+    <kelimeler kelime="MEKİK DOKUMAK" yasak1="GİTMEK" yasak2="GELMEK" yasak3="SÜREKLİ" yasak4="YER" yasak5="TEKRAR" />
+    <kelimeler kelime="MÜTEVAZI" yasak1="GÖSTERİŞSİZ" yasak2="İDDİASIZ" yasak3="KİBAR" yasak4="ÖĞÜNMEK" yasak5="ALÇAK GÖNÜLLÜ" />
+    <kelimeler kelime="TESELLİ" yasak1="ÜZÜLMEK" yasak2="AVUTMAK" yasak3="PİYANGO" yasak4="ETMEK" yasak5="DERT" />
+    <kelimeler kelime="SANMAK" yasak1="TAHMİN" yasak2="ZANNETMEK" yasak3="DÜŞÜNMEK" yasak4="EMİN OLMAK" yasak5="BİLMEK" />
+    <kelimeler kelime="DEVŞİRME" yasak1="OSMANLI" yasak2="ASKER" yasak3="ÇOCUK" yasak4="YABANCI" yasak5="ERKEK" />
+    <kelimeler kelime="İÇLİ KÖFTE" yasak1="KIZARTMAK" yasak2="DIŞ" yasak3="KIYMA" yasak4="YEMEK" yasak5="GAZİANTEP" />
+    <kelimeler kelime="KORT" yasak1="TENİS" yasak2="RAKET" yasak3="SPOR" yasak4="SAHA" yasak5="OYNAMAK" />
+    <kelimeler kelime="ARBEDE" yasak1="KARIŞIKLIK" yasak2="KARGAŞA" yasak3="KAOS" yasak4="KAVGA" yasak5="İZDİHAM" />
+    <kelimeler kelime="SANDVİÇ" yasak1="PEYNİR" yasak2="DOMATES" yasak3="YEMEK" yasak4="ACIKMAK" yasak5="EKMEK ARASI" />
+    <kelimeler kelime="DOĞAÇLAMA" yasak1="MÜZİK" yasak2="ÇALMAK" yasak3="SPONTANE" yasak4="AN" yasak5="ÖNCE" />
+    <kelimeler kelime="LOSYON" yasak1="KREM" yasak2="VÜCUT" yasak3="JİLET" yasak4="SÜRMEK" yasak5="TIRAŞ" />
+    <kelimeler kelime="METOT" yasak1="DEFTER" yasak2="HARİTA" yasak3="TARZ" yasak4="YÖNTEM" yasak5="YOL" />
+    <kelimeler kelime="AVANTA" yasak1="EMEK" yasak2="VERMEK" yasak3="PARA" yasak4="RÜŞVET" yasak5="KAZANÇ" />
+    <kelimeler kelime="ZİHNİYET" yasak1="BAKIŞ" yasak2="KAFA" yasak3="ANLAYIŞ" yasak4="DÜŞÜNCE" yasak5="GÖRÜŞ" />
+    <kelimeler kelime="TÜNEK" yasak1="DURMAK" yasak2="OTURMAK" yasak3="YUVA" yasak4="DAL" yasak5="KUŞ" />
+    <kelimeler kelime="SONDA" yasak1="TUVALET" yasak2="HORTUM" yasak3="İDRAR" yasak4="ÇEKME" yasak5="SIVI" />
+    <kelimeler kelime="KOLONİ" yasak1="ÜLKE" yasak2="SÖMÜRGE" yasak3="GÖÇMEN" yasak4="TOPLULUK" yasak5="İNGİLTERE" />
+    <kelimeler kelime="İSKONTO" yasak1="SENET" yasak2="EKSİK" yasak3="AZ" yasak4="TENZİLAT" yasak5="İNDİRİM" />
+    <kelimeler kelime="KONSOMATRİS" yasak1="PARA" yasak2="MASA" yasak3="PAVYON" yasak4="EŞLİK ETMEK" yasak5="KADIN" />
+    <kelimeler kelime="GÜRUH" yasak1="TOPLU" yasak2="YIĞIN" yasak3="İNSAN" yasak4="GRUP" yasak5="KALABALIK" />
+    <kelimeler kelime="MİTHAT BEREKET" yasak1="32. GÜN" yasak2="PROGRAM" yasak3="TELEVİZYON" yasak4="HABER" yasak5="PUSULA" />
+    <kelimeler kelime="HİPOTENÜS" yasak1="ÜÇGEN" yasak2="AÇI" yasak3="GEOMETRİK" yasak4="DİK" yasak5="90 DERECE" />
+    <kelimeler kelime="AĞIZ DALAŞI" yasak1="LAF" yasak2="SÖZ" yasak3="TARTIŞMA" yasak4="ATIŞMA" yasak5="KAVGA" />
+    <kelimeler kelime="MÜPTELA" yasak1="TİRYAKİ" yasak2="SİGARA" yasak3="ALKOL" yasak4="İSTEMEK" yasak5="BAĞIMLI" />
+    <kelimeler kelime="SHERLOCK HOLMES" yasak1="DEDEKTİF" yasak2="WATSON" yasak3="İNGİLİZ" yasak4="KİTAP" yasak5="PİPO" />
+    <kelimeler kelime="SHAMELESS" yasak1="DİZİ" yasak2="YABANCI" yasak3="SEKS" yasak4="FİONA" yasak5="FRANK" />
+    <kelimeler kelime="AMİRAL BATTI" yasak1="OYUN" yasak2="GEMİ" yasak3="BULMAK" yasak4="YER" yasak5="KOORDİNAT" />
+    <kelimeler kelime="GAME OF THRONES" yasak1="KHALEESİ" yasak2="STARK" yasak3="EJDERHA" yasak4="JON SNOW" yasak5="LANNISTER" />
+    <kelimeler kelime="MERDİVEN" yasak1="BASAMAK" yasak2="KAT" yasak3="ÇIKMAK" yasak4="İNMEK" yasak5="ASANSÖR" />
+    <kelimeler kelime="KONFETİ" yasak1="RENKLİ" yasak2="SERPME" yasak3="BALO" yasak4="DÜĞÜN" yasak5="SAHNE" />
+    <kelimeler kelime="LÜFER" yasak1="BALIK" yasak2="IZGARA" yasak3="LEZZET" yasak4="ROKA" yasak5="RAKI" />
+    <kelimeler kelime="MİKROFON" yasak1="CİHAZ" yasak2="SES" yasak3="SAHNE" yasak4="ELEKTRONİK" yasak5="YAKA" />
+    <kelimeler kelime="MÜZİK" yasak1="NOTA" yasak2="ŞARKI" yasak3="ENSTRÜMAN" yasak4="ÇALMAK" yasak5="SANAT" />
+    <kelimeler kelime="MERHEM" yasak1="İLAÇ" yasak2="YARA" yasak3="TEDAVİ" yasak4="ÇARE" yasak5="KIVAM" />
+    <kelimeler kelime="BALAYI" yasak1="MUTLULUK" yasak2="DÜĞÜN" yasak3="ÇİFT" yasak4="TATİL" yasak5="EVLİ" />
+    <kelimeler kelime="KLASÖR" yasak1="EVRAK" yasak2="DÜZENLEME" yasak3="SAKLAMA" yasak4="MUKAVVA" yasak5="ZIMBA" />
+    <kelimeler kelime="YOKUŞ" yasak1="EĞİM" yasak2="DİK" yasak3="TIRMANMA" yasak4="YOL" yasak5="İNİŞ" />
+    <kelimeler kelime="MÜHÜR" yasak1="DAMGA" yasak2="RESMİ" yasak3="BASMAK" yasak4="EVRAK" yasak5="MÜREKKEP" />
+    <kelimeler kelime="LOKUM" yasak1="TATLI" yasak2="PUDRA ŞEKERİ" yasak3="FINDIK" yasak4="SAFRANBOLU" yasak5="BAYRAM" />
+    <kelimeler kelime="YAŞAM" yasak1="DOĞUM" yasak2="ÖLÜM" yasak3="HAYAT" yasak4="CANLI" yasak5="YOL" />
+    <kelimeler kelime="SOYUNMA ODASI" yasak1="GİYİNME" yasak2="ELBİSE" yasak3="SPOR SALONU" yasak4="KABİN" yasak5="KOKU" />
+    <kelimeler kelime="AMAZON" yasak1="GÜNEY AMERİKA" yasak2="ORMAN" yasak3="NEHİR" yasak4="KADIN SAVAŞÇI" yasak5="YEŞİLLİK" />
+    <kelimeler kelime="BAMBU" yasak1="BOTANİK" yasak2="BİTKİ" yasak3="KAMIŞ" yasak4="MOBİLYA" yasak5="UZUN" />
+    <kelimeler kelime="SAHAF" yasak1="KİTAPÇI" yasak2="ESKİ" yasak3="KULLANILMIŞ" yasak4="ALIM SATIM" yasak5="ÇARŞI" />
+    <kelimeler kelime="ZEBRA" yasak1="PİJAMA" yasak2="ÇİZGİ" yasak3="HAYVAN" yasak4="AT" yasak5="AFRİKA" />
+    <kelimeler kelime="KÜRK" yasak1="POST" yasak2="TÜY" yasak3="VİZON" yasak4="MANDA" yasak5="HAYVAN" />
+    <kelimeler kelime="UD" yasak1="FASIL/SANAT MÜZİĞİ" yasak2="MÜZİK ALETİ" yasak3="SAZ" yasak4="GİTAR" yasak5="MÜZİK KURSU" />
+    <kelimeler kelime="DOLUNAY" yasak1="GECE" yasak2="YUVARLAK" yasak3="PARLAK" yasak4="KURT" yasak5="TAM" />
+    <kelimeler kelime="KULİS" yasak1="SAHNE" yasak2="GİZLİ KONUŞMA" yasak3="SANATÇI" yasak4="TİYATRO" yasak5="ÇALIŞMA" />
+    <kelimeler kelime="KEMER" yasak1="DERİ" yasak2="PANTOLON" yasak3="BEL" yasak4="KAYIŞ" yasak5="TOKA" />
+    <kelimeler kelime="OVA" yasak1="COĞRAFYA" yasak2="DÜZLÜK" yasak3="HAVZA" yasak4="ALÜVYON" yasak5="KONYA" />
+    <kelimeler kelime="PARTİ" yasak1="SİYASİ TOPLULUK" yasak2="FIKRA" yasak3="KISIM" yasak4="TUTAM" yasak5="EĞLENCE" />
+    <kelimeler kelime="TARAK" yasak1="SAÇ" yasak2="BAŞ" yasak3="ŞİMŞİR" yasak4="FİLDİŞİ" yasak5="TIRMIK" />
+    <kelimeler kelime="ÇORBA" yasak1="MERCİMEK" yasak2="EZOGELİN" yasak3="TAVUK SUYU" yasak4="YEMEK" yasak5="TARHANA" />
+    <kelimeler kelime="KAŞINMA" yasak1="UYARI" yasak2="ISIRIK" yasak3="MANTAR" yasak4="ARZU" yasak5="TIRNAK" />
+    <kelimeler kelime="YAKUT" yasak1="KIRMIZI" yasak2="SAYDAM" yasak3="DEĞERLİ" yasak4="TAŞ" yasak5="YÜZÜK" />
+    <kelimeler kelime="SOTE" yasak1="YEMEK" yasak2="KÜÇÜK" yasak3="DOĞRAMAK" yasak4="ET" yasak5="TAVUK" />
+    <kelimeler kelime="PASTIRMA" yasak1="KAYSERİ" yasak2="ET" yasak3="KOKU" yasak4="SICAK" yasak5="YUMURTA" />
+    <kelimeler kelime="MASKE" yasak1="YAPMA YÜZ" yasak2="SAKLAMA" yasak3="TAKMA" yasak4="GAZ" yasak5="GÜZELLİK" />
+    <kelimeler kelime="LABİRENT" yasak1="KORİDOR" yasak2="KARIŞIK" yasak3="ÇIKIŞ" yasak4="SORUN" yasak5="MEZAR" />
+    <kelimeler kelime="KILIÇ" yasak1="SİLAH" yasak2="UZUN BIÇAK" yasak3="ÇELİK" yasak4="OYUN" yasak5="BALIK" />
+    <kelimeler kelime="SEFER TAŞI" yasak1="YEMEK" yasak2="İŞ" yasak3="KAP" yasak4="METAL" yasak5="TAŞIMA" />
+    <kelimeler kelime="AHTAPOT" yasak1="DENİZ" yasak2="MÜREKKEP BALIĞI" yasak3="KOL" yasak4="VANTUZ" yasak5="TARKAN" />
+    <kelimeler kelime="HOLLANDA" yasak1="LALE" yasak2="TAHTA" yasak3="ERASMUS" yasak4="AMSTERDAM" yasak5="ÜLKE" />
+    <kelimeler kelime="KALEM KUTUSU" yasak1="OKUL" yasak2="ÖĞRENCİ" yasak3="ÇANTA" yasak4="SİLGİ" yasak5="SAKLAMA" />
+    <kelimeler kelime="KAR TOPU" yasak1="KIŞ" yasak2="OYUN" yasak3="BEYAZ" yasak4="YUVARLAK" yasak5="ÇOCUK" />
+    <kelimeler kelime="DÖNER" yasak1="İSKENDER" yasak2="ET" yasak3="TAVUK" yasak4="KEBAP" yasak5="DÜRÜM" />
+    <kelimeler kelime="NEDİME" yasak1="HANIM" yasak2="ARKADAŞ" yasak3="GELİN" yasak4="DÜĞÜN" yasak5="İSİM" />
+    <kelimeler kelime="ÇÖPÇATAN" yasak1="BİR ARAYA GETİRME" yasak2="ARACI" yasak3="ÇİFT" yasak4="EVLENME" yasak5="MATCHMAKER" />
+    <kelimeler kelime="ÇINGIRAK" yasak1="ÇAN" yasak2="ZİL" yasak3="SES" yasak4="METAL" yasak5="YILAN" />
+    <kelimeler kelime="ANGELİNA JOLIE" yasak1="SİNEMA OYUNUCUSU" yasak2="DUDAK" yasak3="OSCAR" yasak4="BRAD PITT" yasak5="GÜZELLİK" />
+    <kelimeler kelime="ÖĞÜTME" yasak1="UN" yasak2="DEĞİRMEN" yasak3="BUĞDAY" yasak4="EZMEK" yasak5="MİDE" />
+    <kelimeler kelime="BOYNUZ" yasak1="TIRNAKSI ORGAN" yasak2="KEÇİ" yasak3="BOĞA" yasak4="KANDIRMA" yasak5="ALDATMA" />
+    <kelimeler kelime="SAĞANAK" yasak1="YAĞMUR" yasak2="ISLANMA" yasak3="ŞİDDETLİ" yasak4="YAĞIŞ" yasak5="ŞEMSİYE" />
+    <kelimeler kelime="DENİZ" yasak1="TUZLU SU" yasak2="YAZ" yasak3="TATİL" yasak4="GEMİ/YAT/VAPUR" yasak5="MAYO" />
+    <kelimeler kelime="MASAJ" yasak1="SAUNA" yasak2="UZAKDOĞU" yasak3="OVMA" yasak4="RAHATLAMA" yasak5="MUTLU SON" />
+    <kelimeler kelime="KÜL TABLASI" yasak1="SİGARA" yasak2="DUMAN" yasak3="SEHPA" yasak4="ATEŞ" yasak5="KİBRİT" />
+    <kelimeler kelime="PATEN" yasak1="BUZ" yasak2="TEKERLEK" yasak3="KAYMAK" yasak4="ARTİSTİK" yasak5="GÖSTERİ" />
+    <kelimeler kelime="MASÖR" yasak1="ERKEK" yasak2="MASAJ" yasak3="OVMA" yasak4="SAUNA" yasak5="SPORCU" />
+    <kelimeler kelime="SARDUNYA" yasak1="ÇİÇEK" yasak2="BALKON" yasak3="PEMBE" yasak4="ADA" yasak5="İTALYA" />
+    <kelimeler kelime="KAFATASI" yasak1="BEYİN" yasak2="SAÇ" yasak3="KEMİK" yasak4="ARKEOLOJİ" yasak5="KAZI" />
+    <kelimeler kelime="POLİSİYE" yasak1="KİTAP" yasak2="ROMAN" yasak3="FİLM" yasak4="AGATHA CHRISTIE" yasak5="OLAY" />
+    <kelimeler kelime="KOMİSER" yasak1="GÜVENLİK" yasak2="ASAYİŞ" yasak3="POLİS" yasak4="TEŞKİLAT" yasak5="MEMUR" />
+    <kelimeler kelime="MANİKÜR" yasak1="EL" yasak2="TIRNAK" yasak3="KADIN" yasak4="BAKIM" yasak5="KUAFÖR" />
+    <kelimeler kelime="GENERAL" yasak1="ASKER" yasak2="RÜTBE" yasak3="ORDU" yasak4="GENEL KURMAY" yasak5="MAREŞAL" />
+    <kelimeler kelime="KISKANÇ" yasak1="HASET" yasak2="GÜVENSİZ" yasak3="HUY" yasak4="PAYLAŞMAYAN" yasak5="AŞIRI SEVEN" />
+    <kelimeler kelime="PROJE" yasak1="TASARIM" yasak2="PLAN" yasak3="MİMAR" yasak4="DERS" yasak5="ÜNİVERSİTE" />
+    <kelimeler kelime="BUZDOLABI" yasak1="SOĞUK" yasak2="SAKLAMA" yasak3="YİYECEK" yasak4="MUTFAK" yasak5="TELDOLAP" />
+    <kelimeler kelime="SERA" yasak1="CAM" yasak2="NAYLON" yasak3="ÇİÇEK" yasak4="SEBZE" yasak5="HAVA ŞARTLARI" />
+    <kelimeler kelime="RESMİ" yasak1="DEVLET" yasak2="FORMEL" yasak3="MÜRACAAT" yasak4="DAİRE" yasak5="CİDDİ" />
+    <kelimeler kelime="YORGAN" yasak1="ÖRTÜ" yasak2="YATAK" yasak3="KIŞ" yasak4="PİRE" yasak5="SERMEK" />
+    <kelimeler kelime="KİLO" yasak1="GRAM" yasak2="AĞIRLIK" yasak3="TARTI" yasak4="BİRİM" yasak5="ŞİŞMAN" />
+    <kelimeler kelime="TEKNOLOJİ" yasak1="BİLGİ" yasak2="YÖNTEM" yasak3="ARAÇ GEREÇ" yasak4="SANAYİ" yasak5="ELEKTRONİK" />
+    <kelimeler kelime="ÖRDEK" yasak1="SU" yasak2="GÖL" yasak3="GAGA" yasak4="KUŞ" yasak5="VAK VAK" />
+    <kelimeler kelime="KÖPRÜ" yasak1="BOĞAZ" yasak2="YAPI" yasak3="BAĞ" yasak4="KUMANDA YERİ" yasak5="PROTEZ" />
+    <kelimeler kelime="TANIŞMA" yasak1="KARŞILAŞMA" yasak2="ARKADAŞ" yasak3="YENİ" yasak4="SELAMLAŞMA" yasak5="TOKALAŞMA" />
+    <kelimeler kelime="KÖFTE" yasak1="KIYNA" yasak2="İNEGÖL" yasak3="IZGARA" yasak4="HAMBURGER" yasak5="ÇİĞ" />
+    <kelimeler kelime="ÇÖP TENEKESİ" yasak1="KOKU" yasak2="ARTIK" yasak3="BELEDİYE" yasak4="KUTFAK" yasak5="KONTEYNIR" />
+    <kelimeler kelime="KEMAL SUNAL" yasak1="FİLM" yasak2="KOMEDİ" yasak3="ŞABAN" yasak4="HABABAM SINIFI" yasak5="TOSUN PAŞA" />
+    <kelimeler kelime="UN KURABİYESİ" yasak1="YİYECEK" yasak2="TATLI" yasak3="BEYAZ" yasak4="PUDRA ŞEKERİ" yasak5="BADEM" />
+    <kelimeler kelime="LİSE" yasak1="ÖĞRENCİ" yasak2="OKUL" yasak3="ÜNİVERSİTE" yasak4="ORTA ÖĞRETİM" yasak5="İLKÖĞRETİM" />
+    <kelimeler kelime="ÇENE" yasak1="YÜZ" yasak2="DİŞ" yasak3="AĞIZ" yasak4="GEVEZE" yasak5="DÜŞÜK" />
+    <kelimeler kelime="HESAP" yasak1="MATEMATİK" yasak2="ALIŞVERİŞ" yasak3="ADİSYON" yasak4="EKONOMİ" yasak5="ÇARŞI" />
+    <kelimeler kelime="SALINCAK" yasak1="OYUN PARKI" yasak2="İP" yasak3="ÇOCUK" yasak4="BEŞİK" yasak5="HAMAK" />
+    <kelimeler kelime="SİVRİ SİNEK" yasak1="VIZILDAMA" yasak2="GECE" yasak3="KAN" yasak4="EMMEK" yasak5="SITMA" />
+    <kelimeler kelime="VEDALAŞMA" yasak1="AYRILMA" yasak2="UĞURLAMA" yasak3="TANRIYA EMANET ETME" yasak4="İLGİ KESME" yasak5="HÜZÜN" />
+    <kelimeler kelime="KUM SAATİ" yasak1="CAM" yasak2="ZAMAN" yasak3="ÖLÇME" yasak4="AKMA" yasak5="ÇEVİRME" />
+    <kelimeler kelime="ARKADAŞ" yasak1="GÜVENİLEN KİŞİ" yasak2="YAREN" yasak3="REFİK" yasak4="DOST" yasak5="KANKA" />
+    <kelimeler kelime="TAÇ" yasak1="BAŞLIK" yasak2="HÜKÜMDAR" yasak3="SÜS" yasak4="GELİN" yasak5="YAPRAK" />
+</group>
